@@ -36,3 +36,13 @@ obtain_first_index_of_routes <- function(full_information) {
   index <- obtain_index_of_route_rows(full_information)
   return(index + 2)
 }
+
+pluck_route <- function(full_information, n_route) {
+  first_index_of_routes <- obtain_first_index_of_routes(full_information)
+  first_index <- first_index_of_routes[n_route]
+  number_of_points_of_each_routes <- obtaine_number_of_points_of_each_routes(full_information)
+  last_index <- first_index + number_of_points_of_each_routes[n_route] - 1
+  route <- full_information[first_index_of_routes[n_route]:last_index, 1:4]
+  names(route) <- c("Header", "Waypoint Name", "Distance", "Leg Length")
+  return(route)
+}
