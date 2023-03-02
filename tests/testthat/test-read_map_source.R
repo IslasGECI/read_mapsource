@@ -47,4 +47,13 @@ describe("Obtaine dataframe with all waypoints", {
     first_index_of_routes <- obtain_first_index_of_routes(cameras)
     expect_equal(first_index_of_routes[1:4], expected)
   })
+  it("Obtain route 'Camino Playa Norte'", {
+    playa_norte <- tibble::tibble(
+      Header = c("Route Waypoint", 6),
+      `Waypoint Name` = c("CT-07-004-KS", "CT-07-007-KS", "CT-07-006-KS", "CT-07-005-KS", "CT-07-010-LM", "CT-07-011-LM"),
+      Distance = c("0 m", "1.4 km", "1.9 km", "3.4 km", "4.0 km", "4.5 km"),
+      `Leg Length` = c(NA, "1.4 km", "538 m", "1.5 km", "548 m", "534 m"))
+    obtained_route <- pluck_route(cameras, 3)
+    expect_equal(obtained_route, playa_norte)
+  })
 })
