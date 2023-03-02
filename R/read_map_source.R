@@ -24,3 +24,10 @@ obtain_just_waypoints <- function(full_information) {
   last_index_of_waypoints <- index[1] - 2
   return(full_information[1:last_index_of_waypoints, ])
 }
+
+obtain_names_of_routes <- function(full_information) {
+  index <- obtain_index_of_route_rows(full_information)
+  names_of_routes <- full_information[index, ] %>%
+    .$Name
+  return(names_of_routes)
+}
