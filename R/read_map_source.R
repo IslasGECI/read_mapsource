@@ -31,3 +31,8 @@ obtain_names_of_routes <- function(full_information) {
     .$Name
   return(names_of_routes)
 }
+
+obtain_first_index_of_routes <- function(full_information) {
+  index <- obtain_index_of_route_rows(full_information)
+  return(index + 2)
+}
