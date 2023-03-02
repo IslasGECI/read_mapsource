@@ -42,4 +42,9 @@ describe("Obtaine dataframe with all waypoints", {
       .$Name
     expect_equal(obtained_first_id, first_id)
   })
+  it("First waypoint of each route", {
+    expected <- c(232, 236, 240, 248)
+    first_index_of_routes <- obtain_first_index_of_routes(cameras)
+    expect_equal(first_index_of_routes[1:4], expected)
+  })
 })
