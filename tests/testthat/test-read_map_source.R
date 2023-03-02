@@ -19,7 +19,7 @@ describe("Obtaine number of points for each route", {
     cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
     rows_of_route <- obtain_index_of_route_rows(cameras)
     number_of_points <- obtaine_number_of_points_of_each_routes(cameras)
-    expected <- c(2,2,6,3)
+    expected <- c(2, 2, 6, 3)
     expect_equal(number_of_points[1:4], expected)
   })
 })
