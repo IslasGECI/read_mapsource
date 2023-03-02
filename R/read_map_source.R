@@ -1,3 +1,6 @@
+#' @importFrom magrittr %>%
+
+#' @export
 read_ms <- function(path) {
   return(readr::read_tsv(path, skip = 3, show_col_types = FALSE))
 }
@@ -15,6 +18,7 @@ obtaine_number_of_points_of_each_routes <- function(waypoints) {
   return(n_points)
 }
 
+#' @export
 obtain_just_waypoints <- function(full_information) {
   index <- obtain_index_of_route_rows(full_information)
   last_index_of_waypoints <- index[1] - 2
