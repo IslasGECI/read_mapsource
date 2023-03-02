@@ -22,3 +22,14 @@ describe("Obtaine number of points for each route", {
     expect_equal(number_of_points[1:4], expected)
   })
 })
+
+describe("Obtaine dataframe with all waypoints", {
+  it("Waypoints of cameras", {
+    expected_last_id <- "CT-07-011-LM"
+    waypoints <- obtaine_just_waypoints(cameras)
+    obtained_last_id <- waypoints |>
+      slide(n()) %>%
+      .$Name
+    expect_equal(obtained_last_id, expected_last_id)
+  })
+})
