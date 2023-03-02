@@ -1,0 +1,693 @@
+Grid	UTM
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	CA-01-001-CA		User Waypoint	11 R 375311 3196733					Symbol & Name	Unknown	Waypoint					10/9/2017 3:38:12 PM 		
+Waypoint	CA-01-001-ED		User Waypoint	11 R 375241 3196000	124 m				Symbol & Name	Unknown	Flag, Red					6/20/2021 10:42:32 AM 		
+Waypoint	CA-01-002-CA		User Waypoint	11 R 375555 3197590					Symbol & Name	Unknown	Waypoint					10/9/2017 3:38:43 PM 		
+Waypoint	CA-01-002-EF		User Waypoint	11 R 375272 3196006	123 m				Symbol & Name	Unknown	Flag, Red					6/20/2021 10:35:51 AM 		
+Waypoint	CA-01-003-CA		User Waypoint	11 R 375638 3198565					Symbol & Name	Unknown	Waypoint					10/9/2017 3:39:32 PM 		
+Waypoint	CA-01-003-OD		User Waypoint	11 R 374955 3196642	139 m				Symbol & Name	Unknown	Flag, Red					6/20/2021 10:17:55 AM 		
+Waypoint	CA-01-004-CA		User Waypoint	11 R 376077 3199390					Symbol & Name	Unknown	Waypoint					10/9/2017 3:39:59 PM 		
+Waypoint	CA-01-004-OF		User Waypoint	11 R 374973 3196648	145 m				Symbol & Name	Unknown	Flag, Red					6/20/2021 10:23:23 AM 		
+Waypoint	CA-01-005-CA		User Waypoint	11 R 376045 3200225					Symbol & Name	Unknown	Waypoint					10/9/2017 3:40:29 PM 		
+Waypoint	CA-01-006-CA		User Waypoint	11 R 375236 3200753					Symbol & Name	Unknown	Waypoint					10/9/2017 3:41:00 PM 		
+Waypoint	CA-02-007-CA		User Waypoint	11 R 375491 3201613					Symbol & Name	Unknown	Waypoint					10/9/2017 3:41:28 PM 		
+Waypoint	CA-02-008-CA		User Waypoint	11 R 375937 3202460					Symbol & Name	Unknown	Waypoint					10/9/2017 3:42:00 PM 		
+Waypoint	CA-02-009-CA		User Waypoint	11 R 376503 3203157					Symbol & Name	Unknown	Waypoint					10/9/2017 3:42:27 PM 		
+Waypoint	CA-02-010-CA		User Waypoint	11 R 376552 3203709					Symbol & Name	Unknown	Waypoint					10/9/2017 3:43:00 PM 		
+Waypoint	CA-03-011-CA		User Waypoint	11 R 376105 3204567					Symbol & Name	Unknown	Waypoint					10/9/2017 3:43:27 PM 		
+Waypoint	CA-03-012-CA		User Waypoint	11 R 376679 3204890					Symbol & Name	Unknown	Waypoint					6/6/2021 3:51:09 PM 		
+Waypoint	CA-03-013-CA		User Waypoint	11 R 377030 3205568					Symbol & Name	Unknown	Waypoint					10/9/2017 3:44:20 PM 		
+Waypoint	CA-03-014-CA		User Waypoint	11 R 377553 3206074					Symbol & Name	Unknown	Waypoint					10/9/2017 3:44:47 PM 		
+Waypoint	CA-03-015-CA		User Waypoint	11 R 378092 3206226					Symbol & Name	Unknown	Waypoint					10/9/2017 3:45:11 PM 		
+Waypoint	CA-03-016-CA		User Waypoint	11 R 378018 3207028					Symbol & Name	Unknown	Waypoint					10/9/2017 3:45:32 PM 		
+Waypoint	CA-03-017-CA		User Waypoint	11 R 378060 3207984					Symbol & Name	Unknown	Waypoint					10/9/2017 3:46:28 PM 		
+Waypoint	CA-03-018-CA		User Waypoint	11 R 377701 3208818					Symbol & Name	Unknown	Waypoint					10/9/2017 3:46:53 PM 		
+Waypoint	CA-03-019-CA		User Waypoint	11 R 377368 3209599					Symbol & Name	Unknown	Waypoint					6/6/2021 3:53:39 PM 		
+Waypoint	CA-03-020-CA		User Waypoint	11 R 376564 3210201					Symbol & Name	Unknown	Waypoint					6/6/2021 3:55:14 PM 		
+Waypoint	CA-03-021-CA		User Waypoint	11 R 375781 3210807					Symbol & Name	Unknown	Waypoint					6/6/2021 3:55:52 PM 		
+Waypoint	CA-04-022-CA		User Waypoint	11 R 376083 3211390					Symbol & Name	Unknown	Waypoint					6/6/2021 3:57:38 PM 		
+Waypoint	CA-04-023-CA		User Waypoint	11 R 375750 3212148					Symbol & Name	Unknown	Waypoint					6/6/2021 3:58:41 PM 		
+Waypoint	CA-04-024-CA		User Waypoint	11 R 375166 3212910					Symbol & Name	Unknown	Waypoint					6/6/2021 3:59:20 PM 		
+Waypoint	CA-04-025-CA		User Waypoint	11 R 374874 3213653					Symbol & Name	Unknown	Waypoint					6/6/2021 3:59:49 PM 		
+Waypoint	CA-04-026-CA		User Waypoint	11 R 374282 3214159					Symbol & Name	Unknown	Waypoint					6/6/2021 4:00:21 PM 		
+Waypoint	CA-04-027-CA		User Waypoint	11 R 373974 3215014					Symbol & Name	Unknown	Waypoint					6/6/2021 4:00:48 PM 		
+Waypoint	CA-04-028-CA		User Waypoint	11 R 373891 3215997					Symbol & Name	Unknown	Waypoint					6/6/2021 4:01:17 PM 		
+Waypoint	CA-04-029-CA		User Waypoint	11 R 373918 3216924					Symbol & Name	Unknown	Waypoint					6/6/2021 4:01:50 PM 		
+Waypoint	CA-04-030-CA		User Waypoint	11 R 373151 3217342					Symbol & Name	Unknown	Waypoint					6/6/2021 4:02:19 PM 		
+Waypoint	CA-04-031-CA		User Waypoint	11 R 373212 3218239					Symbol & Name	Unknown	Waypoint					6/6/2021 4:02:49 PM 		
+Waypoint	CA-04-032-CA		User Waypoint	11 R 372543 3218939					Symbol & Name	Unknown	Waypoint					6/6/2021 4:03:17 PM 		
+Waypoint	CA-04-033-CA		User Waypoint	11 R 372149 3219771					Symbol & Name	Unknown	Waypoint					6/6/2021 4:03:51 PM 		
+Waypoint	CA-04-034-CA		User Waypoint	11 R 371420 3220438					Symbol & Name	Unknown	Waypoint					6/6/2021 4:06:14 PM 		
+Waypoint	CA-04-035-CA		User Waypoint	11 R 370783 3221181					Symbol & Name	Unknown	Waypoint					6/6/2021 4:06:44 PM 		
+Waypoint	CT-01-001-CF	Revisar	User Waypoint	11 R 376596 3199112	263 m				Symbol & Name	Unknown	Scenic Area					9/4/2019 10:22:25 AM 		
+Waypoint	CT-01-002-CF	Revisar	User Waypoint	11 R 377371 3198915	245 m				Symbol & Name	Unknown	Scenic Area					9/4/2019 10:52:03 AM 		
+Waypoint	CT-01-004-AL		User Waypoint	11 R 378596 3197903	0 m				Symbol & Name	Unknown	Scenic Area					4/7/2018 10:16:22 PM 		
+Waypoint	CT-01-005-AL		User Waypoint	11 R 377921 3198375	138 m				Symbol & Name	Unknown	Scenic Area					4/9/2019 11:12:38 AM 		
+Waypoint	CT-01-007-AG		User Waypoint	11 R 379877 3199693					Symbol & Name	Unknown	Scenic Area					9/4/2018 8:50:53 PM 		
+Waypoint	CT-01-008-VA		User Waypoint	11 R 375020 3199056	224 m				Symbol & Name	Unknown	Scenic Area					4/9/2019 10:17:11 AM 		
+Waypoint	CT-01-011-AM		User Waypoint	11 R 376550 3200038	322 m				Symbol & Name	Unknown	Flag, Red					4/9/2019 9:45:56 AM 		
+Waypoint	CT-01-012-AM		User Waypoint	11 R 377324 3200170	330 m				Symbol & Name	Unknown	Flag, Red					4/9/2019 10:07:57 AM 		
+Waypoint	CT-01-013-AG		User Waypoint	11 R 379742 3200171					Symbol & Name	Unknown	Flag, Red					9/4/2018 8:39:44 PM 		
+Waypoint	CT-01-014-NN		User Waypoint	11 R 378185 3199976	185 m				Symbol & Name	Unknown	Flag, Red					5/10/2022 9:08:27 AM 		
+Waypoint	CT-01-018-CA		User Waypoint	11 R 379058 3200544	219 m				Symbol & Name	Unknown	Flag, Red					4/9/2019 11:54:10 AM 		
+Waypoint	CT-01-019-JC		User Waypoint	11 R 375861 3200724	381 m				Symbol & Name	Unknown	Scenic Area					4/9/2019 9:31:44 AM 		
+Waypoint	CT-01-020-JC		User Waypoint	11 R 377078 3200735	380 m				Symbol & Name	Unknown	Flag, Red					4/9/2019 10:10:18 AM 		
+Waypoint	CT-01-021-JC		User Waypoint	11 R 378111 3200749	346 m				Symbol & Name	Unknown	Flag, Red					4/9/2019 10:45:14 AM 		
+Waypoint	CT-01-022-NN		User Waypoint	11 R 375679 3200264					Symbol & Name	Unknown	Flag					4/10/2019 3:59:39 PM 		
+Waypoint	CT-01-023-NN		User Waypoint	11 R 374709 3200062					Symbol & Name	Unknown	Scenic Area					4/10/2019 4:01:51 PM 		
+Waypoint	CT-01-024-NN		User Waypoint	11 R 374763 3200514					Symbol & Name	Unknown	Flag					4/10/2019 4:00:53 PM 		
+Waypoint	CT-01-025-JC		User Waypoint	11 R 377074 3201294					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:08:53 PM 		
+Waypoint	CT-01-026-JC		User Waypoint	11 R 378014 3201218					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:07:45 PM 		
+Waypoint	CT-01-027-JC		User Waypoint	11 R 379096 3201327					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:06:36 PM 		
+Waypoint	CT-01-028-LM		User Waypoint	11 R 374425 3196205					Symbol & Name	Unknown	Flag, Red					6/4/2021 11:26:12 AM 		
+Waypoint	CT-01-029-LM		User Waypoint	11 R 374420 3196155					Symbol & Name	Unknown	Flag, Red					6/4/2021 11:28:44 AM 		
+Waypoint	CT-01-030-LM		User Waypoint	11 R 374386 3196103					Symbol & Name	Unknown	Flag, Red					6/5/2021 10:20:22 AM 		
+Waypoint	CT-01-031-LM		User Waypoint	11 R 374334 3195950					Symbol & Name	Unknown	Flag, Red					6/4/2021 11:28:26 AM 		
+Waypoint	CT-01-032-LM		User Waypoint	11 R 374888 3196437					Symbol & Name	Unknown	Flag, Red					6/5/2021 10:21:00 AM 		
+Waypoint	CT-01-033-LM		User Waypoint	11 R 375033 3196057					Symbol & Name	Unknown	Flag, Red					6/5/2021 10:22:04 AM 		
+Waypoint	CT-01-034-LM		User Waypoint	11 R 374729 3195992					Symbol & Name	Unknown	Flag, Red					6/5/2021 10:22:43 AM 		
+Waypoint	CT-01-035-LM		User Waypoint	11 R 374096 3195939					Symbol & Name	Unknown	Flag, Red					6/4/2021 11:27:38 AM 		
+Waypoint	CT-01-036-LM		User Waypoint	11 R 373871 3195906					Symbol & Name	Unknown	Flag, Red					6/4/2021 11:27:09 AM 		
+Waypoint	CT-01-037-LM		User Waypoint	11 R 378956 3199085	24 m				Symbol & Name	Unknown	Scenic Area					5/10/2022 9:39:51 AM 		
+Waypoint	CT-01-038-KS		User Waypoint	11 R 379243 3199459	51 m				Symbol & Name	Unknown	Scenic Area					6/6/2022 4:20:01 PM 		
+Waypoint	CT-01-039-KS		User Waypoint	11 R 378720 3198500	42 m				Symbol & Name	Unknown	Scenic Area					6/6/2022 5:09:47 PM 		
+Waypoint	CT-02-001-JC	NO APARECE	User Waypoint	11 R 377254 3202696					Symbol & Name	Unknown	Flag, Red					4/8/2019 6:50:54 PM 		
+Waypoint	CT-02-002-JC		User Waypoint	11 R 378188 3202157	413 m				Symbol & Name	Unknown	Flag, Red					4/10/2019 7:18:52 PM 		
+Waypoint	CT-02-003-JC		User Waypoint	11 R 379173 3202418	309 m				Symbol & Name	Unknown	Flag, Red					4/10/2019 6:57:38 PM 		
+Waypoint	CT-02-004-JC		User Waypoint	11 R 378463 3202889	410 m				Symbol & Name	Unknown	Flag, Red					4/10/2019 6:36:55 PM 		
+Waypoint	CT-02-005-VA		User Waypoint	11 R 374969 3203245					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:12:12 PM 		
+Waypoint	CT-02-006-VA		User Waypoint	11 R 374693 3203785					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:13:25 PM 		
+Waypoint	CT-02-007-VA		User Waypoint	11 R 374838 3204477					Symbol & Name	Unknown	Scenic Area					4/10/2019 4:15:17 PM 		
+Waypoint	CT-02-008-VA		User Waypoint	11 R 375249 3204456					Symbol & Name	Unknown	Scenic Area					4/10/2019 4:14:19 PM 		
+Waypoint	CT-02-009-AM		User Waypoint	11 R 377566 3203890					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:46:41 PM 		
+Waypoint	CT-02-010-AM		User Waypoint	11 R 378239 3203805					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:47:55 PM 		
+Waypoint	CT-02-011-AM		User Waypoint	11 R 378858 3203735					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:51:15 PM 		
+Waypoint	CT-02-012-AL		User Waypoint	11 R 379389 3203796					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:19:07 PM 		
+Waypoint	CT-02-013-AL		User Waypoint	11 R 379977 3203821					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:20:09 PM 		
+Waypoint	CT-02-014-AL		User Waypoint	11 R 380536 3203863					Symbol & Name	Unknown	Flag, Red					4/10/2019 4:21:12 PM 		
+Waypoint	CT-02-015-MA		User Waypoint	11 R 380028 3204514	216 m				Symbol & Name	Unknown	Flag, Red					4/11/2019 12:52:16 PM 		
+Waypoint	CT-02-016-AM		User Waypoint	11 R 379896 3205021	201 m				Symbol & Name	Unknown	Flag, Red					4/11/2019 12:20:19 PM 		
+Waypoint	CT-02-017-CA		User Waypoint	11 R 379539 3204881	279 m				Symbol & Name	Unknown	Flag, Red					4/11/2019 11:15:53 AM 		
+Waypoint	CT-02-018-CA		User Waypoint	11 R 379372 3204631					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:54:29 PM 		
+Waypoint	CT-02-019-CA		User Waypoint	11 R 378530 3204639					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:55:57 PM 		
+Waypoint	CT-02-020-CA		User Waypoint	11 R 377740 3204683					Symbol & Name	Unknown	Flag, Red					4/10/2019 3:56:36 PM 		
+Waypoint	CT-02-021-CA		User Waypoint	11 R 379099 3205023	333 m				Symbol & Name	Unknown	Flag, Red					4/11/2019 11:45:47 AM 		
+Waypoint	CT-02-022-CA		User Waypoint	11 R 378081 3205105					Symbol & Name	Unknown	Flag, Red					4/8/2019 5:46:08 PM 		
+Waypoint	CT-02-023-NN		User Waypoint	11 R 374462 3202868					Symbol & Name	Unknown	Flag, Red					12/2/2018 12:23:55 PM 		
+Waypoint	CT-02-024-NN		User Waypoint	11 R 374947 3202206					Symbol & Name	Unknown	Flag, Red					12/2/2018 12:24:28 PM 		
+Waypoint	CT-02-079-MD		User Waypoint	11 R 377593 3205001					Symbol & Name	Unknown	Flag, Red					10/11/2019 6:29:54 PM 		
+Waypoint	CT-03-001-MD		User Waypoint	11 R 376945 3205027					Symbol & Name	Unknown	Scenic Area					10/11/2019 6:28:28 PM 		
+Waypoint	CT-03-002-FM		User Waypoint	11 R 378549 3205651					Symbol & Name	Unknown	Scenic Area					10/10/2019 6:15:09 PM 		
+Waypoint	CT-03-003-FM		User Waypoint	11 R 379011 3205923					Symbol & Name	Unknown	Scenic Area					10/10/2019 6:17:43 PM 		
+Waypoint	CT-03-004-FM		User Waypoint	11 R 379380 3205916					Symbol & Name	Unknown	Scenic Area					10/10/2019 6:19:14 PM 		
+Waypoint	CT-03-005-FM		User Waypoint	11 R 379904 3205855					Symbol & Name	Unknown	Scenic Area					10/10/2019 6:21:06 PM 		
+Waypoint	CT-03-006-NN		User Waypoint	11 R 380182 3205976					Symbol & Name	Unknown	Flag, Red					10/14/2019 3:49:48 PM 		
+Waypoint	CT-03-007-NN		User Waypoint	11 R 380000 3205634					Symbol & Name	Unknown	Flag, Red					10/14/2019 3:52:15 PM 		
+Waypoint	CT-03-008-MD		User Waypoint	11 R 377514 3205677					Symbol & Name	Unknown	Flag, Red					10/11/2019 6:27:25 PM 		
+Waypoint	CT-03-009-MD		User Waypoint	11 R 375971 3205982					Symbol & Name	Unknown	Flag, Red					10/11/2019 6:25:40 PM 		
+Waypoint	CT-03-010-AM		User Waypoint	11 R 378331 3206568	478 m				Symbol & Name	Unknown	Scenic Area					10/10/2019 10:37:08 AM 		
+Waypoint	CT-03-011-AM		User Waypoint	11 R 378784 3206502	415 m				Symbol & Name	Unknown	Scenic Area					10/10/2019 11:08:25 AM 		
+Waypoint	CT-03-012-AM		User Waypoint	11 R 379112 3206595	382 m				Symbol & Name	Unknown	Flag, Red					10/10/2019 11:37:36 AM 		
+Waypoint	CT-03-013-AM		User Waypoint	11 R 379438 3206593	298 m				Symbol & Name	Unknown	Scenic Area					10/10/2019 12:25:02 PM 		
+Waypoint	CT-03-014-AM		User Waypoint	11 R 379653 3206547	254 m				Symbol & Name	Unknown	Scenic Area					10/10/2019 12:52:39 PM 		
+Waypoint	CT-03-015-NN		User Waypoint	11 R 380199 3206397					Symbol & Name	Unknown	Flag, Red					10/14/2019 3:47:52 PM 		
+Waypoint	CT-03-016-AR		User Waypoint	11 R 378636 3207266					Symbol & Name	Unknown	Flag, Red					10/11/2019 6:34:43 PM 		
+Waypoint	CT-03-017-AR		User Waypoint	11 R 379072 3207296					Symbol & Name	Unknown	Scenic Area					10/11/2019 6:36:22 PM 		
+Waypoint	CT-03-018-AR		User Waypoint	11 R 379507 3207193	279 m				Symbol & Name	Unknown	Scenic Area					6/7/2022 8:19:11 AM 		
+Waypoint	CT-03-019-AR		User Waypoint	11 R 380009 3207168					Symbol & Name	Unknown	Flag, Red					10/11/2019 6:38:22 PM 		
+Waypoint	CT-03-020-NN		User Waypoint	11 R 380084 3206952					Symbol & Name	Unknown	Flag, Red					10/14/2019 3:43:57 PM 		
+Waypoint	CT-03-021-KR		User Waypoint	11 R 378286 3207725					Symbol & Name	Unknown	Flag, Red					10/10/2019 7:28:23 PM 		
+Waypoint	CT-03-022-KR		User Waypoint	11 R 378654 3207757					Symbol & Name	Unknown	Flag, Red					10/10/2019 7:29:22 PM 		
+Waypoint	CT-03-023-KR		User Waypoint	11 R 379264 3207681					Symbol & Name	Unknown	Flag, Red					10/10/2019 7:30:05 PM 		
+Waypoint	CT-03-024-EM		User Waypoint	11 R 377497 3208086					Symbol & Name	Unknown	Flag, Red					10/11/2019 1:05:49 PM 		
+Waypoint	CT-03-025-EM		User Waypoint	11 R 377926 3208284					Symbol & Name	Unknown	Flag, Red					10/11/2019 1:07:00 PM 		
+Waypoint	CT-03-026-EM		User Waypoint	11 R 378571 3208469					Symbol & Name	Unknown	Flag, Red					10/11/2019 1:08:31 PM 		
+Waypoint	CT-03-027-EM		User Waypoint	11 R 379124 3208464					Symbol & Name	Unknown	Flag, Red					10/11/2019 1:10:33 PM 		
+Waypoint	CT-03-028-EM		User Waypoint	11 R 379636 3208617					Symbol & Name	Unknown	Flag, Red					10/11/2019 1:12:35 PM 		
+Waypoint	CT-03-029-JV		User Waypoint	11 R 376457 3207349	763 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 10:48:30 AM 		
+Waypoint	CT-03-030-JV		User Waypoint	11 R 376637 3207298	729 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 10:59:17 AM 		
+Waypoint	CT-03-031-JV		User Waypoint	11 R 376761 3207090	701 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:18:13 AM 		
+Waypoint	CT-03-032-JV		User Waypoint	11 R 376971 3206983	677 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:44:41 AM 		
+Waypoint	CT-03-033-JV		User Waypoint	11 R 377119 3206932	663 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:53:28 AM 		
+Waypoint	CT-03-034-AR		User Waypoint	11 R 376562 3208148	780 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:36:21 AM 		
+Waypoint	CT-03-035-AR		User Waypoint	11 R 376778 3208127	730 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:19:25 AM 		
+Waypoint	CT-03-036-AR		User Waypoint	11 R 376968 3208027	708 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:55:55 AM 		
+Waypoint	CT-03-037-AR		User Waypoint	11 R 377114 3207851	685 m				Symbol & Name	Unknown	Flag, Red					11/26/2019 12:05:00 PM 		
+Waypoint	CT-03-038-AR		User Waypoint	11 R 377394 3207807	670 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 12:18:12 PM 		
+Waypoint	CT-03-039-AR		User Waypoint	11 R 377632 3207586	652 m	0.0 m			Symbol & Name	Unknown	Scenic Area					7/5/2022 7:11:57 PM 		
+Waypoint	CT-03-040-KR		User Waypoint	11 R 376561 3207726	750 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:04:49 AM 		
+Waypoint	CT-03-041-KR		User Waypoint	11 R 376916 3207730	716 m				Symbol & Name	Unknown	Scenic Area					8/3/2022 4:48:22 PM 		
+Waypoint	CT-03-042-KR		User Waypoint	11 R 377018 3207694	692 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:38:54 AM 		
+Waypoint	CT-03-043-KR		User Waypoint	11 R 377247 3207576	662 m				Symbol & Name	Unknown	Scenic Area					11/26/2019 11:52:41 AM 		
+Waypoint	CT-03-044-KR		User Waypoint	11 R 377401 3207521					Symbol & Name	Unknown	Scenic Area					10/10/2019 7:30:41 PM 		
+Waypoint	CT-03-045-LM		User Waypoint	11 R 380117 3205960	114 m				Symbol & Name	Unknown	Scenic Area					11/19/2021 8:45:02 AM 		
+Waypoint	CT-03-046-LM		User Waypoint	11 R 379871 3207229	129 m				Symbol & Name	Unknown	Scenic Area					6/7/2022 9:18:58 AM 		
+Waypoint	CT-03-047-LM		User Waypoint	11 R 380200 3207397	9 m				Symbol & Name	Unknown	Scenic Area					6/7/2022 9:00:37 AM 		
+Waypoint	CT-03-048-KS		User Waypoint	11 R 379259 3206429					Symbol & Name	Unknown	Scenic Area					5/12/2022 7:19:09 PM 		
+Waypoint	CT-03-049-KS		User Waypoint	11 R 377680 3205751	435 m				Symbol & Name	Unknown	Scenic Area					7/5/2022 5:23:18 PM 		
+Waypoint	CT-03-050-LM		User Waypoint	11 R 376365 3208528	827 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 7:59:42 AM 		
+Waypoint	CT-03-051-LM		User Waypoint	11 R 376209 3208280	871 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:15:45 AM 		
+Waypoint	CT-03-052-LM		User Waypoint	11 R 375906 3208197	927 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:30:31 AM 		
+Waypoint	CT-03-053-LM		User Waypoint	11 R 375773 3207986	918 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:37:53 AM 		
+Waypoint	CT-03-054-IM		User Waypoint	11 R 375783 3210214	569 m				Symbol & Name	Unknown	Navaid, Amber					7/12/2022 7:34:26 AM 		
+Waypoint	CT-03-055-IM		User Waypoint	11 R 376324 3209467	621 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 7:59:04 AM 		
+Waypoint	CT-03-056-IM		User Waypoint	11 R 376174 3209326	644 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:11:43 AM 		
+Waypoint	CT-03-057-IM		User Waypoint	11 R 376008 3209081	709 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:27:04 AM 		
+Waypoint	CT-03-058-IM		User Waypoint	11 R 375931 3209723	607 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:46:29 AM 		
+Waypoint	CT-03-059-JV		User Waypoint	11 R 379852 3209362	114 m				Symbol & Name	Unknown	Scenic Area					9/15/2022 9:04:19 AM 		
+Waypoint	CT-03-060-JV		User Waypoint	11 R 378871 3209715	335 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:10:08 AM 		
+Waypoint	CT-03-061-KS		User Waypoint	11 R 380430 3210603	158 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 10:18:45 AM 		
+Waypoint	CT-03-062-MC		User Waypoint	11 R 379411 3209575	189 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 8:35:56 AM 		
+Waypoint	CT-03-063-MC		User Waypoint	11 R 378351 3209641	405 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 7:43:08 AM 		
+Waypoint	CT-03-064-SF		User Waypoint	11 R 375960 3208941					Symbol & Name	Unknown	Scenic Area					10/12/2022 2:58:43 PM 		
+Waypoint	CT-04-001-AL		User Waypoint	11 R 373281 3210244					Symbol & Name	Unknown	Scenic Area					4/13/2019 3:41:47 PM 		
+Waypoint	CT-04-002-AL		User Waypoint	11 R 373255 3210550	496 m				Symbol & Name	Unknown	Scenic Area					2/21/2023 11:06:31 AM 		
+Waypoint	CT-04-003-AL		User Waypoint	11 R 373477 3210456					Symbol & Name	Unknown	Scenic Area					4/13/2019 3:43:04 PM 		
+Waypoint	CT-04-004-CF		User Waypoint	11 R 372917 3206149	30 m				Symbol & Name	Unknown	Flag, Red					3/8/2021 8:49:03 AM 		
+Waypoint	CT-04-005-CF		User Waypoint	11 R 372922 3206666	55 m				Symbol & Name	Unknown	Scenic Area					3/8/2021 10:08:41 AM 		
+Waypoint	CT-04-006-CF		User Waypoint	11 R 373043 3207179	125 m				Symbol & Name	Unknown	Scenic Area					3/8/2021 8:38:24 AM 		
+Waypoint	CT-04-007-AA		User Waypoint	11 R 373023 3207715					Symbol & Name	Unknown	Scenic Area					9/15/2019 6:56:32 PM 		
+Waypoint	CT-04-008-CE		User Waypoint	11 R 373113 3208032					Symbol & Name	Unknown	Scenic Area					9/15/2019 6:58:00 PM 		
+Waypoint	CT-04-009-CE		User Waypoint	11 R 373066 3208475					Symbol & Name	Unknown	Scenic Area					9/15/2019 6:57:15 PM 		
+Waypoint	CT-04-010-CE		User Waypoint	11 R 373411 3208601					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:03:41 PM 		
+Waypoint	CT-04-011-NN		User Waypoint	11 R 373814 3208705					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:05:15 PM 		
+Waypoint	CT-04-012-NN		User Waypoint	11 R 373559 3209125					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:05:58 PM 		
+Waypoint	CT-04-013-NN		User Waypoint	11 R 373981 3209120					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:06:53 PM 		
+Waypoint	CT-04-014-JC		User Waypoint	11 R 374278 3209523					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:08:44 PM 		
+Waypoint	CT-04-015-JC		User Waypoint	11 R 374645 3209892					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:07:55 PM 		
+Waypoint	CT-04-016-JC		User Waypoint	11 R 374979 3210366					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:10:47 PM 		
+Waypoint	CT-04-017-AA		User Waypoint	11 R 373185 3206582					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:12:19 PM 		
+Waypoint	CT-04-018-AA		User Waypoint	11 R 373399 3206702					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:12:49 PM 		
+Waypoint	CT-04-019-AA		User Waypoint	11 R 373468 3207009					Symbol & Name	Unknown	Flag					10/17/2019 2:03:12 PM 		
+Waypoint	CT-04-020-NN		User Waypoint	11 R 373931 3207763					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:19:06 PM 		
+Waypoint	CT-04-021-NN		User Waypoint	11 R 373852 3207503	197 m				Symbol & Name	Unknown	Flag, Red					6/8/2022 8:17:52 AM 		
+Waypoint	CT-04-022-NN		User Waypoint	11 R 373685 3207269					Symbol & Name	Unknown	Scenic Area					9/15/2019 7:20:20 PM 		
+Waypoint	CT-04-023-JC		User Waypoint	11 R 372321 3206638					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:20:56 PM 		
+Waypoint	CT-04-024-JC		User Waypoint	11 R 372431 3206717					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:21:33 PM 		
+Waypoint	CT-04-025-JC		User Waypoint	11 R 372634 3206907					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:22:21 PM 		
+Waypoint	CT-04-026-CE		User Waypoint	11 R 373787 3206035					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:23:28 PM 		
+Waypoint	CT-04-027-CE		User Waypoint	11 R 373992 3206557					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:24:19 PM 		
+Waypoint	CT-04-028-CE		User Waypoint	11 R 374103 3206292					Symbol & Name	Unknown	Flag, Red					9/15/2019 7:25:06 PM 		
+Waypoint	CT-04-032-KS		User Waypoint	11 R 374171 3206326	166 m				Symbol & Name	Unknown	Flag, Red					7/9/2022 9:27:59 AM 		
+Waypoint	CT-04-033-KS		User Waypoint	11 R 380615 3211536	124 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 9:09:00 AM 		
+Waypoint	CT-04-034-KS		User Waypoint	11 R 380572 3211079	101 m				Symbol & Name	Unknown	Scenic Area					7/12/2022 9:37:33 AM 		
+Waypoint	CT-04-035-KS		User Waypoint	11 R 375037 3212371	696 m				Symbol & Name	Unknown	Scenic Area					7/13/2022 7:15:19 AM 		
+Waypoint	CT-04-036-KS		User Waypoint	11 R 374447 3212070	681 m				Symbol & Name	Unknown	Scenic Area					7/13/2022 7:44:47 AM 		
+Waypoint	CT-04-037-KS		User Waypoint	11 R 373946 3211812	700 m				Symbol & Name	Unknown	Scenic Area					7/13/2022 8:10:07 AM 		
+Waypoint	CT-04-038-KS		User Waypoint	11 R 373234 3211675	639 m				Symbol & Name	Unknown	Scenic Area					7/13/2022 8:41:09 AM 		
+Waypoint	CT-04-039-KS		User Waypoint	11 R 373726 3210826	542 m				Symbol & Name	Unknown	Navaid, Amber					7/13/2022 9:32:17 AM 		
+Waypoint	CT-04-040-KS		User Waypoint	11 R 377892 3211705	526 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 8:22:36 AM 		
+Waypoint	CT-04-041-KS		User Waypoint	11 R 378268 3211516	510 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 8:47:53 AM 		
+Waypoint	CT-04-042-KS		User Waypoint	11 R 378648 3211516	474 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:12:14 AM 		
+Waypoint	CT-04-043-KS		User Waypoint	11 R 379204 3211488	398 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:35:32 AM 		
+Waypoint	CT-04-044-LM		User Waypoint	11 R 374758 3207634	422 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:08:43 AM 		
+Waypoint	CT-04-045-LM		User Waypoint	11 R 374823 3207357	413 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:20:06 AM 		
+Waypoint	CT-04-046-LM		User Waypoint	11 R 374148 3207255	259 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:40:34 AM 		
+Waypoint	CT-04-047-JV		User Waypoint	11 R 372639 3212107	623 m				Symbol & Name	Unknown	Navaid, Amber					10/12/2022 8:56:15 AM 		
+Waypoint	CT-04-048-JV		User Waypoint	11 R 372520 3211607	554 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:15:36 AM 		
+Waypoint	CT-04-049-JV		User Waypoint	11 R 372505 3211174	492 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 9:33:19 AM 		
+Waypoint	CT-04-050-LM		User Waypoint	11 R 374300 3207441	282 m				Symbol & Name	Unknown	Scenic Area					10/12/2022 8:42:59 AM 		
+Waypoint	CT-05-001-LM		User Waypoint	11 R 374614 3216570	1009 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 7:39:02 AM 		
+Waypoint	CT-05-002-LM		User Waypoint	11 R 374996 3216344	957 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 7:51:10 AM 		
+Waypoint	CT-05-003-LM		User Waypoint	11 R 375409 3216228	937 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 8:04:33 AM 		
+Waypoint	CT-05-004-LM		User Waypoint	11 R 376112 3216046	877 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 8:22:33 AM 		
+Waypoint	CT-06-001-LM		User Waypoint	11 R 375981 3219919	9 m				Symbol & Name	Unknown	Scenic Area					10/5/2022 12:19:18 PM 		
+Waypoint	CT-06-002-LM		User Waypoint	11 R 375650 3219515	105 m				Symbol	Unknown	Scenic Area					11/22/2019 11:32:16 AM 		
+Waypoint	CT-06-003-SC		User Waypoint	11 R 375447 3219975	51 m				Symbol & Name	Unknown	Scenic Area					10/5/2022 10:44:51 AM 		
+Waypoint	CT-06-004-SC		User Waypoint	11 R 375164 3219869	96 m				Symbol & Name	Unknown	Scenic Area					10/5/2022 12:02:29 PM 		
+Waypoint	CT-06-005-AL		User Waypoint	11 R 371535 3221073	1042 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 7:43:34 AM 		
+Waypoint	CT-06-006-AL		User Waypoint	11 R 371847 3221324	1016 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 8:12:41 AM 		
+Waypoint	CT-07-001-JV		User Waypoint	11 R 374007 3225291	193 m				Symbol & Name	Unknown	Scenic Area					10/5/2022 11:05:04 AM 		
+Waypoint	CT-07-002-JV		User Waypoint	11 R 373632 3224976	283 m				Symbol	Unknown	Scenic Area					11/22/2019 11:43:04 AM 		
+Waypoint	CT-07-003-IM		User Waypoint	11 R 374451 3225467	90 m				Symbol & Name	Unknown	Scenic Area					10/5/2022 11:23:44 AM 		
+Waypoint	CT-07-004-KS		User Waypoint	11 R 371529 3223276	975 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 10:40:35 AM 		
+Waypoint	CT-07-005-KS		User Waypoint	11 R 372355 3223238	805 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 8:45:25 AM 		
+Waypoint	CT-07-006-KS		User Waypoint	11 R 372294 3221736	875 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 9:38:10 AM 		
+Waypoint	CT-07-007-KS		User Waypoint	11 R 371800 3221950	931 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 10:10:34 AM 		
+Waypoint	CT-07-008-AL		User Waypoint	11 R 371240 3221785	1074 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 8:46:54 AM 		
+Waypoint	CT-07-009-AL		User Waypoint	11 R 371106 3221463	1065 m				Symbol & Name	Unknown	Scenic Area					10/13/2022 9:12:41 AM 		
+Waypoint	CT-07-010-LM		User Waypoint	11 R 372890 3223357	744 m				Symbol & Name	Unknown	Scenic Area					2/27/2023 9:27:26 AM 		
+Waypoint	CT-07-011-LM		User Waypoint	11 R 373319 3223673	662 m				Symbol & Name	Unknown	Scenic Area					2/27/2023 9:46:45 AM 		
+
+
+Header	Name	Length	Course	Waypoints	Link
+
+Route	Arroyo 1	524 m	39° true	2 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-06-002-LM	0 m
+Route Waypoint	CT-06-001-LM	524 m	524 m	39° true
+
+Route	Arroyo 2	302 m	69° true	2 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-06-004-SC	0 m
+Route Waypoint	CT-06-003-SC	302 m	302 m	69° true
+
+Route	Camino Playa Norte	4.5 km	77° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-07-004-KS	0 m
+Route Waypoint	CT-07-007-KS	1.4 km	1.4 km	168° true
+Route Waypoint	CT-07-006-KS	1.9 km	538 m	113° true
+Route Waypoint	CT-07-005-KS	3.4 km	1.5 km	2° true
+Route Waypoint	CT-07-010-LM	4.0 km	548 m	77° true
+Route Waypoint	CT-07-011-LM	4.5 km	534 m	53° true
+
+Route	Costa Oeste	952 m	188° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-047-JV	0 m
+Route Waypoint	CT-04-048-JV	517 m	517 m	193° true
+Route Waypoint	CT-04-049-JV	952 m	435 m	181° true
+
+Route	Linea 1	1.6 km	119° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-001-CF	0 m
+Route Waypoint	CT-01-002-CF	800 m	800 m	104° true
+Route Waypoint	CT-01-005-AL	1.6 km	772 m	134° true
+
+Route	Linea 1 oeste	1.5 km	212° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-020-NN	0 m
+Route Waypoint	CT-04-021-NN	272 m	272 m	196° true
+Route Waypoint	CT-04-022-NN	561 m	289 m	215° true
+Route Waypoint	CT-04-019-AA	901 m	340 m	219° true
+Route Waypoint	CT-04-018-AA	1.2 km	316 m	192° true
+Route Waypoint	CT-04-017-AA	1.5 km	246 m	240° true
+
+Route	Linea 10	2.0 km	93° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-02-079-MD	0 m
+Route Waypoint	CT-02-022-CA	499 m	499 m	77° true
+Route Waypoint	CT-02-021-CA	1.5 km	1.0 km	94° true
+Route Waypoint	CT-02-017-CA	2.0 km	463 m	107° true
+
+Route	Linea 11	2.1 km	90° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-002-FM	0 m
+Route Waypoint	CT-03-003-FM	537 m	537 m	59° true
+Route Waypoint	CT-03-004-FM	905 m	369 m	90° true
+Route Waypoint	CT-03-005-FM	1.4 km	527 m	96° true
+Route Waypoint	CT-03-045-LM	1.7 km	238 m	63° true
+Route Waypoint	CT-03-006-NN	1.7 km	67 m	75° true
+Route Waypoint	CT-03-007-NN	2.1 km	389 m	207° true
+
+Route	Linea 12	2.9 km	98° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-010-AM	0 m
+Route Waypoint	CT-03-011-AM	457 m	457 m	98° true
+Route Waypoint	CT-03-012-AM	798 m	341 m	74° true
+Route Waypoint	CT-03-013-AM	1.1 km	326 m	90° true
+Route Waypoint	CT-03-014-AM	1.3 km	219 m	102° true
+Route Waypoint	CT-03-015-NN	1.9 km	566 m	105° true
+Route Waypoint	CT-03-048-KS	2.9 km	940 m	271° true
+
+Route	Linea 13	1.2 km	84° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-017-AR	0 m
+Route Waypoint	CT-03-018-AR	447 m	447 m	103° true
+Route Waypoint	CT-03-046-LM	813 m	366 m	84° true
+Route Waypoint	CT-03-047-LM	1.2 km	369 m	62° true
+
+Route	Linea 14	2.2 km	75° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-024-EM	0 m
+Route Waypoint	CT-03-025-EM	473 m	473 m	65° true
+Route Waypoint	CT-03-026-EM	1.1 km	671 m	73° true
+Route Waypoint	CT-03-027-EM	1.7 km	553 m	90° true
+Route Waypoint	CT-03-028-EM	2.2 km	534 m	73° true
+
+Route	Linea 15	884 m	283° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-044-KR	0 m
+Route Waypoint	CT-03-043-KR	164 m	164 m	289° true
+Route Waypoint	CT-03-042-KR	422 m	258 m	297° true
+Route Waypoint	CT-03-041-KR	529 m	108 m	289° true
+Route Waypoint	CT-03-040-KR	884 m	355 m	269° true
+
+Route	Linea 16	822 m	122° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-029-JV	0 m
+Route Waypoint	CT-03-030-JV	187 m	187 m	105° true
+Route Waypoint	CT-03-031-JV	430 m	243 m	149° true
+Route Waypoint	CT-03-032-JV	666 m	236 m	117° true
+Route Waypoint	CT-03-033-JV	822 m	156 m	109° true
+
+Route	Linea 17	984 m	272° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-023-KR	0 m
+Route Waypoint	CT-03-022-KR	614 m	614 m	277° true
+Route Waypoint	CT-03-021-KR	984 m	369 m	264° true
+
+Route	Linea 18	1.3 km	117° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-034-AR	0 m
+Route Waypoint	CT-03-035-AR	216 m	216 m	95° true
+Route Waypoint	CT-03-036-AR	432 m	215 m	117° true
+Route Waypoint	CT-03-037-AR	661 m	229 m	140° true
+Route Waypoint	CT-03-038-AR	944 m	283 m	98° true
+Route Waypoint	CT-03-039-AR	1.3 km	325 m	132° true
+
+Route	Linea 19 CT	2.8 km	134° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-009-MD	0 m
+Route Waypoint	CT-03-008-MD	1.6 km	1.6 km	101° true
+Route Waypoint	CT-03-049-KS	1.8 km	182 m	65° true
+Route Waypoint	CT-03-001-MD	2.8 km	1.0 km	225° true
+
+Route	Linea 2	2.4 km	206° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-019-JC	0 m
+Route Waypoint	CT-01-023-NN	1.3 km	1.3 km	239° true
+Route Waypoint	CT-01-008-VA	2.4 km	1.1 km	162° true
+
+Route	Linea 2 oeste	414 m	229° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-025-JC	0 m
+Route Waypoint	CT-04-024-JC	279 m	279 m	226° true
+Route Waypoint	CT-04-023-JC	414 m	136 m	234° true
+
+Route	Linea 3	1.7 km	92° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-011-AM	0 m
+Route Waypoint	CT-01-012-AM	784 m	784 m	80° true
+Route Waypoint	CT-01-014-NN	1.7 km	883 m	102° true
+
+Route	Linea 3 oeste	1.2 km	142° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-027-CE	0 m
+Route Waypoint	CT-04-028-CE	288 m	288 m	157° true
+Route Waypoint	CT-04-026-CE	696 m	408 m	230° true
+Route Waypoint	CT-04-032-KS	1.2 km	483 m	52° true
+
+Route	Linea 4	1.7 km	109° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-021-JC	0 m
+Route Waypoint	CT-01-018-CA	969 m	969 m	102° true
+Route Waypoint	CT-01-013-AG	1.7 km	779 m	118° true
+
+Route	Linea 5	2.6 km	73° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-020-JC	0 m
+Route Waypoint	CT-01-025-JC	561 m	561 m	359° true
+Route Waypoint	CT-01-026-JC	1.5 km	943 m	94° true
+Route Waypoint	CT-01-027-JC	2.6 km	1.1 km	84° true
+
+Route	Linea 6	3.1 km	120° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-02-001-JC	0 m
+Route Waypoint	CT-02-004-JC	1.2 km	1.2 km	80° true
+Route Waypoint	CT-02-003-JC	2.1 km	853 m	123° true
+Route Waypoint	CT-02-002-JC	3.1 km	1.0 km	254° true
+
+Route	Linea 7	3.2 km	187° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-02-008-VA	0 m
+Route Waypoint	CT-02-007-VA	411 m	411 m	272° true
+Route Waypoint	CT-02-006-VA	1.1 km	710 m	191° true
+Route Waypoint	CT-02-005-VA	1.7 km	609 m	152° true
+Route Waypoint	CT-02-023-NN	2.4 km	633 m	233° true
+Route Waypoint	CT-02-024-NN	3.2 km	823 m	143° true
+
+Route	Linea 8	3.0 km	90° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-02-009-AM	0 m
+Route Waypoint	CT-02-010-AM	678 m	678 m	97° true
+Route Waypoint	CT-02-011-AM	1.3 km	623 m	96° true
+Route Waypoint	CT-02-012-AL	1.8 km	534 m	83° true
+Route Waypoint	CT-02-013-AL	2.4 km	588 m	87° true
+Route Waypoint	CT-02-014-AL	3.0 km	560 m	85° true
+
+Route	Linea 9	2.3 km	94° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-02-020-CA	0 m
+Route Waypoint	CT-02-019-CA	791 m	791 m	93° true
+Route Waypoint	CT-02-018-CA	1.6 km	842 m	90° true
+Route Waypoint	CT-02-015-MA	2.3 km	666 m	100° true
+
+Route	Linea Aguaje	1.7 km	202° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-07-008-AL	0 m
+Route Waypoint	CT-06-006-AL	763 m	763 m	127° true
+Route Waypoint	CT-06-005-AL	1.2 km	401 m	231° true
+Route Waypoint	CT-07-009-AL	1.7 km	581 m	312° true
+
+Route	Linea camino oeste	5.7 km	25° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-004-CF	0 m
+Route Waypoint	CT-04-005-CF	519 m	519 m	0° true
+Route Waypoint	CT-04-006-CF	1.0 km	529 m	13° true
+Route Waypoint	CT-04-007-AA	1.6 km	539 m	357° true
+Route Waypoint	CT-04-008-CE	1.9 km	331 m	15° true
+Route Waypoint	CT-04-009-CE	2.4 km	447 m	353° true
+Route Waypoint	CT-04-010-CE	2.7 km	367 m	69° true
+Route Waypoint	CT-04-011-NN	3.1 km	416 m	75° true
+Route Waypoint	CT-04-012-NN	3.6 km	493 m	328° true
+Route Waypoint	CT-04-013-NN	4.1 km	422 m	90° true
+Route Waypoint	CT-04-014-JC	4.6 km	502 m	36° true
+Route Waypoint	CT-04-015-JC	5.1 km	522 m	44° true
+Route Waypoint	CT-04-016-JC	5.7 km	582 m	34° true
+
+Route	Linea Cerco adentro	3.6 km	200° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-028-LM	0 m
+Route Waypoint	CT-01-036-LM	630 m	630 m	241° true
+Route Waypoint	CT-01-035-LM	857 m	227 m	81° true
+Route Waypoint	CT-01-031-LM	1.1 km	238 m	87° true
+Route Waypoint	CT-01-034-LM	1.5 km	397 m	83° true
+Route Waypoint	CT-01-033-LM	1.8 km	311 m	77° true
+Route Waypoint	CA-01-001-ED	2.0 km	215 m	105° true
+Route Waypoint	CA-01-002-EF	2.1 km	32 m	77° true
+Route Waypoint	CA-01-004-OF	2.8 km	710 m	335° true
+Route Waypoint	CA-01-003-OD	2.8 km	20 m	253° true
+Route Waypoint	CT-01-032-LM	3.0 km	217 m	197° true
+Route Waypoint	CT-01-029-LM	3.5 km	547 m	238° true
+Route Waypoint	CT-01-030-LM	3.6 km	62 m	212° true
+
+Route	Linea Comal	1.6 km	109° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-05-001-LM	0 m
+Route Waypoint	CT-05-002-LM	444 m	444 m	120° true
+Route Waypoint	CT-05-003-LM	873 m	428 m	105° true
+Route Waypoint	CT-05-004-LM	1.6 km	727 m	104° true
+
+Route	Linea Costa 1	2.4 km	215° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-01-007-AG	0 m
+Route Waypoint	CT-01-038-KS	676 m	676 m	249° true
+Route Waypoint	CT-01-037-LM	1.1 km	473 m	217° true
+Route Waypoint	CT-01-039-KS	1.8 km	633 m	201° true
+Route Waypoint	CT-01-004-AL	2.4 km	612 m	191° true
+
+Route	Linea Costa 2	960 m	191° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-033-KS	0 m
+Route Waypoint	CT-04-034-KS	462 m	462 m	185° true
+Route Waypoint	CT-03-061-KS	960 m	498 m	196° true
+
+Route	Linea Esther 2	1.6 km	172° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-054-IM	0 m
+Route Waypoint	CT-03-058-IM	515 m	515 m	163° true
+Route Waypoint	CT-03-055-IM	985 m	470 m	123° true
+Route Waypoint	CT-03-056-IM	1.2 km	206 m	226° true
+Route Waypoint	CT-03-057-IM	1.5 km	297 m	213° true
+Route Waypoint	CT-03-064-SF	1.6 km	148 m	198° true
+
+Route	Linea Esther1	858 m	227° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-050-LM	0 m
+Route Waypoint	CT-03-051-LM	294 m	294 m	211° true
+Route Waypoint	CT-03-052-LM	608 m	314 m	254° true
+Route Waypoint	CT-03-053-LM	858 m	250 m	211° true
+
+Route	Linea Palmitas Este	1.6 km	100° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-03-063-MC	0 m
+Route Waypoint	CT-03-060-JV	525 m	525 m	81° true
+Route Waypoint	CT-03-062-MC	1.1 km	558 m	104° true
+Route Waypoint	CT-03-059-JV	1.6 km	490 m	115° true
+
+Route	Linea pista	1.4 km	99° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-040-KS	0 m
+Route Waypoint	CT-04-041-KS	421 m	421 m	116° true
+Route Waypoint	CT-04-042-KS	801 m	380 m	89° true
+Route Waypoint	CT-04-043-KS	1.4 km	556 m	92° true
+
+Route	Linea Playa Norte 2	968 m	58° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-07-002-JV	0 m
+Route Waypoint	CT-07-001-JV	491 m	491 m	49° true
+Route Waypoint	CT-07-003-IM	968 m	477 m	68° true
+
+Route	Linea Pseudoavioneta	2.0 km	248° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-035-KS	0 m
+Route Waypoint	CT-04-036-KS	662 m	662 m	242° true
+Route Waypoint	CT-04-037-KS	1.2 km	564 m	242° true
+Route Waypoint	CT-04-038-KS	2.0 km	725 m	258° true
+
+Route	Oeste 4	997 m	217° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-039-KS	0 m
+Route Waypoint	CT-04-003-AL	448 m	448 m	213° true
+Route Waypoint	CT-04-002-AL	689 m	241 m	292° true
+Route Waypoint	CT-04-001-AL	997 m	308 m	175° true
+
+Route	Palmitas Oeste	1.5 km	218° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	CT-04-050-LM	0 m
+Route Waypoint	CT-04-044-LM	498 m	498 m	66° true
+Route Waypoint	CT-04-045-LM	784 m	286 m	166° true
+Route Waypoint	CT-04-046-LM	1.5 km	683 m	261° true
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	Zona 01		0:00:00	6.4 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 380250 3201077		0 m
+Trackpoint	11 R 380020 3201185		0 m			254 m			295° true
+Trackpoint	11 R 379670 3201480		0 m			458 m			310° true
+Trackpoint	11 R 379228 3201490		0 m			442 m			271° true
+Trackpoint	11 R 378668 3201448		0 m			561 m			265° true
+Trackpoint	11 R 378427 3201361		0 m			257 m			249° true
+Trackpoint	11 R 378116 3201295		0 m			318 m			258° true
+Trackpoint	11 R 378057 3201295		0 m			59 m			269° true
+Trackpoint	11 R 377725 3201351		0 m			336 m			279° true
+Trackpoint	11 R 377301 3201490		0 m			447 m			288° true
+Trackpoint	11 R 377265 3201514		0 m			43 m			304° true
+Trackpoint	11 R 376876 3201598		0 m			398 m			282° true
+Trackpoint	11 R 376520 3201557		0 m			358 m			263° true
+Trackpoint	11 R 376472 3201547		0 m			49 m			258° true
+Trackpoint	11 R 376460 3201547		0 m			12 m			271° true
+Trackpoint	11 R 376282 3201501		0 m			183 m			255° true
+Trackpoint	11 R 375977 3201309		0 m			361 m			237° true
+Trackpoint	11 R 375587 3201420		0 m			405 m			285° true
+Trackpoint	11 R 375393 3201404		0 m			194 m			265° true
+Trackpoint	11 R 374982 3201167		0 m			475 m			239° true
+Trackpoint	11 R 374687 3201095		0 m			304 m			256° true
+Trackpoint	11 R 374379 3200747		0 m			466 m			221° true
+
+Track	Zona 02		0:00:00	6.3 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 380183 3205734		0 m
+Trackpoint	11 R 380069 3205596		0 m			179 m			219° true
+Trackpoint	11 R 379947 3205500		0 m			156 m			231° true
+Trackpoint	11 R 379770 3205518		0 m			177 m			275° true
+Trackpoint	11 R 379635 3205465		0 m			145 m			248° true
+Trackpoint	11 R 379399 3205415		0 m			241 m			257° true
+Trackpoint	11 R 379139 3205421		0 m			260 m			271° true
+Trackpoint	11 R 378982 3205452		0 m			160 m			281° true
+Trackpoint	11 R 378724 3205500		0 m			262 m			280° true
+Trackpoint	11 R 378497 3205546		0 m			232 m			281° true
+Trackpoint	11 R 378272 3205634		0 m			241 m			291° true
+Trackpoint	11 R 378034 3205638		0 m			238 m			270° true
+Trackpoint	11 R 377893 3205529		0 m			178 m			231° true
+Trackpoint	11 R 377780 3205448		0 m			139 m			234° true
+Trackpoint	11 R 377654 3205381		0 m			143 m			241° true
+Trackpoint	11 R 377458 3205288		0 m			217 m			244° true
+Trackpoint	11 R 377374 3205166		0 m			149 m			214° true
+Trackpoint	11 R 377303 3205018		0 m			165 m			205° true
+Trackpoint	11 R 377219 3204884		0 m			158 m			212° true
+Trackpoint	11 R 377080 3204805		0 m			160 m			239° true
+Trackpoint	11 R 376941 3204711		0 m			167 m			235° true
+Trackpoint	11 R 376736 3204730		0 m			206 m			275° true
+Trackpoint	11 R 376599 3204761		0 m			140 m			282° true
+Trackpoint	11 R 376518 3204831		0 m			108 m			310° true
+Trackpoint	11 R 376424 3204969		0 m			168 m			325° true
+Trackpoint	11 R 376245 3204957		0 m			179 m			266° true
+Trackpoint	11 R 376135 3204972		0 m			111 m			277° true
+Trackpoint	11 R 375889 3205057		0 m			260 m			289° true
+Trackpoint	11 R 375738 3205032		0 m			153 m			260° true
+Trackpoint	11 R 375625 3204827		0 m			235 m			208° true
+Trackpoint	11 R 375418 3204774		0 m			213 m			255° true
+Trackpoint	11 R 375270 3204792		0 m			149 m			276° true
+Trackpoint	11 R 375067 3204836		0 m			208 m			282° true
+Trackpoint	11 R 374835 3204826		0 m			232 m			267° true
+Trackpoint	11 R 374735 3204748		0 m			127 m			231° true
