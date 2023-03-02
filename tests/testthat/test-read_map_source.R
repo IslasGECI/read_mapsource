@@ -25,14 +25,20 @@ describe("Obtaine number of points for each route", {
 })
 
 describe("Obtaine dataframe with all waypoints", {
-  it("Waypoints of cameras", {
     cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
-    number_of_points <- obtaine_number_of_points_of_each_routes(cameras)
-    expected_last_id <- "CT-07-011-LM"
     waypoints <- obtain_just_waypoints(cameras)
+  it("the last waypoints of cameras", {
+    expected_last_id <- "CT-07-011-LM"
     obtained_last_id <- waypoints |>
       dplyr::slice(n()) %>%
       .$Name
     expect_equal(obtained_last_id, expected_last_id)
+  })
+  it("The first waypoint of camera", {
+    first_id <- "CA-01-001-CA"
+    obtained_first_id <- waypoints |>
+      dplyr::slice(1) %>%
+      .$Name
+    expect_equal(obtained_first_id, first_id)
   })
 })
