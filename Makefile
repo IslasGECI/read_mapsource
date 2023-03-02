@@ -19,6 +19,7 @@ check:
       | grep FALSE
 
 clean:
+	rm --force --recursive *.Rcheck
 	rm --force *.tar.gz
 	rm --force --recursive tests/testthat/_snaps
 	rm --force NAMESPACE
