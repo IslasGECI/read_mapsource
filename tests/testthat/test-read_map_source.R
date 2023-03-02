@@ -25,8 +25,8 @@ describe("Obtaine number of points for each route", {
 })
 
 describe("Obtaine dataframe with all waypoints", {
-    cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
-    waypoints <- obtain_just_waypoints(cameras)
+  cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
+  waypoints <- obtain_just_waypoints(cameras)
   it("the last waypoints of cameras", {
     expected_last_id <- "CT-07-011-LM"
     obtained_last_id <- waypoints |>
