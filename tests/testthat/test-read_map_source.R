@@ -49,11 +49,27 @@ describe("Obtaine dataframe with all waypoints", {
   })
   it("Obtain route 'Camino Playa Norte'", {
     playa_norte <- tibble::tibble(
-      Header = c("Route Waypoint", 6),
-      `Waypoint Name` = c("CT-07-004-KS", "CT-07-007-KS", "CT-07-006-KS", "CT-07-005-KS", "CT-07-010-LM", "CT-07-011-LM"),
+      Header = rep("Route Waypoint", 6),
+      "Waypoint Name" = c("CT-07-004-KS", "CT-07-007-KS", "CT-07-006-KS", "CT-07-005-KS", "CT-07-010-LM", "CT-07-011-LM"),
       Distance = c("0 m", "1.4 km", "1.9 km", "3.4 km", "4.0 km", "4.5 km"),
-      `Leg Length` = c(NA, "1.4 km", "538 m", "1.5 km", "548 m", "534 m"))
+      "Leg Length" = c(NA, "1.4 km", "538 m", "1.5 km", "548 m", "534 m")
+    )
     obtained_route <- pluck_route(cameras, 3)
+    print(obtained_route)
     expect_equal(obtained_route, playa_norte)
+  })
+  it("Obtain route 'Linea 1 oeste'", {
+    oeste <- tibble::tibble(
+      Header = rep("Route Waypoint", 6),
+      "Waypoint Name" = c("CT-04-020-NN", "CT-04-021-NN", "CT-04-022-NN", "CT-04-019-AA", "CT-04-018-AA", "CT-04-017-AA"),
+      Distance = c("0 m", "272 m", "561 m", "901 m", "1.2 km", "1.5 km"),
+      "Leg Length" = c(NA, "272 m", "289 m", "340 m", "316 m", "246 m")
+    )
+    n_route <- 6
+    obtained_names <- obtain_names_of_routes(cameras)
+    expect_equal(obtained_names[n_route], "Linea 1 oeste")
+    obtained_route <- pluck_route(cameras, n_route)
+    print(obtained_route)
+    expect_equal(obtained_route, oeste)
   })
 })
