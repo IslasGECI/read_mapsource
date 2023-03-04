@@ -1,4 +1,5 @@
 library(tidyverse)
+library(lubridate)
 
 describe("Obtain the csv of cameras from mapsource", {
   waypoints <- read_csv("/workdir/tests/data/example_waypoints_from_mapsource.csv", show_col_types = FALSE)
@@ -21,9 +22,20 @@ describe("Obtain the csv of cameras from mapsource", {
 })
 
 describe("Next sunday", {
-  it("From '2023-03-04'", {
-    today <- "2023-03-04"
-    expected <- "04MAR2023"
+  it("From '2023-03-04' the final presentation", {
+    today <- ymd("2023-03-04")
+    expected <- "05MAR2023"
+    expect_equal(obtain_date_to_title(today), expected)
+  })
+  it("From '2023-03-04' the type date", {
+    today <- ymd("2023-03-04")
+    expected <- ymd("2023-03-05")
     expect_equal(next_sunday(today), expected)
+  })
+  it("day to title", {
+    expected <- "05"
+    sunday <- ymd("2023-03-05")
+    obtained <- day_to_title(sunday)
+    expect_equal(obtained, expected)
   })
 })

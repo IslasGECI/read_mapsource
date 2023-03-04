@@ -1,3 +1,4 @@
+#' @export
 obtain_csv_from_waypoints_of_mapsource <- function(waypoints) {
   ig_cameras <- waypoints |>
     filter_active_cameras() |>
@@ -40,4 +41,26 @@ add_other_columns <- function(waypoints) {
       Porcentaje_bateria = NA,
       Observaciones = NA
     )
+}
+
+month.nombres <- c("ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC")
+
+#' @export
+obtain_date_to_title <- function(today) {
+  sunday <- next_sunday(today)
+  date_to_title <- glue::glue("{day_to_title(sunday)}{month.nombres[month(sunday)]}{year(sunday)}")
+}
+
+next_sunday <- function(today) {
+  delta_day <- 8 - wday(today)
+  sunday <- today + delta_day
+  return(sunday)
+}
+
+day_to_title <- function(sunday) {
+  n_day <- day(sunday)
+  if (n_day < 10) {
+    return(glue::glue("0{n_day}"))
+  }
+  return(n_day)
 }
