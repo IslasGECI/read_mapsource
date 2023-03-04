@@ -59,7 +59,6 @@ describe("Obtain all routes", {
       "Leg Length" = c(NA, "1.4 km", "538 m", "1.5 km", "548 m", "534 m")
     )
     obtained_route <- pluck_route(cameras, 3)
-    print(obtained_route)
     expect_equal(obtained_route, playa_norte)
   })
   it("Obtain route 'Linea 1 oeste'", {
@@ -73,7 +72,6 @@ describe("Obtain all routes", {
     obtained_names <- obtain_names_of_routes(cameras)
     expect_equal(obtained_names[n_route], "Linea 1 oeste")
     obtained_route <- pluck_route(cameras, n_route)
-    print(obtained_route)
     expect_equal(obtained_route, oeste)
   })
 })
