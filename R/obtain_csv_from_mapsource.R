@@ -10,7 +10,7 @@ add_zone_column <- function(waypoints) {
 }
 
 add_east_coordinate <- function(waypoints) {
-  modified <- waypoints |> 
+  modified <- waypoints |>
     separate(Position, c(NA, NA, "Coordenada_Este", NA)) |>
     mutate(Coordenada_Este = as.numeric(Coordenada_Este))
 }

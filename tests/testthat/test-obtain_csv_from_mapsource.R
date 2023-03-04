@@ -8,5 +8,6 @@ describe("Obtain the csv of cameras from mapsource", {
   })
   it("Has the right positions", {
     expect_true(obtained$Coordenada_Este[1] == 375311)
+    expect_true(obtained$Coordenada_Norte[1] == 3196733)
   })
 })
