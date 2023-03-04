@@ -58,3 +58,12 @@ describe("paths io", {
     expect_equal(obtained, expected)
   })
 })
+
+describe("Get csv of POSICION TRAMPA", {
+  waypoints <- read_csv("tests/data/example_traps_from_mapsource.csv", show_col_types = FALSE)
+  obtained <- obtain_csv_from_traps_of_mapsource(waypoints)
+  it("has the right coordinates", {
+    expect_true(obtained$`Coor-X`[1] == 376963)
+    expect_true(obtained$`Coor-Y`[1] == 3208022)
+  })
+})
