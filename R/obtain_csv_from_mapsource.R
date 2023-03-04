@@ -80,10 +80,12 @@ OUTPUT_MAPSOURCE_PATHS <- list(
 )
 
 #' @export
-obtain_csv_from_traps_of_mapsource <- function(waypoints) {
+obtain_csv_from_traps_of_mapsource <- function(waypoints, wrote_day) {
   ig_traps <- waypoints |>
     filter_active_traps() |>
-    add_traps_coordinates()
+    add_traps_coordinates() |>
+    select_right_columns_traps() |>
+    add_other_columns_traps()
 }
 
 filter_active_traps <- function(waypoints) {
@@ -97,4 +99,25 @@ add_traps_coordinates <- function(waypoints) {
     separate(Position, c(NA, NA, "Coor-X", "Coor-Y")) |>
     mutate(`Coor-X` = as.numeric(`Coor-X`)) |>
     mutate(`Coor-Y` = as.numeric(`Coor-Y`))
+}
+
+select_right_columns_traps <- function(waypoints) {
+  modified <- waypoints |>
+    select(c(ID = 2, 5, 6))
+}
+
+add_other_columns_traps <- function(waypoints) {
+  waypoints |>
+    add_column(
+      Nombre_del_responsable = NA,
+      "27/Jun/2022" = NA,
+      "28/Jun/2022" = NA,
+      "29/Jun/2022" = NA,
+      "30/Jun/2022" = NA,
+      "01/Jun/2022" = NA,
+      "02/Jun/2022" = NA,
+      "03/Jun/2022" = NA,
+      Linea = NA,
+      Notas = NA
+    )
 }
