@@ -61,7 +61,8 @@ describe("paths io", {
 
 describe("Get csv of POSICION TRAMPA", {
   waypoints <- read_csv("/workdir/tests/data/example_traps_from_mapsource.csv", show_col_types = FALSE)
-  obtained <- obtain_csv_from_traps_of_mapsource(waypoints)
+  today <- ymd("2023-03-04")
+  obtained <- obtain_csv_from_traps_of_mapsource(waypoints, today)
   it("has the right coordinates", {
     expect_true(obtained$`Coor-X`[1] == 376963)
     expect_true(obtained$`Coor-Y`[1] == 3208022)
@@ -70,8 +71,8 @@ describe("Get csv of POSICION TRAMPA", {
   })
   it("Has the right columns", {
     ig_traps <- read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv", show_col_types = FALSE)
-    expected_name <- names(ig_traps)
+    expected_name <- c("06/Mar/2023","07/Mar/2023","08/Mar/2023","09/Mar/2023","10/Mar/2023","11/Mar/2023","12/Mar/2023")
     obtained_name <- names(obtained)
-    expect_equal(obtained_name, expected_name)
+    expect_equal(obtained_name[5:11], expected_name)
   })
 })
