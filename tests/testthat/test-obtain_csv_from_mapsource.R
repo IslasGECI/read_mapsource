@@ -10,4 +10,10 @@ describe("Obtain the csv of cameras from mapsource", {
     expect_true(obtained$Coordenada_Este[1] == 375311)
     expect_true(obtained$Coordenada_Norte[1] == 3196733)
   })
+  it("Has the right columns", {
+    ig_cameras <- read_csv("/workdir/tests/data/IG_CAMARA_TRAMPA_EXTRA_26FEB2023.csv", show_col_types = FALSE)
+    expected_name <- names(ig_cameras)
+    obtained_name <- names(obtained)
+    expect_equal(obtained_name, expected_name)
+  })
 })
