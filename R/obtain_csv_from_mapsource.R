@@ -67,4 +67,10 @@ day_to_title <- function(sunday) {
 
 MAPSOURCE_PATHS <- list(
   "camaras" = "/workdir/tests/data/ig_cameras.txt",
-  "cepos" = "/workdir/tests/data/ig_traps.txt")
+  "cepos" = "/workdir/tests/data/ig_traps.txt"
+)
+
+OUTPUT_MAPSOURCE_PATHS <- list(
+  "camaras" = "/workdir/data/IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv",
+  "cepos" = "/workdir/data/IG_POSICION_TRAMPA_{next_sunday}.csv"
+)
