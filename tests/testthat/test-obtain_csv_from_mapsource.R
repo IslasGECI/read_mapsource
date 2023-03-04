@@ -45,5 +45,8 @@ describe("paths io", {
     expected <- "/workdir/tests/data/ig_cameras.txt"
     obtained <- MAPSOURCE_PATHS[["camaras"]]
     expect_equal(obtained, expected)
+    expected <- "/workdir/tests/data/ig_traps.txt"
+    obtained <- MAPSOURCE_PATHS[["cepos"]]
+    expect_equal(obtained, expected)
   })
 })
