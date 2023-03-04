@@ -19,3 +19,11 @@ describe("Obtain the csv of cameras from mapsource", {
     expect_equal(obtained_name, expected_name)
   })
 })
+
+describe("Next sunday", {
+  it("From '2023-03-04'", {
+    today <- "2023-03-04"
+    expected <- "04MAR2023"
+    expect_equal(next_sunday(today), expected)
+  })
+})
