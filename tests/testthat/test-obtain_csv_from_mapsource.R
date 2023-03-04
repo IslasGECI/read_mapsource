@@ -39,3 +39,11 @@ describe("Next sunday", {
     expect_equal(obtained, expected)
   })
 })
+
+describe("paths io", {
+  it("inputs", {
+    expected <- "/workdir/tests/data/ig_cameras.txt"
+    obtained <- MAPSOURCE_PATHS[["camaras"]]
+    expect_equal(obtained, expected)
+  })
+})
