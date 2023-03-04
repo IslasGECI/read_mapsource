@@ -65,5 +65,13 @@ describe("Get csv of POSICION TRAMPA", {
   it("has the right coordinates", {
     expect_true(obtained$`Coor-X`[1] == 376963)
     expect_true(obtained$`Coor-Y`[1] == 3208022)
+    expect_true(obtained$`Coor-X`[10] == 375153)
+    expect_true(obtained$`Coor-Y`[10] == 3196529)
+  })
+  it("Has the right columns", {
+    ig_traps <- read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv", show_col_types = FALSE)
+    expected_name <- names(ig_traps)
+    obtained_name <- names(obtained)
+    expect_equal(obtained_name, expected_name)
   })
 })
