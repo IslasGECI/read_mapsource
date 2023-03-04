@@ -1,10 +1,16 @@
 obtain_csv_from_waypoints_of_mapsource <- function(waypoints) {
   ig_cameras <- waypoints |>
+    filter_active_cameras() |>
     add_zone_column() |>
     add_coordinates() |>
     select_right_columns() |>
     add_other_columns()
   return(ig_cameras)
+}
+
+filter_active_cameras <- function(waypoints) {
+  waypoints |>
+    filter(Symbol != "Flag, Red")
 }
 
 add_zone_column <- function(waypoints) {
@@ -20,7 +26,7 @@ add_coordinates <- function(waypoints) {
 
 select_right_columns <- function(waypoints) {
   modified <- waypoints |>
-    select(c(ID_camara=2,3,6,7))
+    select(c(ID_camara = 2, 3, 6, 7))
 }
 
 add_other_columns <- function(waypoints) {
