@@ -24,12 +24,12 @@ describe("Obtain the csv of cameras from mapsource", {
 describe("Next sunday", {
   it("From '2023-03-04' the final presentation", {
     today <- ymd("2023-03-04")
-    expected <- "05MAR2023"
+    expected <- "12MAR2023"
     expect_equal(obtain_date_to_title(today), expected)
   })
   it("From '2023-03-04' the type date", {
     today <- ymd("2023-03-04")
-    expected <- ymd("2023-03-05")
+    expected <- ymd("2023-03-12")
     expect_equal(next_sunday(today), expected)
   })
   it("day to title", {
@@ -74,5 +74,11 @@ describe("Get csv of POSICION TRAMPA", {
     expected_name <- c("06/Mar/2023","07/Mar/2023","08/Mar/2023","09/Mar/2023","10/Mar/2023","11/Mar/2023","12/Mar/2023")
     obtained_name <- names(obtained)
     expect_equal(obtained_name[5:11], expected_name)
+  })
+  it("obtain the right date columns", {
+    expected_name <- c("06/Mar/2023","07/Mar/2023","08/Mar/2023","09/Mar/2023","10/Mar/2023","11/Mar/2023","12/Mar/2023")
+    obtained_name <- obtain_date_columns(today)
+    expect_equal(change_date_to_column_name(obtained_name[1]), expected_name[1])
+    expect_equal(change_date_to_column_name(obtained_name[7]), expected_name[7])
   })
 })
