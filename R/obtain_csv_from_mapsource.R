@@ -78,3 +78,23 @@ OUTPUT_MAPSOURCE_PATHS <- list(
   "camaras" = "/workdir/data/IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv",
   "cepos" = "/workdir/data/IG_POSICION_TRAMPA_{next_sunday}.csv"
 )
+
+#' @export
+obtain_csv_from_traps_of_mapsource <- function(waypoints) {
+  ig_traps <- waypoints |>
+    filter_active_traps() |>
+    add_traps_coordinates()
+}
+
+filter_active_traps <- function(waypoints) {
+  waypoints |>
+    filter(Symbol != "Scenic Area") |>
+    filter(Symbol != "Flag, Red")
+}
+
+add_traps_coordinates <- function(waypoints) {
+  modified <- waypoints |>
+    separate(Position, c(NA, NA, "Coor-X", "Coor-Y")) |>
+    mutate(`Coor-X` = as.numeric(`Coor-X`)) |>
+    mutate(`Coor-Y` = as.numeric(`Coor-Y`))
+}
