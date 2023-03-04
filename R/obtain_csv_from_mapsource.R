@@ -1,0 +1,1 @@
+obtain_csv_from_waypoints_of_mapsource <- function(waypoints) {}
