@@ -10,9 +10,11 @@ Config/testthat/edition: 3
 Description: Herramientas para leer datos de Mapsource
 Encoding: UTF-8
 Imports:
+    dplyr,
+    glue,
     magrittr,
-    R6,
-    tidyverse
+    readr,
+    tidyr,
 LazyData: true
 License: AGPL-3.0-or-later
 Roxygen: list(markdown = TRUE)

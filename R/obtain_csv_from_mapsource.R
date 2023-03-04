@@ -1,3 +1,5 @@
+#' @import dplyr
+
 #' @export
 obtain_csv_from_waypoints_of_mapsource <- function(waypoints) {
   ig_cameras <- waypoints |>
@@ -65,11 +67,13 @@ day_to_title <- function(sunday) {
   return(n_day)
 }
 
+#' @export
 MAPSOURCE_PATHS <- list(
   "camaras" = "/workdir/tests/data/ig_cameras.txt",
   "cepos" = "/workdir/tests/data/ig_traps.txt"
 )
 
+#' @export
 OUTPUT_MAPSOURCE_PATHS <- list(
   "camaras" = "/workdir/data/IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv",
   "cepos" = "/workdir/data/IG_POSICION_TRAMPA_{next_sunday}.csv"
