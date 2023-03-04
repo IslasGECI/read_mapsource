@@ -64,3 +64,4 @@ day_to_title <- function(sunday) {
   }
   return(n_day)
 }
+MAPSOURCE_PATHS <- list("camaras" = "/workdir/tests/data/ig_cameras.txt")
