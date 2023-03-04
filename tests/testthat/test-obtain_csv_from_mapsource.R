@@ -71,12 +71,12 @@ describe("Get csv of POSICION TRAMPA", {
   })
   it("Has the right columns", {
     ig_traps <- read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv", show_col_types = FALSE)
-    expected_name <- c("06/Mar/2023","07/Mar/2023","08/Mar/2023","09/Mar/2023","10/Mar/2023","11/Mar/2023","12/Mar/2023")
+    expected_name <- c("06/Mar/2023", "07/Mar/2023", "08/Mar/2023", "09/Mar/2023", "10/Mar/2023", "11/Mar/2023", "12/Mar/2023")
     obtained_name <- names(obtained)
     expect_equal(obtained_name[5:11], expected_name)
   })
   it("obtain the right date columns", {
-    expected_name <- c("06/Mar/2023","07/Mar/2023","08/Mar/2023","09/Mar/2023","10/Mar/2023","11/Mar/2023","12/Mar/2023")
+    expected_name <- c("06/Mar/2023", "07/Mar/2023", "08/Mar/2023", "09/Mar/2023", "10/Mar/2023", "11/Mar/2023", "12/Mar/2023")
     obtained_name <- obtain_date_columns(today)
     expect_equal(change_date_to_column_name(obtained_name[1]), expected_name[1])
     expect_equal(change_date_to_column_name(obtained_name[7]), expected_name[7])

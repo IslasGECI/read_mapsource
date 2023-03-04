@@ -108,17 +108,17 @@ select_right_columns_traps <- function(waypoints) {
 
 add_other_columns_traps <- function(waypoints, wrote_day) {
   all_week <- obtain_date_columns(wrote_day)
-  day_1 = change_date_to_column_name(all_week[1])
+  day_1 <- change_date_to_column_name(all_week[1])
   waypoints |>
     add_column(
       Nombre_del_responsable = NA,
-      !! change_date_to_column_name(all_week[1]) := NA,
-      !! change_date_to_column_name(all_week[2]) := NA,
-      !! change_date_to_column_name(all_week[3]) := NA,
-      !! change_date_to_column_name(all_week[4]) := NA,
-      !! change_date_to_column_name(all_week[5]) := NA,
-      !! change_date_to_column_name(all_week[6]) := NA,
-      !! change_date_to_column_name(all_week[7]) := NA,
+      !!change_date_to_column_name(all_week[1]) := NA,
+      !!change_date_to_column_name(all_week[2]) := NA,
+      !!change_date_to_column_name(all_week[3]) := NA,
+      !!change_date_to_column_name(all_week[4]) := NA,
+      !!change_date_to_column_name(all_week[5]) := NA,
+      !!change_date_to_column_name(all_week[6]) := NA,
+      !!change_date_to_column_name(all_week[7]) := NA,
       Linea = NA,
       Notas = NA
     )
@@ -126,7 +126,7 @@ add_other_columns_traps <- function(waypoints, wrote_day) {
 
 obtain_date_columns <- function(today) {
   sunday <- next_sunday(today)
-  all_week <- sunday - c(6,5,4,3,2,1,0)
+  all_week <- sunday - c(6, 5, 4, 3, 2, 1, 0)
 }
 
 month.Nombres <- c("Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic")
