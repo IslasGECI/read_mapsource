@@ -55,3 +55,8 @@ obtain_points_of_routes_by_number_of_route <- function(full_information, n_route
     add_column(linea = route_names[n_route])
   return(points_with_route_names)
 }
+
+select_ID_and_linea <- function(points_with_route_names) {
+  points_with_route_names |>
+    select(c("ID" = 2, "Linea" = linea))
+}
