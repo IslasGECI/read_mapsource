@@ -25,6 +25,7 @@ obtain_just_waypoints <- function(full_information) {
   return(full_information[1:last_index_of_waypoints, ])
 }
 
+#' @export
 obtain_names_of_routes <- function(full_information) {
   index <- obtain_index_of_route_rows(full_information)
   names_of_routes <- full_information[index, ] %>%
@@ -37,6 +38,7 @@ obtain_first_index_of_routes <- function(full_information) {
   return(index + 2)
 }
 
+#' @export
 pluck_route <- function(full_information, n_route) {
   first_index_of_routes <- obtain_first_index_of_routes(full_information)
   first_index <- first_index_of_routes[n_route]
