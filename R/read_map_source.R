@@ -60,3 +60,15 @@ select_ID_and_linea <- function(points_with_route_names) {
   points_with_route_names |>
     select(c("ID" = 2, "Linea" = linea))
 }
+
+obtain_traps_with_routes <- function(full_information) {
+  traps_with_routes <- tibble::tibble()
+  nombre_de_linea <- obtain_names_of_routes(full_information)
+  for (i in 1:length(nombre_de_linea)) {
+    traps_with_routes <- full_information |>
+      obtain_points_of_routes_by_number_of_route(i) |>
+      rbind(traps_with_routes)
+  }
+  traps_with_routes <- traps_with_routes |>
+    select_ID_and_linea()
+}
