@@ -38,7 +38,6 @@ obtain_first_index_of_routes <- function(full_information) {
   return(index + 2)
 }
 
-#' @export
 pluck_route <- function(full_information, n_route) {
   first_index_of_routes <- obtain_first_index_of_routes(full_information)
   first_index <- first_index_of_routes[n_route]
@@ -61,6 +60,7 @@ select_ID_and_linea <- function(points_with_route_names) {
     select(c("ID" = 2, "Linea" = linea))
 }
 
+#' @export
 obtain_traps_with_routes <- function(full_information) {
   traps_with_routes <- tibble::tibble()
   nombre_de_linea <- obtain_names_of_routes(full_information)
