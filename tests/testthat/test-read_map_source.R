@@ -90,4 +90,19 @@ describe("Add route name to waypoints", {
     obtained <- obtain_points_of_routes_by_number_of_route(cameras, n_route)
     expect_equal(obtained, oeste)
   })
+  it("select two columns with the right names", {
+    expected <- tibble::tibble(
+      "ID" = c("CT-04-020-NN", "CT-04-021-NN", "CT-04-022-NN", "CT-04-019-AA", "CT-04-018-AA", "CT-04-017-AA"),
+      Linea = "Linea 1 oeste"
+    )
+    points_with_route_names <- tibble::tibble(
+      Header = rep("Route Waypoint", 6),
+      "Waypoint Name" = c("CT-04-020-NN", "CT-04-021-NN", "CT-04-022-NN", "CT-04-019-AA", "CT-04-018-AA", "CT-04-017-AA"),
+      Distance = c("0 m", "272 m", "561 m", "901 m", "1.2 km", "1.5 km"),
+      "Leg Length" = c(NA, "272 m", "289 m", "340 m", "316 m", "246 m"),
+      linea = "Linea 1 oeste"
+    )
+    obtained <- select_ID_and_linea(points_with_route_names)
+    expect_equal(obtained, expected)
+  })
 })
