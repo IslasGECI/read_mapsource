@@ -48,3 +48,10 @@ pluck_route <- function(full_information, n_route) {
   names(route) <- c("Header", "Waypoint Name", "Distance", "Leg Length")
   return(route)
 }
+
+obtain_points_of_routes_by_number_of_route <- function(full_information, n_route) {
+  route_names <- obtain_names_of_routes(full_information)
+  points_with_route_names <- pluck_route(full_information, n_route) |>
+    add_column(linea = route_names[n_route])
+  return(points_with_route_names)
+}
