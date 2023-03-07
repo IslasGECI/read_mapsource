@@ -52,4 +52,9 @@ describe("obtain_unactive_traps_from_clean_position_traps", {
     all_are_inactive <- all(obtained$is_active == FALSE)
     expect_true(all_are_inactive)
   })
+  it("date has just NA value", {
+    expect_true(is.na(obtained$date[1]))
+    all_are_inactive <- all(is.na(obtained$date))
+    expect_true(all_are_inactive)
+  })
 })
