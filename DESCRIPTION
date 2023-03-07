@@ -14,6 +14,7 @@ Imports:
     glue,
     magrittr,
     readr,
+    stringr,
     tidyr,
 LazyData: true
 License: AGPL-3.0-or-later
