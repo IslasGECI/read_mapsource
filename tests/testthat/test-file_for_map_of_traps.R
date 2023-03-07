@@ -9,8 +9,12 @@ describe("from_ig_position_2_maps_of_traps", {
   })
   it("select the three first columns of ig_position_trampa", {
     expected_names <- c("ID", "Coor-X", "Coor-Y")
-    obtained_names <- names(obtained)
+    obtained_names <- names(obtained)[1:3]
     expect_equal(obtained_names, expected_names)
+  })
+  it("add the columns `is_active` with TRUE value", {
+    all_are_active <- all(obtained$is_active[1])
+    expect_equal(obtained$is_active[1], TRUE)
   })
 })
 
