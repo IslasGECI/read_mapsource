@@ -53,20 +53,22 @@ describe("obtain_unactive_traps_from_clean_position_traps", {
     expect_true(all_are_inactive)
   })
   it("date has just NA value", {
-    expect_true(is.na(obtained$date[1]))
-    all_are_inactive <- all(is.na(obtained$date))
+    expect_true(obtained$date[1] == "")
+    all_are_inactive <- all(obtained$date == "")
     expect_true(all_are_inactive)
   })
 })
 
-describe("update_actived_traps", {
-  actived_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
+describe("update_activated_traps", {
+  activated_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
   path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
   clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
   inactive_traps <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
   it("update with actived traps", {
     active_and_inactive_traps <- "/workdir/tests/data/actived_and_inactive_traps.csv"
     expected <- read_csv(active_and_inactive_traps, show_col_types = FALSE)
-    obtained <- inactive_traps |> update_actived_traps(actived_traps)
+    obtained <- inactive_traps |> update_activated_traps(activated_traps)
+    expect_equal(obtained, expected)
+    print(obtained)
   })
 })
