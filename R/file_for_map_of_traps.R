@@ -25,10 +25,14 @@ MES_2_NUMBER_MONTH <- list(
 
 transform_from_ig_position_2_maps_of_traps <- function(posicion_trampa) {
   posicion_trampa |>
-    filter(!is.na(Nombre_del_responsable)) |>
+    filter_na_from_Nombre_del_responsable() |>
     select_first_columns()
 }
 
+filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
+  posicion_trampa |>
+    filter(!is.na(Nombre_del_responsable))
+}
 select_first_columns <- function(posicion_trampa) {
   posicion_trampa |>
     select(c(1:3))
