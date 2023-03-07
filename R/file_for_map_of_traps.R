@@ -34,7 +34,7 @@ transform_from_ig_position_2_maps_of_traps <- function(posicion_trampa, revised_
 obtain_inactive_traps_from_clean_position_traps <- function(posicion_trampa) {
   posicion_trampa |>
     select_first_columns() |>
-    add_is_active_column() |>
+    add_is_active_column(FALSE) |>
     add_revised_date()
 }
 
