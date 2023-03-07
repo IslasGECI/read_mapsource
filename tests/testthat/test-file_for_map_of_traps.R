@@ -1,5 +1,9 @@
+library(tidyverse)
 describe("from_ig_position_2_maps_of_traps", {
   it("select the three first columns of ig_position_trampa", {
+    path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
+    posicion_trampa <- read_csv(path, show_col_types = FALSE)
+    obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa)
   })
 })
 
