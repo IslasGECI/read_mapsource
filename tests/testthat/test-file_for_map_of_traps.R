@@ -2,7 +2,8 @@ library(tidyverse)
 describe("from_ig_position_2_maps_of_traps", {
   path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
   posicion_trampa <- read_csv(path, show_col_types = FALSE)
-  obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa)
+  revised_date <- "03-07-2022"
+  obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa, revised_date)
   it("has not na in Nombre_del_responsable", {
     there_is_not_na <- all(!is.na(obtained$Nombre_del_responsable))
     expect_true(there_is_not_na)
@@ -15,6 +16,12 @@ describe("from_ig_position_2_maps_of_traps", {
   it("add the columns `is_active` with TRUE value", {
     all_are_active <- all(obtained$is_active[1])
     expect_equal(obtained$is_active[1], TRUE)
+  })
+  it("add the columns `date` with '03-07-2022' value", {
+    expected_date <- "03-07-2022"
+    all_have_right_date <- all(obtained$date == expected_date)
+    expect_equal(obtained$date[1], expected_date)
+    expect_true(all_have_right_date)
   })
 })
 
