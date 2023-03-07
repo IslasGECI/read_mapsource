@@ -22,3 +22,7 @@ MES_2_NUMBER_MONTH <- list(
   "NOV" = "11",
   "DIC" = "12"
 )
+
+transform_from_ig_position_2_maps_of_traps <- function(posicion_trampa) {
+  posicion_trampa
+}
