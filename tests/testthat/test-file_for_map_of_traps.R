@@ -45,5 +45,6 @@ describe("obtain_unactive_traps_from_clean_position_traps", {
     obtained <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
     expected_names <- c("ID", "Coor-X", "Coor-Y", "is_active", "date", "line")
     obtained_names <- names(obtained)
+    expect_true(all(obtained_names %in% expected_names))
   })
 })
