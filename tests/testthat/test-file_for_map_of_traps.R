@@ -1,11 +1,16 @@
 library(tidyverse)
 describe("from_ig_position_2_maps_of_traps", {
-  it("select the three first columns of ig_position_trampa", {
-    path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
-    posicion_trampa <- read_csv(path, show_col_types = FALSE)
-    obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa)
+  path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
+  posicion_trampa <- read_csv(path, show_col_types = FALSE)
+  obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa)
+  it("has not na in Nombre_del_responsable", {
     there_is_not_na <- all(!is.na(obtained$Nombre_del_responsable))
     expect_true(there_is_not_na)
+  })
+  it("select the three first columns of ig_position_trampa", {
+    expected_names <- c("ID", "Coor-X", "Coor-Y")
+    obtained_names <- names(obtained)
+    expect_equal(obtained_names, expected_names)
   })
 })
 
