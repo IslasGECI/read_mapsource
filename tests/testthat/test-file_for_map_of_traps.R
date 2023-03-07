@@ -58,3 +58,15 @@ describe("obtain_unactive_traps_from_clean_position_traps", {
     expect_true(all_are_inactive)
   })
 })
+
+describe("update_actived_traps", {
+  actived_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
+  path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
+  clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
+  inactive_traps <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
+  it("update with actived traps", {
+    active_and_inactive_traps <- "/workdir/tests/data/actived_and_inactive_traps.csv"
+    expected <- read_csv(active_and_inactive_traps, show_col_types = FALSE)
+    obtained <- inactive_traps |> update_actived_traps(actived_traps)
+  })
+})
