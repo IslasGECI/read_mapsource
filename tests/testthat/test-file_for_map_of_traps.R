@@ -39,12 +39,17 @@ describe("obtain_date_of_name_file", {
 })
 
 describe("obtain_unactive_traps_from_clean_position_traps", {
+  path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
+  clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
+  obtained <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
   it("has all the columns", {
-    path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
-    clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
-    obtained <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
     expected_names <- c("ID", "Coor-X", "Coor-Y", "is_active", "date", "line")
     obtained_names <- names(obtained)
     expect_true(all(obtained_names %in% expected_names))
+  })
+  it("is_active has FALSE value", {
+    expect_false(obtained$is_active[1])
+    all_are_inactive <- all(obtained$is_active == FALSE)
+    expect_true(all_are_inactive)
   })
 })
