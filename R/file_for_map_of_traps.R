@@ -26,14 +26,21 @@ MES_2_NUMBER_MONTH <- list(
 transform_from_ig_position_2_maps_of_traps <- function(posicion_trampa) {
   posicion_trampa |>
     filter_na_from_Nombre_del_responsable() |>
-    select_first_columns()
+    select_first_columns() |>
+    add_is_active_column()
 }
 
 filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
   posicion_trampa |>
     filter(!is.na(Nombre_del_responsable))
 }
+
 select_first_columns <- function(posicion_trampa) {
   posicion_trampa |>
     select(c(1:3))
+}
+
+add_is_active_column <- function(posicion_trampa) {
+  posicion_trampa |>
+    add_column("is_active" = TRUE)
 }
