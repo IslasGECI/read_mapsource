@@ -45,7 +45,7 @@ filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
 
 select_first_columns <- function(posicion_trampa) {
   posicion_trampa |>
-    select(c(1:3))
+    select(c(1:3, "line" = Linea))
 }
 
 add_is_active_column <- function(posicion_trampa, value = TRUE) {
