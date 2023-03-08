@@ -53,7 +53,7 @@ describe("paths io", {
     expected <- "/workdir/data/IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv"
     obtained <- OUTPUT_MAPSOURCE_PATHS[["camaras"]]
     expect_equal(obtained, expected)
-    expected <- "/workdir/data/IG_POSICION_TRAMPA_{next_sunday}.csv"
+    expected <- "/workdir/data/IG_POSICION_TRAMPAS_{next_sunday}.csv"
     obtained <- OUTPUT_MAPSOURCE_PATHS[["cepos"]]
     expect_equal(obtained, expected)
   })

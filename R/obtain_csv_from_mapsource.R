@@ -76,7 +76,7 @@ MAPSOURCE_PATHS <- list(
 #' @export
 OUTPUT_MAPSOURCE_PATHS <- list(
   "camaras" = "/workdir/data/IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv",
-  "cepos" = "/workdir/data/IG_POSICION_TRAMPA_{next_sunday}.csv"
+  "cepos" = "/workdir/data/IG_POSICION_TRAMPAS_{next_sunday}.csv"
 )
 
 #' @export
