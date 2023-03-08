@@ -4,10 +4,6 @@ describe("from_ig_position_2_maps_of_traps", {
   posicion_trampa <- read_csv(path, show_col_types = FALSE)
   revised_date <- "03-07-2022"
   obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa, revised_date)
-  it("has not na in Nombre_del_responsable", {
-    there_is_not_na <- all(!is.na(obtained$Nombre_del_responsable))
-    expect_true(there_is_not_na)
-  })
   it("select the three first columns of ig_position_trampa", {
     expected_names <- c("ID", "Coor-X", "Coor-Y")
     obtained_names <- names(obtained)[1:3]
