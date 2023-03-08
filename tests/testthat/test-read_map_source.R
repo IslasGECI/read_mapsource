@@ -109,6 +109,6 @@ describe("Add route name to waypoints", {
 
 describe("`obtain_traps_with_routes()`", {
   cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
-  expected <- read_csv("/workdir/tests/data/outup_obtain_traps_with_routes.csv")
+  expected <- read_csv("/workdir/tests/data/outup_obtain_traps_with_routes.csv", show_col_types = FALSE)
   obtained <- obtain_traps_with_routes(cameras)
 })
