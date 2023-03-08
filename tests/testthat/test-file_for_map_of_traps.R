@@ -69,6 +69,5 @@ describe("update_activated_traps", {
     expected <- read_csv(active_and_inactive_traps, show_col_types = FALSE)
     obtained <- inactive_traps |> update_activated_traps(activated_traps)
     expect_equal(obtained, expected)
-    print(obtained)
   })
 })
