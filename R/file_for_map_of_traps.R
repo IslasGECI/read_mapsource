@@ -1,10 +1,11 @@
 #' @importFrom stringr str_sub
 
+#' @export
 obtain_date_of_name_file <- function(file_ig_pt) {
-  day <- file_ig_pt |> stringr::str_sub(20, 21)
-  mes <- file_ig_pt |> stringr::str_sub(22, 24)
+  day <- file_ig_pt |> stringr::str_sub(21, 22)
+  mes <- file_ig_pt |> stringr::str_sub(23, 25)
   month <- MES_2_NUMBER_MONTH[[mes]]
-  year <- file_ig_pt |> stringr::str_sub(25, 28)
+  year <- file_ig_pt |> stringr::str_sub(26, 29)
   return(glue::glue("{day}-{month}-{year}"))
 }
 
