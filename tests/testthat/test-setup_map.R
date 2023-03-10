@@ -29,3 +29,16 @@ describe("files_ig_posicion_trampas", {
   obtained <- files_ig_posicion_trampas("/workdir/tests/data")
   expect_equal(obtained, expected)
 })
+
+describe("obtain_char_date_from_mapsource_file", {
+  it("returns '2023-03-04' from '/workdir/data/IG_TRAMPAS_05MAR2023.txt'", {
+    expected <- "05-03-2023"
+    obtained <- obtain_char_date_from_mapsource_file("/workdir/data/IG_TRAMPAS_05MAR2023.txt")
+    expect_equal(obtained, expected)
+  })
+  it("returns '03-07-2022' from '/workdir/test/data/IG_TRAMPAS_03JUL2022.txt'", {
+    expected <- "03-07-2022"
+    obtained <- obtain_char_date_from_mapsource_file("/workdir/test/data/IG_TRAMPAS_03JUL2022.txt")
+    expect_equal(obtained, expected)
+  })
+})
