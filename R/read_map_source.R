@@ -72,3 +72,10 @@ obtain_traps_with_routes <- function(full_information) {
   traps_with_routes <- traps_with_routes |>
     select_ID_and_linea()
 }
+
+obtain_ig_posicion_mapsource_path <- function(root_path = "/workdir/data") {
+  all_paths <- list.files(root_path)
+  files <- comprehenr::to_vec(for (file in all_paths) if (str_sub(file, 21, 24) == ".txt") file)
+  paths <- comprehenr::to_vec(for (file in files) paste(root_path, file, sep = "/"))
+  return(paths)
+}
