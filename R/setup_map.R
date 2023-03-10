@@ -28,3 +28,9 @@ files_ig_posicion_trampas <- function(root_path = "/workdir/data") {
   files_ig_posicion <- list.files(root_path, pattern = ".csv$")
   return(comprehenr::to_vec(for (file in files_ig_posicion) if (str_sub(file, 1, 7) == "IG_POSI") file))
 }
+
+obtain_char_date_from_mapsource_file <- function(file_path) {
+  len_file <- str_length(file_path)
+  name_date <- file_path |> str_sub(len_file - 12, len_file - 4)
+  .change_name_date_2_char_date(name_date)
+}
