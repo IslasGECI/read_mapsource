@@ -1,7 +1,9 @@
 library(tidyverse)
 describe("Read a mapsource file", {
   it("Read as tsv", {
-    read_ms("/workdir/tests/data/ig_traps.txt")
+    traps_mapsource_path <- obtain_ig_posicion_mapsource_path("/workdir/tests/data")
+    expect_equal(traps_mapsource_path, "/workdir/tests/data/IG_TRAMPAS_05MAR2023.txt")
+    read_ms(traps_mapsource_path)
   })
 })
 
