@@ -1,3 +1,5 @@
+#' @importFrom comprehenr to_vec
+
 #' @export
 remove_duplicated_id <- function(activated_or_inactivated_traps) {
   is_duplicated_id <- activated_or_inactivated_traps$ID |>
@@ -20,4 +22,9 @@ obtain_date_from_full_path <- function(full_path) {
   file_name <- str_split(full_path, "/")[[1]] |>
     last()
   return(obtain_date_of_name_file(file_name))
+}
+
+files_ig_posicion_trampas <- function(root_path = "/workdir/data") {
+  files_ig_posicion <- list.files(root_path, pattern = ".csv$")
+  return(comprehenr::to_vec(for (file in files_ig_posicion) if (str_sub(file, 1, 7) == "IG_POSI") file))
 }
