@@ -10,3 +10,10 @@ describe("remove_duplicated_id", {
   obtained <- remove_duplicated_id(data_with_duplicated_id)
   expect_equal(obtained, expected)
 })
+
+describe("obtain_activated_traps_from_ig_posicion_path", {
+  ig_posicion_path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_10MAR2023.csv"
+  obtained <- obtain_activated_traps_from_ig_posicion_path(ig_posicion_path)
+  expected <- read_csv("/workdir/tests/data/activated_traps.csv", show_col_types = FALSE)
+  expect_equal(obtained, expected)
+})
