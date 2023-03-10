@@ -6,7 +6,7 @@ remove_duplicated_id <- function(activated_or_inactivated_traps) {
 }
 
 obtain_activated_traps_from_ig_posicion_path <- function(ig_posicion_path) {
-  date_of_name_file <- "10-03-2023"
+  date_of_name_file <- obtain_date_from_full_path(ig_posicion_path)
   activated_traps <- read_csv(
     ig_posicion_path,
     show_col_types = FALSE,
@@ -14,4 +14,10 @@ obtain_activated_traps_from_ig_posicion_path <- function(ig_posicion_path) {
   ) |>
     transform_from_ig_position_2_maps_of_traps(date_of_name_file)
   return(activated_traps)
+}
+
+obtain_date_from_full_path <- function(full_path) {
+  file_name <- str_split(full_path, "/")[[1]] |>
+    last()
+  return(obtain_date_of_name_file(file_name))
 }
