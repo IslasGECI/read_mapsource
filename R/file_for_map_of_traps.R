@@ -2,10 +2,15 @@
 
 #' @export
 obtain_date_of_name_file <- function(file_ig_pt) {
-  day <- file_ig_pt |> stringr::str_sub(21, 22)
-  mes <- file_ig_pt |> stringr::str_sub(23, 25)
+  name_date <- file_ig_pt |> stringr::str_sub(21, 29)
+  return(.change_name_date_2_char_date(name_date))
+}
+
+.change_name_date_2_char_date <- function(name_date) {
+  day <- name_date |> stringr::str_sub(1, 2)
+  mes <- name_date |> stringr::str_sub(3, 5)
   month <- MES_2_NUMBER_MONTH[[mes]]
-  year <- file_ig_pt |> stringr::str_sub(26, 29)
+  year <- name_date |> stringr::str_sub(6, 9)
   return(glue::glue("{day}-{month}-{year}"))
 }
 
