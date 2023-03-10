@@ -26,6 +26,6 @@ describe("obtain_data_from_full_path", {
 
 describe("files_ig_posicion_trampas", {
   expected <- c("IG_POSICION_TRAMPAS_03JUL2022.csv", "IG_POSICION_TRAMPAS_10MAR2023.csv")
-  obtained <- files_ig_posicion_trampas("/workdir/data")
+  obtained <- files_ig_posicion_trampas("/workdir/tests/data")
   expect_equal(obtained, expected)
 })
