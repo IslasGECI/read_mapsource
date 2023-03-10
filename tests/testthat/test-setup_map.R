@@ -17,3 +17,9 @@ describe("obtain_activated_traps_from_ig_posicion_path", {
   expected <- read_csv("/workdir/tests/data/activated_traps.csv", show_col_types = FALSE)
   expect_equal(obtained, expected)
 })
+
+describe("obtain_data_from_full_path", {
+  expected <- "10-03-2023"
+  obtained <- obtain_date_from_full_path("/workdir/tests/data/IG_POSICION_TRAMPAS_10MAR2023.csv")
+  expect_equal(obtained, expected)
+})
