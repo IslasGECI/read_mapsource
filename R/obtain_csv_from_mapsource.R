@@ -107,7 +107,15 @@ select_right_columns_traps <- function(waypoints) {
 }
 
 add_other_columns_traps <- function(waypoints, wrote_day) {
-  all_week <- obtain_date_columns(wrote_day)
+  add_other_columns_traps_by_weeks(waypoints, wrote_day, weeks = 2)
+}
+
+add_other_columns_traps_one_week <- function(waypoints, wrote_day) {
+  add_other_columns_traps_by_weeks(waypoints, wrote_day, weeks = 1)
+}
+
+add_other_columns_traps_by_weeks <- function(waypoints, wrote_day, weeks) {
+  all_week <- obtain_date_columns(wrote_day, weeks)
   day_1 <- change_date_to_column_name(all_week[1])
   waypoints |>
     add_column(
