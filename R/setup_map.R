@@ -38,3 +38,8 @@ obtain_char_date_from_mapsource_file <- function(file_path) {
   len_file <- str_length(file_path)
   name_date <- file_path |> str_sub(len_file - 12, len_file - 4)
 }
+
+obtain_date_name_from_mapsource_file <- function(root_path = "/workdir/data") {
+  name_file <- obtain_ig_posicion_mapsource_path(root_path)
+  return(.obtain_name_date(name_file))
+}
