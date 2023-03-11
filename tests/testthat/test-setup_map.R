@@ -47,6 +47,6 @@ describe("obtain_date_name_from_mapsource_file", {
   it("return '05MAR2023' from 'IG_TRAMPAS_05MAR2023'", {
     obtained_date_name <- obtain_date_name_from_mapsource_file("/workdir/tests/data")
     expected_date_name <- "05MAR2023"
-    expect_equal(obtained, expected)
+    expect_equal(obtained_date_name, expected_date_name)
   })
 })
