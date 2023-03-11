@@ -86,4 +86,10 @@ describe("Get csv of POSICION TRAMPA", {
     expect_equal(change_date_to_column_name(obtained_name[1]), expected_name[1])
     expect_equal(change_date_to_column_name(obtained_name[7]), expected_name[7])
   })
+  it("obtain the right date columns without default value", {
+    expected_name <- c("26/Feb/2023", "27/Feb/2023", "28/Feb/2023", "01/Mar/2023", "02/Mar/2023", "03/Mar/2023", "04/Mar/2023")
+    obtained_name <- obtain_date_columns(today, weeks = 1)
+    expect_equal(change_date_to_column_name(obtained_name[1]), expected_name[1])
+    expect_equal(change_date_to_column_name(obtained_name[7]), expected_name[7])
+  })
 })
