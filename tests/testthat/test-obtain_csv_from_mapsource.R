@@ -24,6 +24,11 @@ describe("Obtain the csv of cameras from mapsource", {
 describe("Next sunday", {
   it("From '2023-03-04' the final presentation", {
     today <- ymd("2023-03-04")
+    expected <- "05MAR2023"
+    expect_equal(obtain_date_to_title(today, weeks = 1), expected)
+  })
+  it("From '2023-03-04' the final presentation with default value", {
+    today <- ymd("2023-03-04")
     expected <- "12MAR2023"
     expect_equal(obtain_date_to_title(today), expected)
   })
