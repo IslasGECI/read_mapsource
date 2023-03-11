@@ -88,6 +88,15 @@ obtain_csv_from_traps_of_mapsource <- function(waypoints, wrote_day) {
     add_other_columns_traps(wrote_day)
 }
 
+#' @export
+obtain_csv_from_traps_of_mapsource_one_week <- function(waypoints, wrote_day) {
+  ig_traps <- waypoints |>
+    filter_active_traps() |>
+    add_traps_coordinates() |>
+    select_right_columns_traps() |>
+    add_other_columns_traps_one_week(wrote_day)
+}
+
 filter_active_traps <- function(waypoints) {
   waypoints |>
     filter(Symbol != "Scenic Area") |>
