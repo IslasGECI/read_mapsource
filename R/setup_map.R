@@ -43,3 +43,10 @@ obtain_date_name_from_mapsource_file <- function(root_path = "/workdir/data") {
   name_file <- obtain_ig_posicion_mapsource_path(root_path)
   return(.obtain_name_date(name_file))
 }
+
+obtain_date_name_from_mapsource_file_for_inactivated_traps <- function(root_path = "/workdir/data") {
+  date_name_from_mapsource_file <- obtain_date_name_from_mapsource_file(root_path)
+  char_date <- .change_name_date_2_char_date(date_name_from_mapsource_file)
+  the_day <- dmy(char_date)
+  obtain_date_to_title(the_day, weeks = 1)
+}
