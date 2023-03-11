@@ -30,7 +30,11 @@ files_ig_posicion_trampas <- function(root_path = "/workdir/data") {
 }
 
 obtain_char_date_from_mapsource_file <- function(file_path) {
+  name_date <- .obtain_name_date(file_path)
+  .change_name_date_2_char_date(name_date)
+}
+
+.obtain_name_date <- function(file_path) {
   len_file <- str_length(file_path)
   name_date <- file_path |> str_sub(len_file - 12, len_file - 4)
-  .change_name_date_2_char_date(name_date)
 }
