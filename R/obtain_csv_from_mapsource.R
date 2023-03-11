@@ -53,8 +53,8 @@ obtain_date_to_title <- function(today) {
   date_to_title <- glue::glue("{day_to_title(sunday)}{month.NOMBRES[month(sunday)]}{year(sunday)}")
 }
 
-next_sunday <- function(today) {
-  delta_day <- 15 - wday(today)
+next_sunday <- function(today, weeks = 2) {
+  delta_day <- 1 + 7 * weeks - wday(today)
   sunday <- today + delta_day
   return(sunday)
 }
