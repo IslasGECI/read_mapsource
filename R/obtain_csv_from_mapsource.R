@@ -48,8 +48,8 @@ add_other_columns <- function(waypoints) {
 month.NOMBRES <- c("ENE", "FEB", "MAR", "ABR", "MAY", "JUN", "JUL", "AGO", "SEP", "OCT", "NOV", "DIC")
 
 #' @export
-obtain_date_to_title <- function(today) {
-  sunday <- next_sunday(today)
+obtain_date_to_title <- function(today, weeks = 2) {
+  sunday <- next_sunday(today, weeks)
   date_to_title <- glue::glue("{day_to_title(sunday)}{month.NOMBRES[month(sunday)]}{year(sunday)}")
 }
 
