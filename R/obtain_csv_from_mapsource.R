@@ -124,8 +124,8 @@ add_other_columns_traps <- function(waypoints, wrote_day) {
     )
 }
 
-obtain_date_columns <- function(today) {
-  sunday <- next_sunday(today)
+obtain_date_columns <- function(today, weeks = 2) {
+  sunday <- next_sunday(today, weeks)
   all_week <- sunday - c(6, 5, 4, 3, 2, 1, 0)
 }
 
