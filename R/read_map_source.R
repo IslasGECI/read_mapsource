@@ -57,7 +57,7 @@ obtain_points_of_routes_by_number_of_route <- function(full_information, n_route
 
 select_ID_and_linea <- function(points_with_route_names) {
   points_with_route_names |>
-    select(c("ID" = 2, "Linea" = linea))
+    select(c("ID" = `Waypoint Name`, "Linea" = linea))
 }
 
 #' @export
