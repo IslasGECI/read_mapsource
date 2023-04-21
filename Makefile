@@ -1,5 +1,8 @@
 all: check coverage
 
+ig_posicion_trampas_for_next_week.csv: src/obtain_csv_from_mapsource_traps.R
+	Rscript src/obtain_csv_from_mapsource_traps.R
+
 .PHONY: \
     check \
     clean \
@@ -19,8 +22,8 @@ check:
       | grep FALSE
 
 clean:
-	rm --force --recursive *.Rcheck
 	rm --force *.tar.gz
+	rm --force --recursive *.Rcheck
 	rm --force --recursive tests/testthat/_snaps
 	rm --force NAMESPACE
 
@@ -38,6 +41,7 @@ init: setup tests
 setup: clean install
 
 install:
+	mkdir --parents data
 	R -e "devtools::document()" && \
     R CMD build . && \
     R CMD check readMS_0.1.0.tar.gz && \
