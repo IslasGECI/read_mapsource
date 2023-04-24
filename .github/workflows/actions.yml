@@ -3,6 +3,8 @@ on: push
 jobs:
   actions:
     runs-on: ubuntu-latest
+    env:
+      github_sha: ${{ github.sha }}
     steps:
     - name: Copia repositorio
       uses: actions/checkout@v2
