@@ -1,5 +1,5 @@
 #' @import dplyr
-
+#' @import lubridate
 
 #' @export
 write_position_tramps_csv <- function(mapsource_path, type_of_traps, today = today()) {
@@ -13,6 +13,20 @@ write_position_tramps_csv <- function(mapsource_path, type_of_traps, today = tod
     write_csv(output_file)
 }
 
+#' @export
+write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
+  type_of_traps <- "cepos"
+  ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
+  last_date_of_data <- obtain_char_date_from_mapsource_file(ig_posicion_mapsource_path)
+  traps <- read_ms(ig_posicion_mapsource_path)
+  traps_with_routes <- obtain_traps_with_routes(traps)
+  next_sunday <- obtain_date_to_title(today, week = 1)
+  output_file <- glue::glue(OUTPUT_MAPSOURCE_PATHS[[type_of_traps]])
+  obtain_csv_from_traps_of_mapsource_one_week(traps, today) |>
+    select(-12) |>
+    left_join(traps_with_routes, by = "ID") |>
+    write_csv(output_file)
+}
 #' @export
 obtain_csv_from_waypoints_of_mapsource <- function(waypoints) {
   ig_cameras <- waypoints |>
