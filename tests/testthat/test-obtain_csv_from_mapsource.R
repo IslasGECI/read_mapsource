@@ -1,5 +1,7 @@
-library(tidyverse)
+library(testtools)
+
 library(lubridate)
+library(tidyverse)
 
 describe("Obtain the csv of cameras from mapsource", {
   waypoints <- read_csv("/workdir/tests/data/example_waypoints_from_mapsource.csv", show_col_types = FALSE)
@@ -68,16 +70,18 @@ describe("Get csv of POSICION TRAMPA", {
   waypoints <- read_csv("/workdir/tests/data/example_traps_from_mapsource.csv", show_col_types = FALSE)
   today <- ymd("2023-03-04")
   obtained <- obtain_csv_from_traps_of_mapsource(waypoints, today)
+  glimpse(obtained)
   it("Wraper to obtain position tramps csv from mapsource", {
     today <- ymd("2023-04-21")
     type_of_traps <- "cepos"
     mapsource_path <- "../data/mapsource_16ABR2023.txt"
     write_position_tramps_csv(mapsource_path, type_of_traps, today)
     output_file <- "/workdir/data/IG_POSICION_TRAMPAS_30ABR2023.csv"
-    obtained_csv <- read_csv(output_file)
+    obtained_csv <- read_csv(output_file, show_col_types = FALSE)
     expected_path <- "../data/expected_IG_POSICION_TRAMPAS_30ABR2023.csv"
-    expected_csv <- read_csv(expected_path)
+    expected_csv <- read_csv(expected_path, show_col_types = FALSE)
     expect_equal(obtained_csv, expected_csv)
+    delete_output_file(output_file)
   })
   it("has the right coordinates", {
     expect_true(obtained$`Coor-X`[1] == 376963)
