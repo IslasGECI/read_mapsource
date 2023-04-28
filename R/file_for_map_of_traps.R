@@ -54,7 +54,7 @@ update_activated_traps <- function(inactive_traps, activated_traps) {
       return(active_and_inactive_traps)
     },
     error = function(e) {
-      stop("Los IDs no coinciden en IG_POSICION y en el mapsource")
+      stop("\n 🚨 Los IDs no coinciden en IG_POSICION y en el mapsource 🚨 \n")
     }
   )
   return(active_and_inactive_traps)
