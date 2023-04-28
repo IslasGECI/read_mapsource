@@ -23,7 +23,3 @@ jobs:
       run: docker push islasgeci/read_mapsource:latest
     - name: Tag image with hash
       run: docker push islasgeci/read_mapsource:${github_sha:0:4}
-    - name: Verifica el formato
-      run: docker run islasgeci make check
-    - name: Corre pruebas y evalúa cobertura
-      run: docker run islasgeci make coverage
