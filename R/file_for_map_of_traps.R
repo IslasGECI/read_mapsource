@@ -48,8 +48,15 @@ obtain_inactive_traps_from_clean_position_traps <- function(posicion_trampa) {
 update_activated_traps <- function(inactive_traps, activated_traps) {
   clean_activated_traps <- activated_traps |>
     select(c("ID", "is_active", "date"))
-  active_and_inactive_traps <- inactive_traps |>
-    rows_update(clean_activated_traps)
+  tryCatch(
+    {
+      active_and_inactive_traps <- rows_update(inactive_traps, clean_activated_traps)
+      return(active_and_inactive_traps)
+    },
+    error = function(e) {
+      stop("Los IDs no coinciden en IG_POSICION y en el mapsource")
+    }
+  )
   return(active_and_inactive_traps)
 }
 
