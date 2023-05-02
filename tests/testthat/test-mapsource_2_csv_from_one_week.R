@@ -13,3 +13,11 @@ describe("Create csv from mapsource", {
     delete_output_file(output_file)
   })
 })
+describe("Read id, sunday, responsable name from last week", {
+  it("read_id_sunday_and_responsable_from_last_week()", {
+    last_week_path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_10MAR2023.csv"
+    obtained <- read_id_sunday_and_responsable_from_last_week(last_week_path)
+    expected <- read_csv("/workdir/tests/data/expected_read_id_responsable_and_sunday.csv")
+    expect_equal(obtained, expected)
+  })
+})
