@@ -28,6 +28,11 @@ write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
     write_csv(output_file)
 }
 
+read_id_sunday_and_responsable_from_last_week <- function(last_week_path) {
+  last_week <- read_csv(last_week_path, show_col_types = FALSE)
+  last_week |> select(c(1, 4, 11))
+}
+
 build_output_file_path <- function(today, type_of_traps, week = 2) {
   next_sunday <- obtain_date_to_title(today, week = week)
   output_file <- glue::glue(OUTPUT_MAPSOURCE_PATHS[[type_of_traps]])
@@ -158,7 +163,6 @@ add_other_columns_traps_one_week <- function(waypoints, wrote_day) {
 
 add_other_columns_traps_by_weeks <- function(waypoints, wrote_day, weeks) {
   all_week <- obtain_date_columns(wrote_day, weeks)
-  day_1 <- change_date_to_column_name(all_week[1])
   waypoints |>
     add_column(
       Nombre_del_responsable = NA,
