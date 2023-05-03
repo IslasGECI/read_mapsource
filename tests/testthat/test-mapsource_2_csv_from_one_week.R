@@ -21,3 +21,9 @@ describe("Read id, sunday, responsable name from last week", {
     expect_equal(obtained, expected)
   })
 })
+describe("copy status traps", {
+  it("Example of 10MAR2023 but NA in status and responsable", {
+    example_without_status <- read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_10MAR2023_with_NA.csv")
+    obtained <- copy_trap_status(example_without_status)
+  })
+})
