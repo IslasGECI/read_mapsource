@@ -6,6 +6,12 @@ describe("Read a mapsource file", {
     read_ms(traps_mapsource_path)
   })
 })
+describe("Read a IG_POSICION_TRAMPAS_XXXXXXXXX.xlsx  file", {
+  it("Build path for IG_POSICION_TRAMPAS_XXXXXXXXX.csv", {
+    position_traps_path <- obtain_ig_posicion_csv_path("/workdir/tests/data/IG_TRAMPAS_05MAR2023.txt")
+    expect_equal(position_traps_path, "/workdir/tests/data/IG_POSICION_TRAMPAS_05MAR2023.csv")
+  })
+})
 
 describe("Obtaine rows with Route", {
   cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")

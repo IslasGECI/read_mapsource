@@ -79,3 +79,7 @@ obtain_ig_posicion_mapsource_path <- function(root_path = "/workdir/data") {
   paths <- comprehenr::to_vec(for (file in files) paste(root_path, file, sep = "/"))
   return(paths)
 }
+
+obtain_ig_posicion_csv_path <- function(ig_posicion_mapsource_path) {
+  str_replace_all(ig_posicion_mapsource_path, c("_TRAMPAS" = "_POSICION_TRAMPAS", ".txt" = ".csv"))
+}
