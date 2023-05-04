@@ -19,13 +19,17 @@ write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
   type_of_traps <- "cepos"
   ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
   traps <- read_ms(ig_posicion_mapsource_path)
-  traps_with_routes <- obtain_traps_with_routes(traps)
   week <- 1
   output_file <- build_output_file_path(today, type_of_traps, week)
+  .join_traps_with_routes(traps, today) |>
+    write_csv(output_file)
+}
+
+.join_traps_with_routes <- function(traps, today) {
+  traps_with_routes <- obtain_traps_with_routes(traps)
   obtain_csv_from_traps_of_mapsource_one_week(traps, today) |>
     select(-Linea) |>
-    left_join(traps_with_routes, by = "ID") |>
-    write_csv(output_file)
+    left_join(traps_with_routes, by = "ID")
 }
 
 read_id_sunday_and_responsable_from_last_week <- function(last_week_path) {
