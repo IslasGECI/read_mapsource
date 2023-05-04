@@ -16,13 +16,21 @@ write_position_tramps_csv <- function(mapsource_path, today = today()) {
 
 #' @export
 write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
-  type_of_traps <- "cepos"
   ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
-  traps <- read_ms(ig_posicion_mapsource_path)
-  week <- 1
-  output_file <- build_output_file_path(today, type_of_traps, week)
-  .join_traps_with_routes(traps, today) |>
+  output_file <- .obtain_output_path_for_one_week(today)
+  .build_position_traps_without_status(ig_posicion_mapsource_path, today) |>
     write_csv(output_file)
+}
+
+.obtain_output_path_for_one_week <- function(today) {
+  type_of_traps <- "cepos"
+  week <- 1
+  build_output_file_path(today, type_of_traps, week)
+}
+
+.build_position_traps_without_status <- function(ig_posicion_mapsource_path, today) {
+  traps <- read_ms(ig_posicion_mapsource_path)
+  .join_traps_with_routes(traps, today)
 }
 
 .join_traps_with_routes <- function(traps, today) {
