@@ -1,0 +1,1 @@
+copy_trap_status <- function(traps_without_status) {}
