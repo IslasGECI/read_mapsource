@@ -2,9 +2,9 @@
 #' @import lubridate
 
 #' @export
-write_position_tramps_csv <- function(mapsource_path, today = today()) {
+write_position_tramps_csv <- function(mapsource_directory, today = today()) {
   type_of_traps <- "cepos"
-  cameras_path <- read_ms(mapsource_path)
+  cameras_path <- read_ms(mapsource_directory)
   traps_with_routes <- obtain_traps_with_routes(cameras_path)
   next_sunday <- obtain_date_to_title(today)
   output_file <- build_output_file_path(today, type_of_traps)
@@ -15,16 +15,14 @@ write_position_tramps_csv <- function(mapsource_path, today = today()) {
 }
 
 #' @export
-write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
-  ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
+write_position_traps_for_one_week <- function(mapsource_directory, today = today()) {
+  traps_without_status <- .obtain_week_without_status(mapsource_directory, today)
   output_file <- .obtain_output_path_for_one_week(today)
-  .build_position_traps_without_status(ig_posicion_mapsource_path, today) |>
-    write_csv(output_file)
+  write_csv(traps_without_status, output_file)
 }
 
-.obtain_week_without_status <- function(mapsource_directory) {
-  ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
-  output_file <- .obtain_output_path_for_one_week(today)
+.obtain_week_without_status <- function(mapsource_directory, today) {
+  ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_directory)
   .build_position_traps_without_status(ig_posicion_mapsource_path, today)
 }
 
