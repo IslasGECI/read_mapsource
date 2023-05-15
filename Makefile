@@ -51,8 +51,8 @@ tests:
 	Rscript -e "devtools::test(stop_on_failure = TRUE)"
 
 red: format
-	Rscript -e "devtools::test(stop_on_failure = TRUE)" && git restore R tests/testthat \
-	|| (git add R/ tests/testthat/ && git commit -m "🛑🧪 Fail tests")
+	Rscript -e "devtools::test(stop_on_failure = TRUE)" && git restore tests/testthat \
+	|| (git add tests/testthat/test*.R && git commit -m "🛑🧪 Fail tests")
 	chmod g+w -R .
 
 green: format
