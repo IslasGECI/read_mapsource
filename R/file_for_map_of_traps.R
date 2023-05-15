@@ -54,7 +54,8 @@ update_activated_traps <- function(inactive_traps, activated_traps) {
       return(active_and_inactive_traps)
     },
     error = function(e) {
-      different_rows <- glue::glue_collapse(which(inactive_traps$ID != clean_activated_traps$ID), ", ", last = " y ")
+      are_active_not_in_inactive <- which(!(clean_activated_traps$ID %in% inactive_traps$ID))
+      different_rows <- glue::glue_collapse(are_active_not_in_inactive, ", ", last = " y ")
       stop(glue::glue("🚨 Los IDs de los renglones {different_rows} en IG_POSICION no están en el mapsource 🚨"))
     }
   )
