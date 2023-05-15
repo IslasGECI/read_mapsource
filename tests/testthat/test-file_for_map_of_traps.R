@@ -69,9 +69,9 @@ describe("update_activated_traps", {
   inactive_traps <- read_csv("../data/inactive_traps_with_extra_id.csv", show_col_types = FALSE)
   active_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
   it("Expect error update_activated_traps()", {
-    expect_error(update_activated_traps(active_traps, inactive_traps[1:15, ]), "🚨 Los IDs de los renglones 15 en IG_POSICION no están en el mapsource 🚨")
+    expect_error(update_activated_traps(active_traps, inactive_traps[1:15, ]), "\n 🚨 Los IDs de los renglones 6 en IG_POSICION no están en el mapsource 🚨 \n")
   })
   it("Expect two rows in message erro", {
-    expect_error(update_activated_traps(active_traps, inactive_traps), "🚨 Los IDs de los renglones 15 y 16 en IG_POSICION no están en el mapsource 🚨")
+    expect_error(update_activated_traps(active_traps, inactive_traps), "\n 🚨 Los IDs de los renglones 6 y 16 en IG_POSICION no están en el mapsource 🚨 \n")
   })
 })

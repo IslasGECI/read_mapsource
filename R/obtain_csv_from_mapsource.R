@@ -22,6 +22,12 @@ write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
     write_csv(output_file)
 }
 
+.obtain_week_without_status <- function(mapsource_directory) {
+  ig_posicion_mapsource_path <- obtain_ig_posicion_mapsource_path(mapsource_path)
+  output_file <- .obtain_output_path_for_one_week(today)
+  .build_position_traps_without_status(ig_posicion_mapsource_path, today)
+}
+
 .obtain_output_path_for_one_week <- function(today) {
   type_of_traps <- "cepos"
   week <- 1
