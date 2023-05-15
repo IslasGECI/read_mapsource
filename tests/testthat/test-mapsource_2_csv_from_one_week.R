@@ -40,3 +40,13 @@ describe("Get position tramps csv path", {
     expect_equal(obtained, expected)
   })
 })
+describe("Get position tramps with status from directory path", {
+  it("get_current_position_tramps_from_directory()", {
+    directory <- "/workdir/tests/data"
+    today <- ymd("2022-07-2")
+    example_without_status <- read_csv("/workdir/tests/data/example_IG_POSICION_TRAMPAS_10MAR2023_with_NA.csv")
+    obtained <- .obtain_week_with_status(example_without_status, directory, today)
+    expected <- read_csv("/workdir/tests/data/expected_copy_trap_status.csv")
+    expect_equal(obtained, expected)
+  })
+})
