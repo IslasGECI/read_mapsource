@@ -69,6 +69,6 @@ describe("update_activated_traps", {
   it("Expect error update_activated_traps()", {
     active_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
     inactive_traps <- read_csv("../data/inactive_traps_with_extra_id.csv", show_col_types = FALSE)
-    expect_error(update_activated_traps(active_traps, inactive_traps), "\n 🚨 Los IDs no coinciden en IG_POSICION y en el mapsource 🚨 \n")
+    expect_error(update_activated_traps(active_traps, inactive_traps), "\n 🚨 Los IDs de los renglones 15 en IG_POSICION no están en el mapsource 🚨 \n")
   })
 })
