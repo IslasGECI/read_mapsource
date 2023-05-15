@@ -21,6 +21,13 @@ write_position_traps_for_one_week <- function(mapsource_directory, today = today
   write_csv(traps_without_status, output_file)
 }
 
+.obtain_week_with_status <- function(traps_without_status, mapsource_directory, today) {
+  curret_position_path <- get_current_position_tramps_from_directory(mapsource_directory, today)
+  trap_status <- read_id_sunday_and_responsable_from_last_week(curret_position_path)
+  traps_without_status |>
+    copy_trap_status(trap_status)
+}
+
 get_current_position_tramps_from_directory <- function(mapsource_directory, today) {
   current_sunday <- obtain_date_to_title(today, week = 1)
   glue::glue("{mapsource_directory}/IG_POSICION_TRAMPAS_{current_sunday}.csv")
