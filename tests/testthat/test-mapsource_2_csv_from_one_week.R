@@ -31,3 +31,12 @@ describe("copy status traps", {
     expect_equal(obtained, expected)
   })
 })
+describe("Get position tramps csv path", {
+  it("get_current_position_tramps_from_directory()", {
+    directory <- "/workdir/tests/data"
+    today <- ymd("2022-07-2")
+    obtained <- get_current_position_tramps_from_directory(directory, today)
+    expected <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
+    expect_equal(obtained, expected)
+  })
+})
