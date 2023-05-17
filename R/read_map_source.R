@@ -75,11 +75,11 @@ obtain_traps_with_routes <- function(full_information) {
 
 obtain_ig_posicion_mapsource_path <- function(root_path = "/workdir/data") {
   all_paths <- list.files(root_path)
-  files <- comprehenr::to_vec(for (file in all_paths) if (str_detect(file, "IG_TRAMPAS")) file)
+  files <- comprehenr::to_vec(for (file in all_paths) if (str_detect(file, "IG_MAPSOURCE_TRAMPAS")) file)
   paths <- comprehenr::to_vec(for (file in files) paste(root_path, file, sep = "/"))
   return(paths)
 }
 
 obtain_ig_posicion_csv_path <- function(ig_posicion_mapsource_path) {
-  str_replace_all(ig_posicion_mapsource_path, c("_TRAMPAS" = "_POSICION_TRAMPAS", ".txt" = ".csv"))
+  str_replace_all(ig_posicion_mapsource_path, c("_MAPSOURCE_TRAMPAS" = "_POSICION_TRAMPAS", ".txt" = ".csv"))
 }
