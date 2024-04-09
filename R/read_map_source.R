@@ -5,6 +5,14 @@ read_ms <- function(path) {
   return(readr::read_tsv(path, skip = 3, show_col_types = FALSE))
 }
 
+XXread_ms <- function(path) {
+  return(readr::read_tsv_chunked(path, DataFrameCallback$new(delimiter_chunk), skip = 3, show_col_types = FALSE))
+}
+
+delimiter_chunk <- function(x, pos) {
+  subset(x, Header == "Waypoint")
+}
+
 extract_installed_cameras <- function(readed_mapsource) {
   readed_mapsource |>
     dplyr::filter(Header == "Waypoint") |>

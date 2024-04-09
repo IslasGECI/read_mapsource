@@ -25,7 +25,7 @@ describe("Obtain dataframe of cameras with Scenic Area", {
 })
 
 describe("Obtaine rows with Route", {
-  cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
+  cameras <- read_csv("/workdir/tests/data/readed_ms.csv", show_col_types = FALSE)
   it("Number of lines", {
     rows_of_route <- obtain_index_of_route_rows(cameras)
     expected <- 40
