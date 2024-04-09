@@ -6,6 +6,12 @@ describe("Read a mapsource file", {
     expect_equal(traps_mapsource_path, mapsource_path)
     read_ms(traps_mapsource_path)
   })
+  it("Read list of cameras (Waypoints)", {
+    listed_cameras <- read_listed_cameras_from_mapsource("/workdir/tests/data/ig_cameras.txt")
+    obtained_rows <- nrow(listed_cameras)
+    expected_rows <- 228
+    expect_equal(obtained_rows, expected_rows)
+  })
 })
 describe("Read a IG_POSICION_TRAMPAS_XXXXXXXXX.xlsx  file", {
   it("Build path for IG_POSICION_TRAMPAS_XXXXXXXXX.csv", {
