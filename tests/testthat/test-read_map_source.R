@@ -14,6 +14,16 @@ describe("Read a IG_POSICION_TRAMPAS_XXXXXXXXX.xlsx  file", {
   })
 })
 
+describe("Obtain dataframe of cameras with Scenic Area", {
+  cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
+  it("Number installed cameras", {
+    rows_of_installed_cameras <- extract_installed_cameras(cameras)
+    expected <- 113
+    obtained <- length(rows_of_installed_cameras)
+    expect_equal(obtained, expected)
+  })
+})
+
 describe("Obtaine rows with Route", {
   cameras <- read_ms("/workdir/tests/data/ig_cameras.txt")
   it("Number of lines", {
