@@ -15,9 +15,10 @@ describe("Read a IG_POSICION_TRAMPAS_XXXXXXXXX.xlsx  file", {
 })
 
 describe("Obtain dataframe of cameras with Scenic Area", {
-  cameras <- XXread_ms("/workdir/tests/data/ig_cameras.txt")
+  listed_cameras <- XXread_ms("/workdir/tests/data/ig_cameras.txt")
+  write_csv(listed_cameras, "/workdir/tests/data/ig_cameras_waypoints.csv")
   it("Number installed cameras", {
-    rows_of_installed_cameras <- extract_installed_cameras(cameras)
+    rows_of_installed_cameras <- extract_installed_cameras(listed_cameras)
     expected <- 113
     obtained <- nrow(rows_of_installed_cameras)
     expect_equal(obtained, expected)
