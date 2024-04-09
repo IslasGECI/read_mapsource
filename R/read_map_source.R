@@ -5,6 +5,13 @@ read_ms <- function(path) {
   return(readr::read_tsv(path, skip = 3, show_col_types = FALSE))
 }
 
+extract_installed_cameras <- function(readed_mapsource) {
+  readed_mapsource |>
+    dplyr::filter(Header == "Waypoint") |>
+    dplyr::select(c("Name", "Symbol")) |>
+    dplyr::filter(Symbol == "Scenic Area")
+}
+
 obtain_index_of_route_rows <- function(waypoints) {
   return(which(waypoints$Header == "Route"))
 }

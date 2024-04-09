@@ -19,7 +19,7 @@ describe("Obtain dataframe of cameras with Scenic Area", {
   it("Number installed cameras", {
     rows_of_installed_cameras <- extract_installed_cameras(cameras)
     expected <- 113
-    obtained <- length(rows_of_installed_cameras)
+    obtained <- nrow(rows_of_installed_cameras)
     expect_equal(obtained, expected)
   })
 })
