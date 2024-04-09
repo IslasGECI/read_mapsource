@@ -21,8 +21,7 @@ describe("Read a IG_POSICION_TRAMPAS_XXXXXXXXX.xlsx  file", {
 })
 
 describe("Obtain dataframe of cameras with Scenic Area", {
-  listed_cameras <- read_listed_cameras_from_mapsource("/workdir/tests/data/ig_cameras.txt")
-  write_csv(listed_cameras, "/workdir/tests/data/ig_cameras_waypoints.csv")
+  listed_cameras <- read_csv("/workdir/tests/data/ig_cameras_waypoints.csv", show_col_types = FALSE)
   it("Number installed cameras", {
     rows_of_installed_cameras <- extract_installed_cameras(listed_cameras)
     expected <- 113
