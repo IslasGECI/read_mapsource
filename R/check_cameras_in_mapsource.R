@@ -17,6 +17,10 @@ get_missing_ids_in_mapsource <- function(cameras_in_revision_campo, listed_camer
   setdiff(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
 }
 
+get_missing_ids_in_revision_campo <- function(cameras_in_revision_campo, listed_cameras_in_mapsource) {
+  setdiff(listed_cameras_in_mapsource[["Name"]], cameras_in_revision_campo[["ID_camara"]])
+}
+
 are_id_sets_equal <- function(cameras_in_revision_campo, cameras_in_mapsource) {
   setequal(cameras_in_revision_campo[["ID_camara"]], cameras_in_mapsource[["Name"]])
 }
