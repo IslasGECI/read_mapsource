@@ -20,10 +20,7 @@ describe("Check cameras", {
     expected <- c("CT-01-001-CF")
     expect_equal(obtained, expected)
   })
-  it("Get message if cameras in revision_campo are in mapsource", {
-    expect_message(double_check(cameras_in_revision_campo_green, listed_cameras_in_mapsource), "💚 La revisión de cámaras es correcta 💚")
-  })
-  it("Get message if cameras in mapsource are in revision_campo", {
+  it("Get correct message", {
     expect_message(double_check(cameras_in_revision_campo_green, listed_cameras_in_mapsource), "💚 La revisión de cámaras es correcta 💚")
   })
   it("Get error if cameras in revision_campo are not in mapsource", {

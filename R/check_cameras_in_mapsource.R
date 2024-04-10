@@ -5,19 +5,19 @@ double_check <- function(cameras_in_revision_campo, cameras_in_mapsource) {
 }
 
 check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_mapsource) {
-  if (are_id_sets_equal(cameras_in_revision_campo, cameras_in_mapsource)) {
-    return()
+  missing_ids <- get_missing_ids_in_mapsource(cameras_in_revision_campo, cameras_in_mapsource)
+  if (length(missing_ids) > 0) {
+    messages <- .write_missing_id_in_mapsource_message(cameras_in_revision_campo, cameras_in_mapsource)
+    stop(messages)
   }
-  messages <- .write_missing_id_in_mapsource_message(cameras_in_revision_campo, cameras_in_mapsource)
-  stop(messages)
 }
 
 check_cameras_in_revision_campo <- function(cameras_in_revision_campo, cameras_in_mapsource) {
-  if (are_all_mapsource_cameras_in_revision_campo(cameras_in_revision_campo, cameras_in_mapsource)) {
-    return()
+  missing_ids <- get_missing_ids_in_revision_campo(cameras_in_revision_campo, cameras_in_mapsource)
+  if (length(missing_ids) > 0) {
+    messages <- .write_missing_id_in_revision_campo_message(cameras_in_revision_campo, cameras_in_mapsource)
+    stop(messages)
   }
-  messages <- .write_missing_id_in_revision_campo_message(cameras_in_revision_campo, cameras_in_mapsource)
-  stop(messages)
 }
 
 .write_missing_id_in_revision_campo_message <- function(cameras_in_revision_campo, cameras_in_mapsource) {
