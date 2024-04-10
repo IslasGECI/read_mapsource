@@ -18,5 +18,5 @@ get_missing_ids_in_mapsource <- function(cameras_in_revision_campo, listed_camer
 }
 
 are_id_sets_equal <- function(cameras_in_revision_campo, cameras_in_mapsource) {
-  all(cameras_in_revision_campo[["ID_camara"]] %in% cameras_in_mapsource[["Name"]])
+  setequal(cameras_in_revision_campo[["ID_camara"]], cameras_in_mapsource[["Name"]])
 }
