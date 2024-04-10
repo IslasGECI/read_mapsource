@@ -6,6 +6,10 @@ check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_map
   stop("🚨 Error en los IDs 🚨")
 }
 
+get_missing_ids_in_mapsource <- function(cameras_in_revision_campo, listed_cameras_in_mapsource) {
+  setdiff(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
+}
+
 are_all_in_mapsource <- function(cameras_in_revision_campo, cameras_in_mapsource) {
   all(cameras_in_revision_campo[["ID_camara"]] %in% cameras_in_mapsource[["Name"]])
 }
