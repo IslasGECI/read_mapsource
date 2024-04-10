@@ -9,7 +9,7 @@ check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_map
 
 check_cameras_in_revision_campo <- function(cameras_in_revision_campo, cameras_in_mapsource) {
   if (are_id_sets_equal(cameras_in_revision_campo, cameras_in_mapsource)) {
-    message("💚 Todas las cámaras están en el mapsource 💚")
+    message("💚 Todas las cámaras están en el revision_campo 💚")
     return()
   }
   messages <- .write_missing_id_in_revision_campo_message(cameras_in_revision_campo, cameras_in_mapsource)
