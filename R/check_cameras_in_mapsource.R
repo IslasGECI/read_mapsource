@@ -1,6 +1,6 @@
 check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_mapsource) {
   if (are_all_in_mapsource(cameras_in_revision_campo, cameras_in_mapsource)) {
-    print("💚 Todas las cámaras están en el mapsource 💚")
+    message("💚 Todas las cámaras están en el mapsource 💚")
     return()
   }
   stop("🚨 Error en los IDs 🚨")
