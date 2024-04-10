@@ -6,7 +6,7 @@ read_ms <- function(path) {
 }
 
 read_listed_cameras_from_mapsource <- function(path) {
-  return(readr::read_tsv_chunked(path, DataFrameCallback$new(delimiter_chunk), skip = 3, show_col_types = FALSE))
+  return(readr::read_tsv_chunked(path, readr::DataFrameCallback$new(delimiter_chunk), skip = 3, show_col_types = FALSE))
 }
 
 delimiter_chunk <- function(x, pos) {
