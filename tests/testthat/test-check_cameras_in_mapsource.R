@@ -8,6 +8,11 @@ describe("Check cameras", {
     obtained <- are_all_in_mapsource(cameras_in_revision_campo_green, listed_cameras_in_mapsource)
     expect_true(obtained)
   })
+  it("Obtain diff in cameras IDs", {
+    obtained <- get_missing_ids_in_mapsource(cameras_in_revision_campo, listed_cameras_in_mapsource)
+    expected <- c("CT-99-100-XX")
+    expect_equal(obtained, expected)
+  })
   it("Get message if cameras in revision_campo are in mapsource", {
     expect_message(check_cameras_in_mapsource(cameras_in_revision_campo_green, listed_cameras_in_mapsource), "💚 Todas las cámaras están en el mapsource 💚")
   })
