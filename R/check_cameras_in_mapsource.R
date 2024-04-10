@@ -3,8 +3,6 @@ check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_map
     message("💚 Todas las cámaras están en el mapsource 💚")
     return()
   }
-  missing_ids <- get_missing_ids_in_mapsource(cameras_in_revision_campo, cameras_in_mapsource)
-  different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
   messages <- .write_missing_id_in_mapsource_message(cameras_in_revision_campo, cameras_in_mapsource)
   stop(messages)
 }
