@@ -1,3 +1,7 @@
+double_check <- function(cameras_in_revision_campo, cameras_in_mapsource) {
+  check_cameras_in_revision_campo(cameras_in_revision_campo, cameras_in_mapsource)
+}
+
 check_cameras_in_mapsource <- function(cameras_in_revision_campo, cameras_in_mapsource) {
   if (are_id_sets_equal(cameras_in_revision_campo, cameras_in_mapsource)) {
     message("💚 Todas las cámaras están en el mapsource 💚")
