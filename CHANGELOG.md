@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Function `check_cameras()` to compare IDs between IG_CAMARASrevision_campo and cameras mapsource.
+- Function `check_cameras()` to compare IDs between IG_CAMARAS revision_campo and cameras mapsource.
 
-[Unreleased]: https://github.com/IslasGECI/janitor/compare/HEAD...v0.1.0
-[0.1.0]: https://github.com/IslasGECI/janitor/compare/v0.1.0
+[Unreleased]: https://github.com/IslasGECI/read_mapsource/compare/HEAD...v0.1.0
+[0.1.0]: https://github.com/IslasGECI/read_mapsource/compare/v0.1.0
