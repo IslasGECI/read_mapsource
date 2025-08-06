@@ -75,3 +75,11 @@ describe("update_activated_traps", {
     expect_error(update_activated_traps(active_traps, inactive_traps), "🚨 Los IDs TC-02-139-CR y TC-02-140-CR en IG_POSICION no están en el mapsource 🚨")
   })
 })
+
+describe("Check traps", {
+  it("Error when traps are not in mapsource", {
+    tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
+    expect_error(check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en IG_POSICION no están en el mapsource 🚨")
+  })
+})

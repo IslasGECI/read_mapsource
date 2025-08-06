@@ -63,6 +63,13 @@ update_activated_traps <- function(inactive_traps, activated_traps) {
   return(active_and_inactive_traps)
 }
 
+check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
+  index_of_active_not_in_inactive <- which(!(activated_traps$ID %in% inactive_traps$ID))
+  are_active_not_in_inactive <- activated_traps$ID[index_of_active_not_in_inactive]
+  different_rows <- glue::glue_collapse(are_active_not_in_inactive, ", ", last = " y ")
+  stop(glue::glue("🚨 Los IDs {different_rows} en IG_POSICION no están en el mapsource 🚨"))
+}
+
 filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
   posicion_trampa |>
     filter(!is.na(Nombre_del_responsable))
