@@ -33,7 +33,10 @@ check_cameras_in_revision_campo <- function(cameras_in_revision_campo, cameras_i
 }
 
 get_missing_ids_in_mapsource <- function(cameras_in_revision_campo, listed_cameras_in_mapsource) {
-  setdiff(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
+  xxget_missing_ids_in_mapsource(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
+}
+xxget_missing_ids_in_mapsource <- function(cameras_ids, mapsource_ids) {
+  setdiff(cameras_ids, mapsource_ids)
 }
 
 get_missing_ids_in_revision_campo <- function(cameras_in_revision_campo, listed_cameras_in_mapsource) {
