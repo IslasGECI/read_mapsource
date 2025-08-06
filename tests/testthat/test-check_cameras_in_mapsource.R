@@ -5,7 +5,7 @@ describe("Check cameras", {
   cameras_in_revision_campo_green <- tibble("ID_camara" = c("CT-01-001-CF", "CT-03-034-AR", "CT-07-011-LM"))
   two_cameras_in_revision_campo <- tibble("ID_camara" = c("CT-03-034-AR", "CT-07-011-LM"))
   it("Obtain diff in cameras IDs", {
-    obtained <- xxget_missing_ids_in_mapsource(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
+    obtained <- get_missing_ids_in_mapsource(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
     expected <- c("CT-99-100-XX")
     expect_equal(obtained, expected)
     obtained <- get_missing_ids_in_revision_campo(two_cameras_in_revision_campo, listed_cameras_in_mapsource)
