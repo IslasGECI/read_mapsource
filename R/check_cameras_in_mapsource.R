@@ -27,7 +27,7 @@ check_cameras_in_revision_campo <- function(cameras_in_revision_campo, cameras_i
 }
 
 .write_missing_id_in_mapsource_message <- function(cameras_in_revision_campo, cameras_in_mapsource) {
-  missing_ids <- get_missing_ids_in_mapsource(cameras_in_revision_campo, cameras_in_mapsource)
+  missing_ids <- xxget_missing_ids_in_mapsource(cameras_in_revision_campo[["ID_camara"]], cameras_in_mapsource[["Name"]])
   different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
   glue::glue("🚨 Los IDs {different_ids} en IG_CAMARAS no están en el mapsource 🚨")
 }
