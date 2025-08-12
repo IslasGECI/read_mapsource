@@ -18,7 +18,7 @@ write_position_tramps_csv <- function(mapsource_path, today = today()) {
 #' @export
 write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
   traps_without_status <- .build_position_traps_without_status(mapsource_path, today)
-  output_file <- .obtain_output_path_for_one_week(today)
+  output_file <- .obtain_output_path_for_one_week(mapsource_path, today)
   mapsource_directory <- dirname(mapsource_path)
   readr::write_csv(traps_without_status, glue::glue("{mapsource_directory}/{output_file}"))
 }
@@ -40,10 +40,17 @@ get_current_position_tramps_from_directory <- function(mapsource_directory, toda
   .build_position_traps_without_status(ig_posicion_mapsource_path, today)
 }
 
-.obtain_output_path_for_one_week <- function(today) {
+.obtain_output_path_for_one_week <- function(mapsource_path, today) {
   type_of_traps <- "cepos"
   week <- 1
-  build_output_file_path(today, type_of_traps, week)
+  next_sunday <- obtain_date_to_title(today, week = week)
+  file_name <- basename(mapsource_path)
+  island <- stringr::str_split(file_name, "_")[[1]][1]
+  XXOUTPUT_MAPSOURCE_PATHS <- list(
+    "camaras" = "IG_CAMARA_TRAMPA_EXTRA_{next_sunday}.csv",
+    "cepos" = "{island}_POSICION_TRAMPAS_{next_sunday}.csv"
+  )
+  output_file <- glue::glue(XXOUTPUT_MAPSOURCE_PATHS[[type_of_traps]])
 }
 
 .build_position_traps_without_status <- function(ig_posicion_mapsource_path, today) {
