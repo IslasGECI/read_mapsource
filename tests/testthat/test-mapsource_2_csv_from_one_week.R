@@ -1,8 +1,8 @@
 describe("Create csv from mapsource", {
   it("Run traps for one week", {
-    mapsource_path <- "/workdir/tests/data/"
+    mapsource_path <- "/workdir/tests/data/IG_MAPSOURCE_TRAMPAS_05MAR2023.txt"
     today <- lubridate::ymd("2023-04-21")
-    write_position_traps_for_one_week(mapsource_path, today = today)
+    xxwrite_position_traps_for_one_week(mapsource_path, today = today)
     output_file <- "/workdir/tests/data/IG_POSICION_TRAMPAS_23ABR2023.csv"
     obtained_csv <- readr::read_csv(output_file, show_col_types = FALSE)
     expected_path <- "/workdir/tests/data/expected_IG_POSICION_TRAMPAS_23ABR2023.csv"
