@@ -10,14 +10,14 @@ describe("Create csv from mapsource", {
     expect_equal(obtained_csv, expected_csv)
     testtools::delete_output_file(output_file)
   })
-  # it("Run traps for one week for Socorro", {
-  #   mapsource_path <- "/workdir/tests/data/IS_MAPSOURCE_TRAMPEO_13JUL2025.txt"
-  #   today <- lubridate::ymd("2025-07-16")
-  #   write_position_traps_for_one_week(mapsource_path, today = today)
-  #   output_file <- "/workdir/tests/data/IS_POSICION_TRAMPAS_20JUL2025.csv"
-  #   expect_true(testtools::exist_output_file(output_file))
-  #   testtools::delete_output_file(output_file)
-  # })
+  it("Run traps for one week for Socorro", {
+    mapsource_path <- "/workdir/tests/data/IS_MAPSOURCE_TRAMPEO_13JUL2025.txt"
+    today <- lubridate::ymd("2025-07-16")
+    write_position_traps_for_one_week(mapsource_path, today = today)
+    output_file <- "/workdir/tests/data/IS_POSICION_TRAMPAS_20JUL2025.csv"
+    expect_true(testtools::exist_output_file(output_file))
+    testtools::delete_output_file(output_file)
+  })
 })
 
 describe("Read id, sunday, responsable name from last week", {
