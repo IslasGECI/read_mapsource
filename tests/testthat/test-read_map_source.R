@@ -3,9 +3,8 @@ mapsource_path <- "/workdir/tests/data/IG_MAPSOURCE_TRAMPAS_05MAR2023.txt"
 describe("Read a mapsource file", {
   it("Read as tsv", {
     traps_mapsource_path <- obtain_ig_posicion_mapsource_path("/workdir/tests/data")
-    expect_equal(traps_mapsource_path[1], mapsource_path)
-    mapsource_path <- "/workdir/tests/data/IS_MAPSOURCE_TRAMPEO_13JUL2025.txt"
-    expect_equal(traps_mapsource_path[2], mapsource_path)
+    expect_equal(traps_mapsource_path, mapsource_path)
+    read_ms(traps_mapsource_path)
   })
   it("Read list of cameras (Waypoints)", {
     listed_cameras <- read_listed_cameras_from_mapsource("/workdir/tests/data/ig_cameras.txt")
