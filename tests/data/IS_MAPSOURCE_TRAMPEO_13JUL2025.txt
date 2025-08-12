@@ -1,0 +1,2448 @@
+Grid	UTM
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	TC-10-0006-08		User Waypoint	12 Q 506174 2073342	300 m				Symbol & Name	Unknown	Lodge					7/13/2023 7:19:09 AM 		
+Waypoint	TC-10-0008-03		User Waypoint	12 Q 506219 2074244	362 m				Symbol & Name	Unknown	Lodge					8/24/2023 8:46:03 AM 		
+Waypoint	TC-10-0009-09		User Waypoint	12 Q 506076 2073668	333 m				Symbol & Name	Unknown	Lodge					8/24/2023 7:48:45 AM 		
+Waypoint	TC-10-0018-05		User Waypoint	12 Q 505601 2074646	389 m				Symbol & Name	Unknown	Lodge					1/13/2024 6:47:18 AM 		
+Waypoint	TC-10-0019-06		User Waypoint	12 Q 505764 2074399	364 m				Symbol & Name	Unknown	Lodge					1/13/2024 8:09:04 AM 		
+Waypoint	TC-10-0020-02		User Waypoint	12 Q 504939 2074422	402 m				Symbol & Name	Unknown	Lodge					1/17/2024 9:27:52 AM 		
+Waypoint	TC-10-0022-03		User Waypoint	12 Q 504947 2074861	434 m				Symbol & Name	Unknown	Lodge					8/20/2024 7:01:38 AM 		
+Waypoint	TC-10-0024-01		User Waypoint	12 Q 505000 2074454	410 m				Symbol & Name	Unknown	Lodge					1/18/2024 5:58:55 AM 		
+Waypoint	TC-10-0025-03		User Waypoint	12 Q 504760 2074366	376 m				Symbol & Name	Unknown	Lodge					8/22/2024 3:43:19 PM 		
+Waypoint	TC-10-0026-04		User Waypoint	12 Q 504735 2074257	356 m				Symbol & Name	Unknown	Lodge					1/18/2024 7:00:40 AM 		
+Waypoint	TC-10-0027-05		User Waypoint	12 Q 504621 2074180	367 m				Symbol & Name	Unknown	Lodge					1/18/2024 7:55:05 AM 		
+Waypoint	TC-10-0035-16		User Waypoint	12 Q 506489 2076774	352 m				Symbol & Name	Unknown	Lodge					1/19/2024 5:42:01 AM 		
+Waypoint	TC-10-0036-06		User Waypoint	12 Q 507754 2073557	178 m				Symbol & Name	Unknown	Lodge					1/24/2024 6:53:44 AM 		
+Waypoint	TC-10-0037-13		User Waypoint	12 Q 506228 2076474	392 m				Symbol & Name	Unknown	Lodge					1/25/2024 6:01:14 AM 		
+Waypoint	TC-10-0038-12		User Waypoint	12 Q 506123 2076371	409 m				Symbol & Name	Unknown	Lodge					1/25/2024 7:18:42 AM 		
+Waypoint	TC-10-0039-11		User Waypoint	12 Q 505981 2076376					Symbol & Name	Unknown	Lodge					5/14/2024 12:32:03 PM 		
+Waypoint	TC-10-0040-04		User Waypoint	12 Q 502822 2072982	172 m				Symbol & Name	Unknown	Lodge					8/19/2024 8:05:59 AM 		
+Waypoint	TC-10-0086-02		User Waypoint	12 Q 506288 2072147	150 m				Symbol & Name	Unknown	Lodge					1/13/2021 8:49:46 AM 		
+Waypoint	TC-10-0227-03		User Waypoint	12 Q 503031 2073145	206 m				Symbol & Name	Unknown	Lodge					7/13/2023 6:12:29 AM 		
+Waypoint	TC-10-0367-01		User Waypoint	12 Q 503690 2073822	350 m				Symbol & Name	Unknown	Lodge					6/28/2022 6:56:32 AM 		
+Waypoint	TC-10-0368-04		User Waypoint	12 Q 504347 2074923					Symbol & Name	Unknown	Lodge					8/19/2024 3:49:38 PM 		
+Waypoint	TC-10-0369-03		User Waypoint	12 Q 504543 2074847	441 m				Symbol & Name	Unknown	Lodge					6/27/2022 7:12:28 AM 		
+Waypoint	TC-10-0370-02		User Waypoint	12 Q 504707 2074784	424 m				Symbol & Name	Unknown	Lodge					6/27/2022 6:26:47 AM 		
+Waypoint	TC-10-0372-08		User Waypoint	12 Q 504066 2074312	394 m				Symbol & Name	Unknown	Lodge					6/28/2022 6:58:13 AM 		
+Waypoint	TC-10-0374-06		User Waypoint	12 Q 505506 2072869	218 m				Symbol & Name	Unknown	Lodge					8/17/2024 11:34:39 AM 		
+Waypoint	TC-10-0375-05		User Waypoint	12 Q 505534 2072783	202 m				Symbol & Name	Unknown	Lodge					7/1/2022 7:35:23 AM 		
+Waypoint	TC-10-0376-04		User Waypoint	12 Q 505642 2072715	191 m				Symbol & Name	Unknown	Lodge					7/1/2022 7:11:56 AM 		
+Waypoint	TC-10-0377-03		User Waypoint	12 Q 505742 2072651	188 m				Symbol & Name	Unknown	Lodge					7/1/2022 6:48:13 AM 		
+Waypoint	TC-10-0378-02		User Waypoint	12 Q 505800 2072558	175 m				Symbol & Name	Unknown	Lodge					7/1/2022 6:24:17 AM 		
+Waypoint	TC-10-0379-01		User Waypoint	12 Q 505859 2072446	169 m				Symbol & Name	Unknown	Lodge					7/1/2022 5:55:41 AM 		
+Waypoint	TC-10-0380-12		User Waypoint	12 Q 506303 2074654	354 m				Symbol & Name	Unknown	Lodge					6/28/2022 8:00:16 AM 		
+Waypoint	TC-10-0381-10		User Waypoint	12 Q 506478 2075056	395 m				Symbol & Name	Unknown	Lodge					6/28/2022 7:41:44 AM 		
+Waypoint	TC-10-0383-01		User Waypoint	12 Q 505100 2074960	428 m				Symbol & Name	Unknown	Lodge					6/28/2022 5:49:54 AM 		
+Waypoint	TC-10-0388-04		User Waypoint	12 Q 505624 2075083	428 m				Symbol & Name	Unknown	Lodge					6/27/2022 7:24:21 AM 		
+Waypoint	TC-10-0390-03		User Waypoint	12 Q 505377 2075186	440 m				Symbol & Name	Unknown	Lodge					6/27/2022 6:28:44 AM 		
+Waypoint	TC-10-0392-07		User Waypoint	12 Q 506209 2073434	308 m				Symbol & Name	Unknown	Lodge					7/1/2022 8:28:40 AM 		
+Waypoint	TC-10-0393-06		User Waypoint	12 Q 506323 2073666	357 m				Symbol & Name	Unknown	Lodge					7/1/2022 7:24:21 AM 		
+Waypoint	TC-10-0394-05		User Waypoint	12 Q 506115 2073886	386 m				Symbol & Name	Unknown	Lodge					7/1/2022 6:56:34 AM 		
+Waypoint	TC-10-0395-04		User Waypoint	12 Q 506186 2074157	372 m				Symbol & Name	Unknown	Lodge					7/1/2022 6:22:15 AM 		
+Waypoint	TC-10-0396-02		User Waypoint	12 Q 506336 2074214	361 m				Symbol & Name	Unknown	Lodge					7/1/2022 5:55:38 AM 		
+Waypoint	TC-10-0400-01		User Waypoint	12 Q 506587 2076953	321 m				Symbol & Name	Unknown	Lodge					6/29/2022 5:54:50 AM 		
+Waypoint	TC-10-0405-03		User Waypoint	12 Q 507702 2077737	273 m				Symbol & Name	Unknown	Lodge					6/29/2022 6:12:43 AM 		
+Waypoint	TC-10-0427-06		User Waypoint	12 Q 507013 2072965	257 m				Symbol & Name	Unknown	Lodge					7/6/2022 7:42:43 AM 		
+Waypoint	TC-10-0428-05		User Waypoint	12 Q 507063 2073242	268 m				Symbol & Name	Unknown	Lodge					7/6/2022 7:00:39 AM 		
+Waypoint	TC-10-0429-02		User Waypoint	12 Q 507165 2073715	252 m				Symbol & Name	Unknown	Lodge					3/31/2025 10:32:59 AM 		
+Waypoint	TC-10-0431-12		User Waypoint	12 Q 506939 2074230	293 m				Symbol & Name	Unknown	Lodge					7/8/2022 9:24:08 AM 		
+Waypoint	TC-10-0434-09		User Waypoint	12 Q 507005 2074821	333 m				Symbol & Name	Unknown	Lodge					7/6/2022 8:04:08 AM 		
+Waypoint	TC-10-0436-07		User Waypoint	12 Q 507356 2075153	317 m				Symbol & Name	Unknown	Lodge					7/6/2022 7:09:28 AM 		
+Waypoint	TC-10-0437-05		User Waypoint	12 Q 507437 2075796	330 m				Symbol & Name	Unknown	Lodge					7/6/2022 6:49:56 AM 		
+Waypoint	TC-10-0438-04		User Waypoint	12 Q 507542 2076258	312 m				Symbol & Name	Unknown	Lodge					7/6/2022 6:04:31 AM 		
+Waypoint	TC-10-0440-07		User Waypoint	12 Q 506905 2072835	248 m				Symbol & Name	Unknown	Lodge					7/6/2022 7:58:55 AM 		
+Waypoint	TC-10-0441-03		User Waypoint	12 Q 507124 2073567	259 m				Symbol & Name	Unknown	Lodge					7/6/2022 6:22:37 AM 		
+Waypoint	TC-10-0449-06		User Waypoint	12 Q 507118 2071987	144 m				Symbol & Name	Unknown	Lodge					7/5/2022 8:33:39 AM 		
+Waypoint	TC-10-0453-04		User Waypoint	12 Q 506734 2072057	148 m				Symbol & Name	Unknown	Lodge					7/2/2022 5:48:45 AM 		
+Waypoint	TC-10-0456-01		User Waypoint	12 Q 506042 2072193	175 m				Symbol & Name	Unknown	Lodge					3/31/2025 11:30:38 AM 		
+Waypoint	TC-10-0457-13		User Waypoint	12 Q 503573 2074640					Symbol & Name	Unknown	Lodge							
+Waypoint	TC-10-0458-14		User Waypoint	12 Q 503849 2074962					Symbol & Name	Unknown	Lodge							
+Waypoint	TC-10-0459-11		User Waypoint	12 Q 503855 2074104	369 m				Symbol & Name	Unknown	Lodge					11/2/2022 8:19:32 AM 		
+Waypoint	TC-10-0462-11		User Waypoint	12 Q 505404 2073540	264 m				Symbol & Name	Unknown	Lodge					10/15/2022 9:37:35 AM 		
+Waypoint	TC-10-0500-15		User Waypoint	12 Q 504037 2074624	407 m				Symbol & Name	Unknown	Lodge					8/19/2024 3:59:25 PM 		
+Waypoint	TC-10-0502-07		User Waypoint	12 Q 505338 2076655	555 m				Symbol & Name	Unknown	Lodge					7/11/2025 11:02:58 AM 		
+Waypoint	TC-10-0503-07		User Waypoint	12 Q 502253 2072934	25 m				Symbol & Name	Unknown	Lodge					1/12/2023 8:17:43 AM 		
+Waypoint	TC-10-0505-05		User Waypoint	12 Q 502561 2072910	117 m				Symbol & Name	Unknown	Lodge					1/6/2023 7:15:00 AM 		
+Waypoint	TC-10-0506-02		User Waypoint	12 Q 503545 2073615	375 m				Symbol & Name	Unknown	Lodge					1/6/2023 5:55:26 AM 		
+Waypoint	TC-10-0507-10		User Waypoint	12 Q 503903 2074209	378 m				Symbol & Name	Unknown	Lodge					4/18/2024 7:48:23 AM 		
+Waypoint	TC-10-0508-09		User Waypoint	12 Q 506297 2072599	57 m				Symbol & Name	Unknown	Lodge					12/29/2022 12:22:51 PM 		
+Waypoint	TC-10-0509-01		User Waypoint	12 Q 506669 2073150	268 m				Symbol & Name	Unknown	Lodge					12/27/2022 7:59:18 AM 		
+Waypoint	TC-10-0510-02		User Waypoint	12 Q 506939 2073190	271 m				Symbol & Name	Unknown	Lodge					12/27/2022 7:04:03 AM 		
+Waypoint	TC-10-0515-07		User Waypoint	12 Q 508009 2073630	139 m				Symbol & Name	Unknown	Lodge					12/27/2022 9:30:18 AM 		
+Waypoint	TC-10-0516-05		User Waypoint	12 Q 507485 2073386	249 m				Symbol & Name	Unknown	Lodge					12/27/2022 7:32:10 AM 		
+Waypoint	TC-10-0517-04		User Waypoint	12 Q 507415 2073285	247 m				Symbol & Name	Unknown	Lodge					12/27/2022 6:57:41 AM 		
+Waypoint	TC-10-0518-03		User Waypoint	12 Q 507262 2073242	253 m				Symbol & Name	Unknown	Lodge					12/27/2022 6:00:13 AM 		
+Waypoint	TC-10-0521-11		User Waypoint	12 Q 505848 2072020	132 m				Symbol & Name	Unknown	Lodge					12/26/2022 10:04:09 AM 		
+Waypoint	TC-10-0522-10		User Waypoint	12 Q 505819 2072194	152 m				Symbol & Name	Unknown	Lodge					12/26/2022 8:52:27 AM 		
+Waypoint	TC-10-0526-06		User Waypoint	12 Q 507264 2075290	336 m				Symbol & Name	Unknown	Lodge					12/13/2022 9:09:48 AM 		
+Waypoint	TC-10-0527-02		User Waypoint	12 Q 504825 2075063	444 m				Symbol & Name	Unknown	Lodge					12/13/2022 8:04:05 AM 		
+Waypoint	TC-10-0529-01		User Waypoint	12 Q 504718 2075279	467 m				Symbol & Name	Unknown	Lodge					12/13/2022 6:36:16 AM 		
+Waypoint	TC-10-0532-07		User Waypoint	12 Q 505363 2072926	224 m				Symbol & Name	Unknown	Lodge					12/14/2022 6:16:31 AM 		
+Waypoint	TC-10-0533-08		User Waypoint	12 Q 502279 2073061	29 m				Symbol & Name	Dark Gray	Lodge					5/9/2024 7:16:31 AM 		
+Waypoint	TC-10-0537-12		User Waypoint	12 Q 503676 2074479	414 m				Symbol & Name	Unknown	Lodge					2/6/2023 10:37:19 AM 		
+Waypoint	TC-10-0559-11		User Waypoint	12 Q 506587 2075742	370 m				Symbol & Name	Unknown	Lodge					4/4/2023 8:16:12 AM 		
+Waypoint	TC-10-0560-12		User Waypoint	12 Q 506754 2075649	363 m				Symbol & Name	Unknown	Lodge					4/4/2023 8:07:55 AM 		
+Waypoint	TC-10-0561-02		User Waypoint	12 Q 507035 2075155	345 m				Symbol & Name	Unknown	Lodge					4/1/2023 9:39:09 AM 		
+Waypoint	TC-10-0563-03		User Waypoint	12 Q 506969 2075239	348 m				Symbol & Name	Unknown	Lodge					4/1/2023 6:26:23 AM 		
+Waypoint	TC-10-0564-06		User Waypoint	12 Q 506724 2075351	391 m				Symbol & Name	Unknown	Lodge					3/31/2023 9:57:22 AM 		
+Waypoint	TC-10-0565-08		User Waypoint	12 Q 506538 2075550	401 m				Symbol & Name	Unknown	Lodge					3/31/2023 8:25:17 AM 		
+Waypoint	TC-10-0566-10		User Waypoint	12 Q 506398 2075612	415 m				Symbol & Name	Unknown	Lodge					3/31/2023 6:52:52 AM 		
+Waypoint	TC-10-0574-09		User Waypoint	12 Q 506650 2074572	330 m				Symbol & Name	Unknown	Lodge					3/20/2023 11:04:17 AM 		
+Waypoint	TC-10-0575-13		User Waypoint	12 Q 507022 2075653	345 m				Symbol & Name	Unknown	Lodge					3/20/2023 10:18:09 AM 		
+Waypoint	TC-10-0576-01		User Waypoint	12 Q 506993 2074970	345 m				Symbol & Name	Unknown	Lodge					3/20/2023 8:44:42 AM 		
+Waypoint	TC-10-0596-04		User Waypoint	12 Q 506670 2075211	379 m				Symbol & Name	Unknown	Lodge					4/20/2023 5:59:46 AM 		
+Waypoint	TC-10-0606-08		User Waypoint	12 Q 508427 2074899	87 m				Symbol & Name	Unknown	Lodge					4/11/2023 9:45:37 AM 		
+Waypoint	TC-10-0607-07		User Waypoint	12 Q 508200 2074930	133 m				Symbol & Name	Unknown	Lodge					4/11/2023 8:52:41 AM 		
+Waypoint	TC-10-0608-06		User Waypoint	12 Q 507983 2074953	161 m				Symbol & Name	Unknown	Lodge					4/11/2023 8:27:12 AM 		
+Waypoint	TC-10-0609-05		User Waypoint	12 Q 507813 2074968	203 m				Symbol & Name	Unknown	Lodge					4/11/2023 7:42:24 AM 		
+Waypoint	TC-10-0610-04		User Waypoint	12 Q 507587 2074992	251 m				Symbol & Name	Unknown	Lodge					4/8/2023 10:12:20 AM 		
+Waypoint	TC-10-0611-03		User Waypoint	12 Q 507426 2074986	292 m				Symbol & Name	Unknown	Lodge					4/8/2023 9:31:35 AM 		
+Waypoint	TC-10-0612-02		User Waypoint	12 Q 507375 2074896	289 m				Symbol & Name	Unknown	Lodge					4/8/2023 8:04:51 AM 		
+Waypoint	TC-10-0613-01		User Waypoint	12 Q 507270 2074882	290 m				Symbol & Name	Unknown	Lodge					4/8/2023 6:52:40 AM 		
+Waypoint	TC-10-0614-09		User Waypoint	12 Q 502742 2073226	97 m				Symbol & Name	Unknown	Lodge					4/25/2023 9:30:24 AM 		
+Waypoint	TC-10-0634-07		User Waypoint	12 Q 504882 2074056	348 m				Symbol & Name	Unknown	Lodge					6/1/2023 7:00:02 AM 		
+Waypoint	TC-10-0635-08		User Waypoint	12 Q 504990 2074176	359 m				Symbol & Name	Unknown	Lodge					6/1/2023 7:49:47 AM 		
+Waypoint	TC-10-0636-06		User Waypoint	12 Q 504756 2074108	349 m				Symbol & Name	Unknown	Lodge					6/1/2023 6:05:47 AM 		
+Waypoint	TC-10-0652-09		User Waypoint	12 Q 503999 2074233					Symbol & Name	Unknown	Lodge					8/19/2024 3:57:39 PM 		
+Waypoint	TC-10-0661-08		User Waypoint	12 Q 505551 2076612	536 m				Symbol & Name	Unknown	Lodge					7/11/2025 11:04:20 AM 		
+Waypoint	TC-10-0663-10		User Waypoint	12 Q 505832 2076488					Symbol & Name	Unknown	Lodge					5/14/2024 12:31:51 PM 		
+Waypoint	TC-10-0664-10		User Waypoint	12 Q 505298 2073334	255 m				Symbol & Name	Unknown	Lodge					6/18/2024 5:16:14 AM 		
+Waypoint	TC-10-0666-05		User Waypoint	12 Q 504226 2074662	417 m				Symbol & Name	Unknown	Lodge					8/19/2024 3:51:49 PM 		
+Waypoint	TC-10-0667-07		User Waypoint	12 Q 506085 2074247	359 m				Symbol & Name	Unknown	Lodge					8/20/2024 9:24:13 AM 		
+Waypoint	TC-10-0668-02		User Waypoint	12 Q 507604 2076659	321 m				Symbol & Name	Unknown	Lodge					8/20/2024 6:59:30 AM 		
+Waypoint	TC-10-0669-03		User Waypoint	12 Q 507665 2076444	314 m				Symbol & Name	Unknown	Lodge					8/20/2024 8:02:32 AM 		
+Waypoint	TC-10-0670-11		User Waypoint	12 Q 506770 2074522	327 m				Symbol & Name	Unknown	Lodge					8/20/2024 5:14:51 PM 		
+Waypoint	TC-10-0671-01		User Waypoint	12 Q 506291 2074310	364 m				Symbol & Name	Unknown	Lodge					8/22/2024 8:08:24 AM 		
+Waypoint	TC-10-0677-05		User Waypoint	12 Q 506922 2071957	129 m				Symbol & Name	Unknown	Lodge					3/31/2025 7:27:48 AM 		
+Waypoint	TC-10-0678-02		User Waypoint	12 Q 505142 2075140	450 m				Symbol & Name	Unknown	Lodge					4/1/2025 7:23:55 AM 		
+Waypoint	TC-20-0003-09		User Waypoint	12 Q 501662 2078749	761 m				Symbol & Name	Unknown	Lodge					12/5/2023 11:50:56 AM 		
+Waypoint	TC-20-0005-07		User Waypoint	12 Q 501721 2078544	792 m				Symbol & Name	Unknown	Lodge					12/5/2023 11:21:14 AM 		
+Waypoint	TC-20-0044-04		User Waypoint	12 Q 502693 2078367	881 m				Symbol & Name	Unknown	Lodge					6/19/2024 7:29:17 PM 		
+Waypoint	TC-20-0045-05		User Waypoint	12 Q 502760 2078462	866 m				Symbol & Name	Unknown	Lodge					6/19/2024 7:30:04 PM 		
+Waypoint	TC-20-0046-06		User Waypoint	12 Q 502825 2078495	858 m				Symbol & Name	Unknown	Lodge					6/19/2024 7:30:31 PM 		
+Waypoint	TC-20-0047-08		User Waypoint	12 Q 502712 2078664	838 m				Symbol & Name	Unknown	Lodge					2/19/2019 8:19:56 AM 		
+Waypoint	TC-20-0048-10		User Waypoint	12 Q 502757 2078815	823 m				Symbol & Name	Unknown	Lodge					2/19/2019 8:19:56 AM 		
+Waypoint	TC-20-0049-09		User Waypoint	12 Q 502642 2078822	820 m				Symbol & Name	Unknown	Lodge					5/23/2025 1:31:23 PM 		
+Waypoint	TC-20-0050-12		User Waypoint	12 Q 501478 2078969	710 m				Symbol & Name	Unknown	Lodge					2/19/2019 8:19:56 AM 		
+Waypoint	TC-20-0056-05		User Waypoint	12 Q 503718 2077916	803 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0057-07		User Waypoint	12 Q 503919 2077909	760 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0058-01		User Waypoint	12 Q 503353 2077774	838 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0059-03		User Waypoint	12 Q 503517 2077841	829 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0060-05		User Waypoint	12 Q 501874 2078344	828 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0061-08		User Waypoint	12 Q 501736 2078629	776 m				Symbol & Name	Unknown	Lodge					4/22/2020 6:53:25 AM 		
+Waypoint	TC-20-0063-11		User Waypoint	12 Q 502869 2078883	792 m				Symbol & Name	Unknown	Lodge					4/25/2025 2:34:36 PM 		
+Waypoint	TC-20-0080-14		User Waypoint	12 Q 503022 2079053	775 m				Symbol & Name	Unknown	Lodge					6/16/2020 10:25:41 AM 		
+Waypoint	TC-20-0103-01		User Waypoint	12 Q 504174 2075672	560 m				Symbol & Name	Unknown	Lodge					3/23/2021 8:23:12 AM 		
+Waypoint	TC-20-0112-08		User Waypoint	12 Q 504690 2078100	664 m				Symbol & Name	Unknown	Lodge					3/25/2021 12:32:15 PM 		
+Waypoint	TC-20-0113-06		User Waypoint	12 Q 504586 2078134	679 m				Symbol & Name	Unknown	Lodge					3/25/2021 1:27:30 PM 		
+Waypoint	TC-20-0114-05		User Waypoint	12 Q 504513 2078152	673 m				Symbol & Name	Unknown	Lodge					3/25/2021 1:48:59 PM 		
+Waypoint	TC-20-0115-05		User Waypoint	12 Q 504164 2076602	600 m				Symbol & Name	Unknown	Lodge					4/15/2021 11:07:22 AM 		
+Waypoint	TC-20-0116-10		User Waypoint	12 Q 501570 2078776	723 m				Symbol & Name	Unknown	Lodge					4/7/2021 10:19:07 AM 		
+Waypoint	TC-20-0214-03		User Waypoint	12 Q 503877 2075701					Symbol & Name	Unknown	Lodge					5/31/2024 12:04:01 PM 		
+Waypoint	TC-20-0233-01		User Waypoint	12 Q 501343 2078852	729 m				Symbol & Name	Unknown	Lodge					6/16/2021 1:38:08 PM 		
+Waypoint	TC-20-0245-07		User Waypoint	12 Q 504620 2078088	669 m				Symbol & Name	Unknown	Lodge					7/22/2021 8:17:42 AM 		
+Waypoint	TC-20-0253-04		User Waypoint	12 Q 503623 2077893	809 m				Symbol & Name	Unknown	Lodge					10/29/2021 8:19:22 AM 		
+Waypoint	TC-20-0254-06		User Waypoint	12 Q 503821 2077913	791 m				Symbol & Name	Unknown	Lodge					10/29/2021 9:04:41 AM 		
+Waypoint	TC-20-0255-03		User Waypoint	12 Q 504378 2078011	679 m				Symbol & Name	Unknown	Lodge					10/29/2021 7:18:20 AM 		
+Waypoint	TC-20-0288-09		User Waypoint	12 Q 504350 2075768					Symbol & Name	Unknown	Lodge					6/12/2025 2:34:38 PM 		
+Waypoint	TC-20-0293-04		User Waypoint	12 Q 504117 2076701	612 m				Symbol & Name	Unknown	Lodge					3/18/2022 11:57:42 AM 		
+Waypoint	TC-20-0294-06		User Waypoint	12 Q 504476 2076460					Symbol & Name	Unknown	Lodge					6/12/2025 2:28:25 PM 		
+Waypoint	TC-20-0296-02		User Waypoint	12 Q 503332 2075926	616 m				Symbol & Name	Unknown	Lodge					3/17/2022 10:15:27 AM 		
+Waypoint	TC-20-0298-05		User Waypoint	12 Q 502862 2076092	625 m				Symbol & Name	Unknown	Lodge					3/19/2022 10:24:54 AM 		
+Waypoint	TC-20-0300-06		User Waypoint	12 Q 502692 2076136	600 m				Symbol & Name	Unknown	Lodge					3/19/2022 12:02:40 PM 		
+Waypoint	TC-20-0302-08		User Waypoint	12 Q 502512 2075979	557 m				Symbol & Name	Unknown	Lodge					6/23/2025 1:39:14 PM 		
+Waypoint	TC-20-0303-09		User Waypoint	12 Q 502432 2075892	551 m				Symbol & Name	Unknown	Lodge					3/20/2022 12:41:49 PM 		
+Waypoint	TC-20-0305-01		User Waypoint	12 Q 503534 2076006	626 m				Symbol & Name	Unknown	Lodge					3/17/2022 9:07:12 AM 		
+Waypoint	TC-20-0309-02		User Waypoint	12 Q 503270 2076049	630 m				Symbol & Name	Unknown	Lodge					3/19/2022 11:11:56 AM 		
+Waypoint	TC-20-0310-04		User Waypoint	12 Q 503300 2076413	650 m				Symbol & Name	Unknown	Lodge					3/19/2022 12:23:55 PM 		
+Waypoint	TC-20-0316-07		User Waypoint	12 Q 503634 2076166	615 m				Symbol & Name	Unknown	Lodge					3/29/2022 6:40:32 AM 		
+Waypoint	TC-20-0321-09		User Waypoint	12 Q 503925 2076285	620 m				Symbol & Name	Unknown	Lodge					3/29/2022 8:18:33 AM 		
+Waypoint	TC-20-0407-20		User Waypoint	12 Q 504486 2076893	808 m				Symbol & Name	Unknown	Lodge					6/4/2025 2:41:53 PM 		
+Waypoint	TC-20-0413-14		User Waypoint	12 Q 504045 2077531	728 m				Symbol & Name	Dark Gray	Lodge					12/1/2024 6:32:54 AM 		
+Waypoint	TC-20-0420-18		User Waypoint	12 Q 503336 2077560	828 m				Symbol & Name	Dark Gray	Lodge					7/1/2022 8:56:39 AM 		
+Waypoint	TC-20-0421-17		User Waypoint	12 Q 503488 2077476	808 m				Symbol & Name	Dark Gray	Lodge					7/1/2022 8:41:47 AM 		
+Waypoint	TC-20-0422-16		User Waypoint	12 Q 503673 2077466	775 m				Symbol & Name	Dark Gray	Lodge					7/1/2022 8:26:03 AM 		
+Waypoint	TC-20-0460-15		User Waypoint	12 Q 503829 2077600	769 m				Symbol & Name	Dark Gray	Lodge					10/28/2022 7:47:48 AM 		
+Waypoint	TC-20-0461-11		User Waypoint	12 Q 504291 2077332	712 m				Symbol & Name	Unknown	Lodge					12/1/2024 6:30:41 AM 		
+Waypoint	TC-20-0464-08		User Waypoint	12 Q 504420 2076998					Symbol & Name	Dark Gray	Lodge					11/30/2024 1:37:09 PM 		
+Waypoint	TC-20-0464-19		User Waypoint	12 Q 504422 2076957	636 m				Symbol & Name	Unknown	Lodge					6/4/2025 6:33:04 AM 		
+Waypoint	TC-20-0465-05		User Waypoint	12 Q 504650 2076765	632 m				Symbol & Name	Dark Gray	Lodge					11/30/2024 1:36:08 PM 		
+Waypoint	TC-20-0477-12		User Waypoint	12 Q 504216 2077277	715 m				Symbol & Name	Dark Gray	Lodge					11/30/2024 1:38:29 PM 		
+Waypoint	TC-20-0478-10		User Waypoint	12 Q 504351 2077263	708 m				Symbol & Name	Unknown	Lodge					11/30/2024 1:37:57 PM 		
+Waypoint	TC-20-0480-07		User Waypoint	12 Q 504449 2076938	633 m				Symbol & Name	Dark Gray	Lodge					12/1/2024 6:29:20 AM 		
+Waypoint	TC-20-0497-13		User Waypoint	12 Q 504097 2077394	700 m				Symbol & Name	Unknown	Lodge					6/3/2024 8:01:23 AM 		
+Waypoint	TC-20-0499-06		User Waypoint	12 Q 503132 2076852	770 m				Symbol & Name	Unknown	Lodge					4/1/2025 11:25:14 AM 		
+Waypoint	TC-20-0501-01		User Waypoint	12 Q 504292 2077801	689 m				Symbol & Name	Unknown	Lodge					1/13/2023 9:37:04 AM 		
+Waypoint	TC-20-0502-23		User Waypoint	12 Q 504569 2076287	589 m				Symbol & Name	Unknown	Navaid, Red					6/4/2025 7:16:04 AM 		
+Waypoint	TC-20-0530-03		User Waypoint	12 Q 504044 2076702	609 m				Symbol & Name	Unknown	Lodge					12/21/2022 9:04:21 AM 		
+Waypoint	TC-20-0589-04		User Waypoint	12 Q 504460 2078097	678 m				Symbol & Name	Unknown	Lodge					4/26/2023 11:37:52 AM 		
+Waypoint	TC-20-0591-03		User Waypoint	12 Q 502366 2079846	708 m				Symbol & Name	Unknown	Lodge					4/28/2023 1:50:56 PM 		
+Waypoint	TC-20-0592-04		User Waypoint	12 Q 502381 2079966	694 m				Symbol & Name	Unknown	Lodge					4/28/2023 1:07:52 PM 		
+Waypoint	TC-20-0593-06		User Waypoint	12 Q 502279 2080165	717 m				Symbol & Name	Unknown	Lodge					4/28/2023 12:59:53 PM 		
+Waypoint	TC-20-0594-08		User Waypoint	12 Q 502249 2080415	676 m				Symbol & Name	Unknown	Lodge					4/28/2023 11:50:54 AM 		
+Waypoint	TC-20-0631-01		User Waypoint	12 Q 503342 2075776	616 m				Symbol & Name	Unknown	Lodge					3/17/2022 9:10:21 AM 		
+Waypoint	TC-20-0643-01		User Waypoint	12 Q 502380 2079443	771 m				Symbol & Name	Unknown	Lodge					6/17/2023 8:26:29 AM 		
+Waypoint	TC-20-0644-02		User Waypoint	12 Q 502378 2079659	741 m				Symbol & Name	Unknown	Lodge					6/17/2023 9:02:10 AM 		
+Waypoint	TC-20-0645-09		User Waypoint	12 Q 502134 2080529	678 m				Symbol & Name	Unknown	Lodge					6/17/2023 10:15:36 AM 		
+Waypoint	TC-20-0646-07		User Waypoint	12 Q 502230 2080288	696 m				Symbol & Name	Unknown	Lodge					6/17/2023 11:19:50 AM 		
+Waypoint	TC-20-0647-11		User Waypoint	12 Q 501492 2078847	52 m				Symbol & Name	Unknown	Lodge					7/3/2023 9:36:18 AM 		
+Waypoint	TC-20-0649-13		User Waypoint	12 Q 501521 2079175	56 m				Symbol & Name	Unknown	Lodge					7/3/2023 9:41:40 AM 		
+Waypoint	TC-20-0658-06		User Waypoint	12 Q 501786 2078455					Symbol & Name	Unknown	Lodge							
+Waypoint	TC-20-0661-01		User Waypoint	12 Q 502317 2075927	557 m				Symbol & Name	Dark Gray	Lodge					5/7/2024 11:07:55 AM 		
+Waypoint	TC-20-0662-02		User Waypoint	12 Q 502173 2075996	540 m				Symbol & Name	Dark Gray	Lodge					5/7/2024 7:37:00 AM 		
+Waypoint	TC-20-0671-14		User Waypoint	12 Q 501487 2079455	670 m				Symbol & Name	Unknown	Lodge					5/7/2024 12:30:22 PM 		
+Waypoint	TC-20-0680-03		User Waypoint	12 Q 504630 2076575	594 m				Symbol & Name	Unknown	Lodge					11/30/2024 1:40:24 PM 		
+Waypoint	TC-20-0687-07		User Waypoint	12 Q 504426 2076075					Symbol & Name	Unknown	Lodge					6/21/2025 1:40:55 PM 		
+Waypoint	TC-20-0688-08		User Waypoint	12 Q 504367 2075889	600 m				Symbol & Name	Unknown	Lodge					11/30/2024 7:01:38 AM 		
+Waypoint	TC-20-0690-01		User Waypoint	12 Q 504782 2076850	630 m				Symbol & Name	Unknown	Lodge					1/19/2024 8:47:54 AM 		
+Waypoint	TC-20-0692-06		User Waypoint	12 Q 505194 2076707	572 m				Symbol & Name	Unknown	Lodge					5/14/2024 8:19:00 AM 		
+Waypoint	TC-20-0693-04		User Waypoint	12 Q 504941 2076660	635 m				Symbol & Name	Unknown	Lodge					1/25/2024 6:22:35 AM 		
+Waypoint	TC-20-0694-11		User Waypoint	12 Q 504351 2075596					Symbol & Name	Unknown	Lodge					6/17/2024 2:03:38 PM 		
+Waypoint	TC-20-0699-02		User Waypoint	12 Q 501233 2077884	766 m				Symbol & Name	Unknown	Lodge					11/19/2024 6:35:44 AM 		
+Waypoint	TC-20-0707-07		User Waypoint	12 Q 503005 2076988					Symbol & Name	Unknown	Lodge					5/13/2025 11:39:07 AM 		
+Waypoint	TC-20-0708-08		User Waypoint	12 Q 502891 2077143					Symbol & Name	Unknown	Lodge					5/13/2025 11:41:11 AM 		
+Waypoint	TC-20-0712-01		User Waypoint	12 Q 502843 2076909	792 m				Symbol & Name	Unknown	Lodge					5/20/2025 7:17:27 AM 		
+Waypoint	TC-20-0713-02		User Waypoint	12 Q 502626 2076765	757 m				Symbol & Name	Unknown	Lodge					6/5/2025 10:08:13 AM 		
+Waypoint	TC-20-0714-03		User Waypoint	12 Q 502466 2076676	713 m				Symbol & Name	Unknown	Lodge					6/5/2025 8:13:50 AM 		
+Waypoint	TC-20-0715-04		User Waypoint	12 Q 502391 2076493	680 m				Symbol & Name	Unknown	Lodge					6/18/2025 5:08:52 PM 		
+Waypoint	TC-20-0716-02		User Waypoint	12 Q 504021 2076544					Symbol & Name	Unknown	Lodge					5/20/2025 4:18:10 PM 		
+Waypoint	TC-20-0718-10		User Waypoint	12 Q 503806 2076444	638 m				Symbol & Name	Unknown	Lodge					5/20/2025 8:05:56 AM 		
+Waypoint	TC-20-0719-11		User Waypoint	12 Q 503682 2076611	657 m				Symbol & Name	Unknown	Lodge					5/20/2025 9:11:52 AM 		
+Waypoint	TC-20-0720-21		User Waypoint	12 Q 504503 2076365	595 m				Symbol & Name	Unknown	Lodge					6/4/2025 8:01:47 AM 		
+Waypoint	TC-20-0721-22		User Waypoint	12 Q 504593 2076352	595 m				Symbol & Name	Unknown	Lodge					6/4/2025 6:50:49 AM 		
+Waypoint	TC-30-0010-08		User Waypoint	12 Q 508315 2077316	212 m				Symbol & Name	Unknown	Lodge					12/4/2023 5:01:39 AM 		
+Waypoint	TC-30-0011-09		User Waypoint	12 Q 508487 2077271	169 m				Symbol & Name	Unknown	Lodge					12/4/2023 5:43:28 AM 		
+Waypoint	TC-30-0012-10		User Waypoint	12 Q 508653 2077218	136 m				Symbol & Name	Unknown	Lodge					12/4/2023 6:14:03 AM 		
+Waypoint	TC-30-0013-12		User Waypoint	12 Q 508674 2077544	124 m				Symbol & Name	Unknown	Lodge					12/4/2023 6:57:04 AM 		
+Waypoint	TC-30-0015-07		User Waypoint	12 Q 508094 2077219	271 m				Symbol & Name	Unknown	Lodge					9/3/2024 10:27:17 AM 		
+Waypoint	TC-30-0042-04		User Waypoint	12 Q 505844 2079980	281 m				Symbol & Name	Unknown	Lodge					6/15/2021 7:48:43 AM 		
+Waypoint	TC-30-0081-02		User Waypoint	12 Q 506596 2079963					Symbol & Name	Unknown	Lodge							
+Waypoint	TC-30-0084-03		User Waypoint	12 Q 506784 2080055	127 m				Symbol & Name	Unknown	Lodge					1/7/2021 1:28:59 PM 		
+Waypoint	TC-30-0085-01		User Waypoint	12 Q 506079 2079719	239 m				Symbol & Name	Unknown	Lodge					1/7/2021 3:23:23 PM 		
+Waypoint	TC-30-0094-01		User Waypoint	12 Q 506318 2079779	188 m				Symbol & Name	Unknown	Lodge					2/17/2021 8:10:54 AM 		
+Waypoint	TC-30-0095-03		User Waypoint	12 Q 506016 2079961	250 m				Symbol & Name	Unknown	Lodge					1/8/2021 9:43:59 AM 		
+Waypoint	TC-30-0216-02		User Waypoint	12 Q 506077 2079383	303 m				Symbol & Name	Unknown	Lodge					6/17/2021 7:09:57 PM 		
+Waypoint	TC-30-0217-03		User Waypoint	12 Q 506002 2079274	308 m				Symbol & Name	Unknown	Lodge					6/17/2021 7:08:37 PM 		
+Waypoint	TC-30-0220-01		User Waypoint	12 Q 506162 2079485	236 m				Symbol & Name	Unknown	Lodge					6/18/2021 7:52:34 AM 		
+Waypoint	TC-30-0221-04		User Waypoint	12 Q 505917 2079169	300 m				Symbol & Name	Unknown	Lodge					6/18/2021 7:12:30 AM 		
+Waypoint	TC-30-0222-07		User Waypoint	12 Q 505673 2078884	352 m				Symbol & Name	Unknown	Lodge					6/16/2021 9:25:32 AM 		
+Waypoint	TC-30-0224-05		User Waypoint	12 Q 505836 2079067	318 m				Symbol & Name	Unknown	Lodge					6/16/2021 6:55:28 AM 		
+Waypoint	TC-30-0225-05		User Waypoint	12 Q 507072 2080162	84 m				Symbol & Name	Unknown	Lodge					6/17/2021 11:51:20 AM 		
+Waypoint	TC-30-0226-07		User Waypoint	12 Q 507378 2079966	82 m				Symbol & Name	Unknown	Lodge					6/17/2021 11:12:48 AM 		
+Waypoint	TC-30-0228-09		User Waypoint	12 Q 505207 2080102					Symbol & Name	Unknown	Lodge							
+Waypoint	TC-30-0232-07		User Waypoint	12 Q 505304 2080007					Symbol & Name	Unknown	Lodge					4/26/2024 1:48:31 PM 		
+Waypoint	TC-30-0264-06		User Waypoint	12 Q 505144 2081818	144 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 2:45:07 PM 		
+Waypoint	TC-30-0266-04		User Waypoint	12 Q 505273 2082220	102 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 12:09:18 PM 		
+Waypoint	TC-30-0268-02		User Waypoint	12 Q 505261 2082521	70 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 10:12:52 AM 		
+Waypoint	TC-30-0270-08		User Waypoint	12 Q 504961 2081762	156 m				Symbol & Name	Unknown	Flag, Green					2/17/2022 11:56:45 AM 		
+Waypoint	TC-30-0273-08		User Waypoint	12 Q 504486 2081625	180 m				Symbol & Name	Unknown	Flag, Green					2/14/2022 2:05:45 PM 		
+Waypoint	TC-30-0275-06		User Waypoint	12 Q 504717 2081835	143 m				Symbol & Name	Unknown	Flag, Green					2/14/2022 12:02:25 PM 		
+Waypoint	TC-30-0277-04		User Waypoint	12 Q 505007 2081949	99 m				Symbol & Name	Unknown	Flag, Green					2/14/2022 10:04:42 AM 		
+Waypoint	TC-30-0278-09		User Waypoint	12 Q 504448 2081554	204 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 2:55:16 PM 		
+Waypoint	TC-30-0280-11		User Waypoint	12 Q 504359 2081298	240 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 1:35:41 PM 		
+Waypoint	TC-30-0397-01		User Waypoint	12 Q 506572 2078070	389 m				Symbol & Name	Unknown	Lodge					6/29/2022 8:00:31 AM 		
+Waypoint	TC-30-0525-03		User Waypoint	12 Q 506662 2077413	370 m				Symbol & Name	Unknown	Lodge					12/23/2022 6:28:10 AM 		
+Waypoint	TC-30-0597-02		User Waypoint	12 Q 506388 2078081	415 m				Symbol & Name	Unknown	Lodge					4/18/2023 8:23:12 AM 		
+Waypoint	TC-30-0598-03		User Waypoint	12 Q 506215 2078132	397 m				Symbol & Name	Unknown	Lodge					4/18/2023 7:59:15 AM 		
+Waypoint	TC-30-0599-04		User Waypoint	12 Q 505998 2078329	385 m				Symbol & Name	Unknown	Lodge					4/18/2023 7:52:52 AM 		
+Waypoint	TC-30-0600-05		User Waypoint	12 Q 505897 2078601	385 m				Symbol & Name	Unknown	Lodge					4/18/2023 7:46:28 AM 		
+Waypoint	TC-30-0601-06		User Waypoint	12 Q 505930 2078753	395 m				Symbol & Name	Unknown	Lodge					4/18/2023 6:17:59 AM 		
+Waypoint	TC-30-0602-07		User Waypoint	12 Q 505890 2078936	359 m				Symbol & Name	Unknown	Lodge					4/18/2023 5:56:45 AM 		
+Waypoint	TC-30-0603-08		User Waypoint	12 Q 505932 2079126	312 m				Symbol & Name	Unknown	Lodge					4/18/2023 5:50:29 AM 		
+Waypoint	TC-30-0604-09		User Waypoint	12 Q 505906 2079311	294 m				Symbol & Name	Unknown	Lodge					4/18/2023 5:45:31 AM 		
+Waypoint	TC-30-0605-08		User Waypoint	12 Q 505173 2079953	325 m				Symbol & Name	Unknown	Lodge					4/14/2023 9:45:27 AM 		
+Waypoint	TC-30-0633-02		User Waypoint	12 Q 505148 2082221	57 m				Symbol & Name	Unknown	Flag, Green					5/20/2023 8:49:41 AM 		
+Waypoint	TC-30-0638-06		User Waypoint	12 Q 506976 2078360	325 m				Symbol & Name	Unknown	Lodge					6/16/2023 7:30:44 AM 		
+Waypoint	TC-30-0639-07		User Waypoint	12 Q 507115 2078669	288 m				Symbol & Name	Unknown	Lodge					6/20/2023 9:43:34 AM 		
+Waypoint	TC-30-0640-08		User Waypoint	12 Q 507283 2078818	265 m				Symbol & Name	Unknown	Lodge					6/16/2023 8:20:41 AM 		
+Waypoint	TC-30-0642-05		User Waypoint	12 Q 506843 2078168	307 m				Symbol & Name	Unknown	Lodge					6/19/2023 6:06:12 PM 		
+Waypoint	TC-30-0643-04		User Waypoint	12 Q 506745 2077817	378 m				Symbol & Name	Unknown	Lodge					6/29/2022 7:19:37 AM 		
+Waypoint	TC-30-0644-02		User Waypoint	12 Q 506658 2077198	359 m				Symbol & Name	Unknown	Lodge					6/29/2022 6:17:09 AM 		
+Waypoint	TC-30-0645-06		User Waypoint	12 Q 507981 2077419	277 m				Symbol & Name	Unknown	Lodge					6/29/2022 8:44:52 AM 		
+Waypoint	TC-30-0646-05		User Waypoint	12 Q 507930 2077352	277 m				Symbol & Name	Unknown	Lodge					6/29/2022 8:02:54 AM 		
+Waypoint	TC-30-0647-04		User Waypoint	12 Q 507827 2077346	279 m				Symbol & Name	Unknown	Lodge					6/29/2022 7:42:57 AM 		
+Waypoint	TC-30-0648-02		User Waypoint	12 Q 507685 2077486	290 m				Symbol & Name	Unknown	Lodge					6/29/2022 7:05:37 AM 		
+Waypoint	TC-30-0649-01		User Waypoint	12 Q 507466 2076757	324 m				Symbol & Name	Unknown	Lodge					12/30/2022 7:50:51 AM 		
+Waypoint	TC-30-0650-10		User Waypoint	12 Q 507588 2079054					Symbol & Name	Unknown	Lodge					5/19/2025 2:43:31 PM 		
+Waypoint	TC-40-0151-09		User Waypoint	12 Q 502359 2083526	77 m				Symbol & Name	Unknown	Lodge					4/22/2021 12:50:09 PM 		
+Waypoint	TC-40-0169-08		User Waypoint	12 Q 502443 2083626	73 m				Symbol & Name	Unknown	Lodge					11/14/2019 1:08:18 PM 		
+Waypoint	TC-40-0170-06		User Waypoint	12 Q 502489 2083823	56 m				Symbol & Name	Unknown	Lodge					11/14/2019 2:25:08 PM 		
+Waypoint	TC-40-0174-05		User Waypoint	12 Q 501135 2083781	175 m				Symbol & Name	Unknown	Lodge					5/15/2021 12:15:47 PM 		
+Waypoint	TC-40-0175-06		User Waypoint	12 Q 501164 2083661	184 m				Symbol & Name	Unknown	Lodge					5/15/2021 8:46:55 AM 		
+Waypoint	TC-40-0176-07		User Waypoint	12 Q 501140 2083518	202 m				Symbol & Name	Unknown	Lodge					5/15/2021 9:38:31 AM 		
+Waypoint	TC-40-0177-08		User Waypoint	12 Q 501125 2083366	205 m				Symbol & Name	Unknown	Lodge					5/15/2021 10:15:32 AM 		
+Waypoint	TC-40-0261-13		User Waypoint	12 Q 500534 2082651	251 m				Symbol & Name	Unknown	Lodge					11/21/2021 10:06:05 AM 		
+Waypoint	TC-40-0281-13		User Waypoint	12 Q 504057 2081250	264 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 12:53:55 PM 		
+Waypoint	TC-40-0283-15		User Waypoint	12 Q 503723 2081139	281 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 12:00:49 PM 		
+Waypoint	TC-40-0588-11		User Waypoint	12 Q 502330 2083213	134 m				Symbol & Name	Unknown	Lodge					3/28/2023 9:53:13 AM 		
+Waypoint	TC-40-0589-03		User Waypoint	12 Q 503417 2083265					Symbol & Name	Unknown	Lodge					3/12/2025 11:33:14 AM 		
+Waypoint	TC-40-0590-04		User Waypoint	12 Q 503382 2083121					Symbol & Name	Unknown	Lodge					3/12/2025 11:34:21 AM 		
+Waypoint	TC-40-0591-05		User Waypoint	12 Q 503376 2082966					Symbol & Name	Unknown	Lodge					3/12/2025 11:36:44 AM 		
+Waypoint	TC-40-0592-06		User Waypoint	12 Q 503377 2082799					Symbol & Name	Unknown	Lodge					3/12/2025 11:37:10 AM 		
+Waypoint	TC-40-0593-07		User Waypoint	12 Q 503404 2082581					Symbol & Name	Unknown	Lodge					3/12/2025 11:37:49 AM 		
+Waypoint	TC-40-0595-09		User Waypoint	12 Q 503230 2082289					Symbol & Name	Unknown	Lodge					3/14/2025 1:21:06 PM 		
+Waypoint	TC-50-0129-02		User Waypoint	12 Q 501728 2085235	37 m				Symbol & Name	Unknown	Lodge					4/17/2021 7:54:11 AM 		
+Waypoint	TC-50-0130-05		User Waypoint	12 Q 502091 2084693	10 m				Symbol & Name	Unknown	Lodge					4/17/2021 10:12:26 AM 		
+Waypoint	TC-50-0131-03		User Waypoint	12 Q 501270 2084991	68 m				Symbol & Name	Unknown	Lodge					4/25/2021 11:00:58 AM 		
+Waypoint	TC-50-0132-06		User Waypoint	12 Q 501100 2084936	77 m				Symbol & Name	Unknown	Navaid, Red					4/24/2021 8:56:15 AM 		
+Waypoint	TC-50-0133-05		User Waypoint	12 Q 501123 2084920	81 m				Symbol & Name	Unknown	Lodge					4/24/2021 9:09:04 AM 		
+Waypoint	TC-50-0134-11		User Waypoint	12 Q 501048 2084515	95 m				Symbol & Name	Unknown	Lodge					4/24/2021 10:16:13 AM 		
+Waypoint	TC-50-0135-01		User Waypoint	12 Q 501113 2084398	80 m				Symbol & Name	Unknown	Lodge					4/24/2021 11:23:37 AM 		
+Waypoint	TC-50-0136-13		User Waypoint	12 Q 501064 2084387	106 m				Symbol & Name	Unknown	Lodge					4/24/2021 11:28:55 AM 		
+Waypoint	TC-50-0138-04		User Waypoint	12 Q 501146 2084910	80 m				Symbol & Name	Unknown	Lodge					4/23/2021 8:35:49 AM 		
+Waypoint	TC-50-0139-01		User Waypoint	12 Q 501225 2085200	88 m				Symbol & Name	Unknown	Lodge					4/23/2021 1:25:20 PM 		
+Waypoint	TC-50-0140-01		User Waypoint	12 Q 501080 2085233	85 m				Symbol & Name	Unknown	Lodge					4/23/2021 1:28:52 PM 		
+Waypoint	TC-50-0141-02		User Waypoint	12 Q 500948 2085267	59 m				Symbol & Name	Unknown	Lodge					4/23/2021 1:40:08 PM 		
+Waypoint	TC-50-0142-03		User Waypoint	12 Q 500806 2085183	44 m				Symbol & Name	Unknown	Lodge					4/23/2021 1:44:03 PM 		
+Waypoint	TC-50-0143-04		User Waypoint	12 Q 500725 2085105	24 m				Symbol & Name	Unknown	Lodge					4/23/2021 1:55:07 PM 		
+Waypoint	TC-50-0144-05		User Waypoint	12 Q 500618 2085157	29 m				Symbol & Name	Unknown	Navaid, Red					4/23/2021 2:20:19 PM 		
+Waypoint	TC-50-0145-06		User Waypoint	12 Q 500579 2085165	21 m				Symbol & Name	Unknown	Navaid, Red					4/23/2021 2:27:26 PM 		
+Waypoint	TC-50-0146-07		User Waypoint	12 Q 500570 2085167	16 m				Symbol & Name	Unknown	Navaid, Red					4/23/2021 2:28:36 PM 		
+Waypoint	TC-50-0147-08		User Waypoint	12 Q 500590 2085086	26 m				Symbol & Name	Unknown	Navaid, Red					4/23/2021 2:32:08 PM 		
+Waypoint	TC-50-0148-02		User Waypoint	12 Q 502314 2084708	36 m				Symbol & Name	Unknown	Navaid, Red					4/22/2021 8:17:12 AM 		
+Waypoint	TC-50-0149-03		User Waypoint	12 Q 502307 2084529	38 m				Symbol & Name	Unknown	Lodge					4/22/2021 8:32:19 AM 		
+Waypoint	TC-50-0153-06		User Waypoint	12 Q 502024 2084573	19 m				Symbol & Name	Unknown	Lodge					4/20/2021 10:25:37 AM 		
+Waypoint	TC-50-0160-07		User Waypoint	12 Q 502010 2084386	11 m				Symbol & Name	Unknown	Lodge					4/25/2021 7:13:30 AM 		
+Waypoint	TC-50-0161-04		User Waypoint	12 Q 502161 2084873	21 m				Symbol & Name	Unknown	Lodge					4/17/2021 9:40:50 AM 		
+Waypoint	TC-50-0163-05		User Waypoint	12 Q 500884 2085076	29 m				Symbol & Name	Unknown	Lodge					4/24/2021 9:33:53 AM 		
+Waypoint	TC-50-0164-06		User Waypoint	12 Q 500974 2084900	56 m				Symbol & Name	Unknown	Lodge					4/24/2021 10:24:22 AM 		
+Waypoint	TC-50-0165-07		User Waypoint	12 Q 500835 2084898	76 m				Symbol & Name	Unknown	Lodge					4/24/2021 11:12:10 AM 		
+Waypoint	TC-50-0166-08		User Waypoint	12 Q 500725 2084817	140 m				Symbol & Name	Unknown	Lodge					4/24/2021 11:59:45 AM 		
+Waypoint	TC-50-0167-09		User Waypoint	12 Q 500680 2084766	118 m				Symbol & Name	Unknown	Lodge					4/24/2021 12:33:45 PM 		
+Waypoint	TC-50-0168-01		User Waypoint	12 Q 501635 2085261	43 m				Symbol & Name	Unknown	Lodge					11/15/2019 10:07:07 AM 		
+Waypoint	TC-50-0171-02		User Waypoint	12 Q 501140 2084302	122 m				Symbol & Name	Unknown	Lodge					5/13/2021 7:58:32 AM 		
+Waypoint	TC-50-0172-03		User Waypoint	12 Q 501161 2084173	121 m				Symbol & Name	Unknown	Lodge					5/13/2021 8:40:09 AM 		
+Waypoint	TC-50-0173-04		User Waypoint	12 Q 501166 2084034	151 m				Symbol & Name	Unknown	Lodge					5/13/2021 10:02:37 AM 		
+Waypoint	TC-50-0178-11		User Waypoint	12 Q 501479 2084336	60 m				Symbol & Name	Unknown	Lodge					5/17/2021 10:09:40 AM 		
+Waypoint	TC-50-0182-10		User Waypoint	12 Q 501697 2084508	25 m				Symbol & Name	Unknown	Lodge					5/21/2021 11:04:45 AM 		
+Waypoint	TC-50-0258-01		User Waypoint	12 Q 502320 2084776	35 m				Symbol & Name	Unknown	Lodge					11/20/2021 6:24:14 AM 		
+Waypoint	TC-50-0469-03		User Waypoint	12 Q 502051 2085041	10 m				Symbol & Name	Unknown	Lodge					11/21/2022 12:51:55 PM 		
+Waypoint	TC-50-0471-09		User Waypoint	12 Q 501836 2084534	19 m				Symbol & Name	Unknown	Lodge					5/20/2021 11:00:46 AM 		
+Waypoint	TC-50-0472-12		User Waypoint	12 Q 501360 2084442	39 m				Symbol & Name	Unknown	Lodge					11/21/2022 9:14:26 AM 		
+Waypoint	TC-50-0473-08		User Waypoint	12 Q 501193 2084712	90 m				Symbol & Name	Unknown	Lodge					11/26/2022 7:48:46 AM 		
+Waypoint	TC-50-0578-08		User Waypoint	12 Q 501473 2085163	18 m				Symbol & Name	Unknown	Lodge					3/22/2023 11:25:57 AM 		
+Waypoint	TC-50-0579-07		User Waypoint	12 Q 501565 2084506	24 m				Symbol & Name	Unknown	Lodge					3/22/2023 10:26:46 AM 		
+Waypoint	TC-50-0580-06		User Waypoint	12 Q 501500 2084615	14 m				Symbol & Name	Unknown	Lodge					3/22/2023 10:22:46 AM 		
+Waypoint	TC-50-0582-04		User Waypoint	12 Q 501335 2084846	25 m				Symbol & Name	Unknown	Lodge					3/22/2023 9:49:18 AM 		
+Waypoint	TC-50-0583-03		User Waypoint	12 Q 501407 2084920	29 m				Symbol & Name	Unknown	Lodge					3/22/2023 9:42:56 AM 		
+Waypoint	TC-50-0584-02		User Waypoint	12 Q 501394 2085040	22 m				Symbol & Name	Unknown	Lodge					3/22/2023 9:02:41 AM 		
+Waypoint	TC-50-0585-01		User Waypoint	12 Q 501404 2085177	10 m				Symbol & Name	Unknown	Lodge					3/22/2023 8:16:38 AM 		
+Waypoint	TC-50-0629-03		User Waypoint	12 Q 504488 2082540	118 m				Symbol & Name	Unknown	Flag, Green					5/28/2023 10:23:07 AM 		
+Waypoint	TC-50-0630-02		User Waypoint	12 Q 504647 2082585	116 m				Symbol & Name	Unknown	Flag, Green					5/28/2023 8:35:13 AM 		
+Waypoint	TC-50-0631-01		User Waypoint	12 Q 504810 2082624	96 m				Symbol & Name	Unknown	Flag, Green					5/28/2023 6:04:24 AM 		
+Waypoint	TC-50-0640-02		User Waypoint	12 Q 503547 2083334					Symbol & Name	Unknown	Lodge					3/12/2025 11:31:08 AM 		
+Waypoint	TC-60-0088-06		User Waypoint	12 Q 499542 2079202	354 m				Symbol & Name	Unknown	Lodge					11/23/2024 3:43:21 PM 		
+Waypoint	TC-60-0089-06		User Waypoint	12 Q 500738 2079174	671 m				Symbol & Name	Unknown	Lodge					2/11/2021 3:43:48 PM 		
+Waypoint	TC-60-0090-08		User Waypoint	12 Q 500670 2078847	699 m				Symbol & Name	Unknown	Lodge					2/10/2021 11:57:26 AM 		
+Waypoint	TC-60-0091-09		User Waypoint	12 Q 500460 2078808	659 m				Symbol & Name	Unknown	Lodge					2/10/2021 12:53:07 PM 		
+Waypoint	TC-60-0092-03		User Waypoint	12 Q 500013 2078888	511 m				Symbol & Name	Unknown	Lodge					2/10/2021 1:43:29 PM 		
+Waypoint	TC-60-0118-04		User Waypoint	12 Q 497612 2080430	32 m				Symbol & Name	Unknown	Lodge					4/15/2021 6:20:55 PM 		
+Waypoint	TC-60-0120-02		User Waypoint	12 Q 497424 2080544	33 m				Symbol & Name	Unknown	Lodge					4/15/2021 6:18:40 PM 		
+Waypoint	TC-60-0121-01		User Waypoint	12 Q 497317 2080611	33 m				Symbol & Name	Unknown	Lodge					4/15/2021 6:16:26 PM 		
+Waypoint	TC-60-0126-01		User Waypoint	12 Q 498258 2079836	158 m				Symbol & Name	Unknown	Lodge					4/16/2021 9:37:23 AM 		
+Waypoint	TC-60-0127-02		User Waypoint	12 Q 498402 2079833	168 m				Symbol & Name	Unknown	Lodge					4/11/2025 1:48:14 PM 		
+Waypoint	TC-60-0184-01		User Waypoint	12 Q 495530 2080063	74 m				Symbol & Name	Unknown	Lodge					5/12/2021 8:21:32 AM 		
+Waypoint	TC-60-0185-02		User Waypoint	12 Q 495600 2079927	78 m				Symbol & Name	Unknown	Lodge					5/12/2021 9:11:14 AM 		
+Waypoint	TC-60-0187-04		User Waypoint	12 Q 495884 2079820	107 m				Symbol & Name	Unknown	Lodge					5/12/2021 10:37:50 AM 		
+Waypoint	TC-60-0188-02		User Waypoint	12 Q 496684 2080598	66 m				Symbol & Name	Unknown	Lodge					5/17/2021 7:16:52 AM 		
+Waypoint	TC-60-0189-03		User Waypoint	12 Q 496765 2080549	49 m				Symbol & Name	Unknown	Lodge					5/17/2021 8:55:10 AM 		
+Waypoint	TC-60-0190-06		User Waypoint	12 Q 496610 2080161	105 m				Symbol & Name	Unknown	Lodge					5/17/2021 10:56:19 AM 		
+Waypoint	TC-60-0192-06		User Waypoint	12 Q 495868 2079502	125 m				Symbol & Name	Unknown	Lodge					5/16/2021 6:41:25 AM 		
+Waypoint	TC-60-0193-07		User Waypoint	12 Q 495805 2079334	114 m				Symbol & Name	Unknown	Lodge					5/16/2021 6:47:23 AM 		
+Waypoint	TC-60-0194-08		User Waypoint	12 Q 495833 2079254	119 m				Symbol & Name	Unknown	Lodge					5/16/2021 6:52:15 AM 		
+Waypoint	TC-60-0195-09		User Waypoint	12 Q 495770 2079172	123 m				Symbol & Name	Unknown	Lodge					5/16/2021 6:56:50 AM 		
+Waypoint	TC-60-0196-10		User Waypoint	12 Q 495832 2079041	129 m				Symbol & Name	Unknown	Lodge					5/16/2021 7:02:30 AM 		
+Waypoint	TC-60-0197-12		User Waypoint	12 Q 495917 2078899	123 m				Symbol & Name	Unknown	Lodge					5/16/2021 7:35:33 AM 		
+Waypoint	TC-60-0200-05		User Waypoint	12 Q 497567 2080652	18 m				Symbol & Name	Unknown	Lodge					5/15/2021 10:11:43 AM 		
+Waypoint	TC-60-0201-07		User Waypoint	12 Q 497708 2080735	32 m				Symbol & Name	Unknown	Lodge					5/15/2021 11:00:28 AM 		
+Waypoint	TC-60-0203-03		User Waypoint	12 Q 498492 2079793	173 m				Symbol & Name	Unknown	Lodge					5/13/2021 9:44:11 AM 		
+Waypoint	TC-60-0206-07		User Waypoint	12 Q 496648 2080050	145 m				Symbol & Name	Unknown	Lodge					5/22/2021 8:51:49 AM 		
+Waypoint	TC-60-0207-03		User Waypoint	12 Q 495988 2080427	40 m				Symbol & Name	Unknown	Lodge					5/12/2021 7:54:59 AM 		
+Waypoint	TC-60-0209-10		User Waypoint	12 Q 497052 2080705	46 m				Symbol & Name	Unknown	Lodge					5/12/2021 10:04:44 AM 		
+Waypoint	TC-60-0210-01		User Waypoint	12 Q 497936 2080896	40 m				Symbol & Name	Unknown	Lodge					5/19/2021 10:54:05 AM 		
+Waypoint	TC-60-0211-14		User Waypoint	12 Q 496032 2078444	120 m				Symbol & Name	Unknown	Lodge					5/20/2021 10:40:09 AM 		
+Waypoint	TC-60-0234-04		User Waypoint	12 Q 500966 2078976	701 m				Symbol & Name	Unknown	Lodge					6/16/2021 1:04:48 PM 		
+Waypoint	TC-60-0289-07		User Waypoint	12 Q 497922 2079840	166 m				Symbol & Name	Unknown	Lodge					2/22/2022 11:09:55 AM 		
+Waypoint	TC-60-0290-04		User Waypoint	12 Q 496771 2078203	139 m				Symbol & Name	Unknown	Lodge					2/25/2022 10:09:01 AM 		
+Waypoint	TC-60-0364-09		User Waypoint	12 Q 496827 2080629	63 m				Symbol & Name	Unknown	Lodge					4/23/2022 9:42:12 AM 		
+Waypoint	TC-60-0483-06		User Waypoint	12 Q 496379 2080647	58 m				Symbol & Name	Unknown	Lodge					11/19/2022 8:31:39 AM 		
+Waypoint	TC-60-0486-08		User Waypoint	12 Q 496686 2080725	68 m				Symbol & Name	Unknown	Lodge					11/22/2022 1:00:15 PM 		
+Waypoint	TC-60-0487-04		User Waypoint	12 Q 496786 2080401	75 m				Symbol & Name	Unknown	Lodge					11/22/2022 9:49:28 AM 		
+Waypoint	TC-60-0489-02		User Waypoint	12 Q 497274 2080659	26 m				Symbol & Name	Unknown	Lodge					11/24/2022 7:06:01 AM 		
+Waypoint	TC-60-0490-03		User Waypoint	12 Q 497357 2080751	23 m				Symbol & Name	Unknown	Lodge					11/24/2022 8:25:47 AM 		
+Waypoint	TC-60-0491-04		User Waypoint	12 Q 497452 2080687	24 m				Symbol & Name	Unknown	Lodge					11/24/2022 9:15:06 AM 		
+Waypoint	TC-60-0492-08		User Waypoint	12 Q 497827 2080752	25 m				Symbol & Name	Unknown	Lodge					11/24/2022 1:53:33 PM 		
+Waypoint	TC-60-0493-09		User Waypoint	12 Q 497816 2080839	33 m				Symbol & Name	Unknown	Lodge					11/26/2022 11:52:00 AM 		
+Waypoint	TC-60-0494-01		User Waypoint	12 Q 496234 2078316	130 m				Symbol & Name	Unknown	Lodge					11/27/2022 8:56:48 AM 		
+Waypoint	TC-60-0539-10		User Waypoint	12 Q 497531 2078305	154 m				Symbol & Name	Unknown	Lodge					3/20/2023 10:24:16 AM 		
+Waypoint	TC-60-0546-13		User Waypoint	12 Q 497898 2078185	164 m				Symbol & Name	Unknown	Lodge					3/26/2023 11:21:36 AM 		
+Waypoint	TC-60-0549-07		User Waypoint	12 Q 497161 2078296	142 m				Symbol & Name	Unknown	Lodge					3/16/2023 12:38:05 PM 		
+Waypoint	TC-60-0554-09		User Waypoint	12 Q 497341 2078256	151 m				Symbol & Name	Unknown	Lodge					3/17/2023 10:54:55 AM 		
+Waypoint	TC-60-0571-11		User Waypoint	12 Q 497720 2078353	142 m				Symbol & Name	Unknown	Lodge					3/21/2023 8:09:50 AM 		
+Waypoint	TC-60-0590-05		User Waypoint	12 Q 500755 2079054	670 m				Symbol & Name	Unknown	Lodge					4/26/2023 10:30:23 AM 		
+Waypoint	TC-60-0650-07		User Waypoint	12 Q 500783 2079267	685 m				Symbol & Name	Unknown	Lodge					6/26/2023 2:59:29 PM 		
+Waypoint	TC-60-0652-05		User Waypoint	12 Q 500797 2077955	708 m				Symbol & Name	Unknown	Lodge					11/19/2024 7:49:57 AM 		
+Waypoint	TC-60-0653-06		User Waypoint	12 Q 500667 2077940	648 m				Symbol & Name	Unknown	Lodge					11/19/2024 7:56:45 AM 		
+Waypoint	TC-60-0654-07		User Waypoint	12 Q 500527 2077843	631 m				Symbol & Name	Unknown	Lodge					11/19/2024 9:01:03 AM 		
+Waypoint	TC-60-0659-07		User Waypoint	12 Q 499336 2079431	349 m				Symbol & Name	Unknown	Lodge					2/10/2025 8:01:02 AM 		
+Waypoint	TC-60-0670-09		User Waypoint	12 Q 500408 2077837	606 m				Symbol & Name	Unknown	Lodge					2/13/2025 8:08:28 AM 		
+Waypoint	TC-60-0671-10		User Waypoint	12 Q 500348 2077840	613 m				Symbol & Name	Unknown	Lodge					3/19/2025 8:13:39 AM 		
+Waypoint	TC-60-0672-11		User Waypoint	12 Q 500192 2077826	563 m				Symbol & Name	Unknown	Lodge					3/27/2025 8:22:02 AM 		
+Waypoint	TC-60-0675-04		User Waypoint	12 Q 498673 2079764	208 m				Symbol & Name	Unknown	Lodge					4/15/2025 7:54:27 AM 		
+Waypoint	TC-60-0676-05		User Waypoint	12 Q 498792 2079701	208 m				Symbol & Name	Unknown	Lodge					4/15/2025 8:52:48 AM 		
+Waypoint	TC-60-0678-07		User Waypoint	12 Q 499136 2079743	262 m				Symbol & Name	Unknown	Lodge					4/15/2025 10:44:04 AM 		
+Waypoint	TC-60-0680-03		User Waypoint	12 Q 498419 2080829					Symbol & Name	Unknown	Lodge					4/18/2025 2:39:47 PM 		
+Waypoint	TC-60-0681-04		User Waypoint	12 Q 498580 2080722	122 m				Symbol & Name	Unknown	Lodge					4/16/2025 9:24:23 AM 		
+Waypoint	TC-60-0683-01		User Waypoint	12 Q 495511 2080236					Symbol & Name	Unknown	Lodge					4/19/2025 7:31:44 AM 		
+Waypoint	TC-70-0313-11		User Waypoint	12 Q 500369 2073944	104 m				Symbol & Name	Unknown	Lodge					5/6/2022 10:29:12 AM 		
+Waypoint	TC-70-0315-12		User Waypoint	12 Q 500576 2073922	111 m				Symbol & Name	Unknown	Lodge					5/6/2022 10:21:06 AM 		
+Waypoint	TC-70-0317-10		User Waypoint	12 Q 500280 2074089	116 m				Symbol & Name	Unknown	Lodge					5/6/2022 8:57:05 AM 		
+Waypoint	TC-70-0319-09		User Waypoint	12 Q 500074 2074099	82 m				Symbol & Name	Unknown	Lodge					5/6/2022 8:19:54 AM 		
+Waypoint	TC-70-0322-07		User Waypoint	12 Q 499758 2073946	74 m				Symbol & Name	Unknown	Lodge					5/6/2022 7:15:17 AM 		
+Waypoint	TC-70-0325-05		User Waypoint	12 Q 499586 2073903	73 m				Symbol & Name	Unknown	Lodge					5/3/2022 11:31:53 AM 		
+Waypoint	TC-70-0327-04		User Waypoint	12 Q 499407 2073750	54 m				Symbol & Name	Unknown	Lodge					5/3/2022 10:38:50 AM 		
+Waypoint	TC-70-0328-03		User Waypoint	12 Q 499367 2073564	47 m				Symbol & Name	Unknown	Lodge					5/3/2022 9:49:25 AM 		
+Waypoint	TC-70-0329-01		User Waypoint	12 Q 499062 2073731	32 m				Symbol & Name	Unknown	Lodge					5/3/2022 7:36:51 AM 		
+Waypoint	TC-70-0332-06		User Waypoint	12 Q 498519 2074654	4 m				Symbol & Name	Unknown	Lodge					4/23/2022 8:49:24 AM 		
+Waypoint	TC-70-0333-05		User Waypoint	12 Q 498559 2074562	15 m				Symbol & Name	Unknown	Lodge					4/23/2022 8:22:40 AM 		
+Waypoint	TC-70-0334-02		User Waypoint	12 Q 498635 2074103	20 m				Symbol & Name	Unknown	Lodge					4/23/2022 7:35:42 AM 		
+Waypoint	TC-70-0335-01		User Waypoint	12 Q 498727 2073974	17 m				Symbol & Name	Unknown	Lodge					4/23/2022 7:27:26 AM 		
+Waypoint	TC-70-0336-01		User Waypoint	12 Q 499060 2073982	22 m				Symbol & Name	Unknown	Lodge					5/4/2022 12:46:57 PM 		
+Waypoint	TC-70-0338-03		User Waypoint	12 Q 499347 2074117	37 m				Symbol & Name	Unknown	Lodge					5/4/2022 12:31:16 PM 		
+Waypoint	TC-70-0340-05		User Waypoint	12 Q 499684 2074328	55 m				Symbol & Name	Unknown	Lodge					5/4/2022 12:02:55 PM 		
+Waypoint	TC-70-0341-06		User Waypoint	12 Q 499797 2074342	62 m				Symbol & Name	Unknown	Lodge					5/4/2022 11:56:40 AM 		
+Waypoint	TC-70-0343-08		User Waypoint	12 Q 500037 2074638	86 m				Symbol & Name	Unknown	Lodge					5/4/2022 11:34:32 AM 		
+Waypoint	TC-70-0346-11		User Waypoint	12 Q 500347 2074833	121 m				Symbol & Name	Unknown	Lodge					5/4/2022 10:54:30 AM 		
+Waypoint	TC-70-0350-14		User Waypoint	12 Q 500845 2075052	182 m				Symbol & Name	Unknown	Flag, Green					5/4/2022 9:07:32 AM 		
+Waypoint	TC-70-0351-15		User Waypoint	12 Q 500906 2075207	221 m				Symbol & Name	Unknown	Flag, Green					5/4/2022 8:22:49 AM 		
+Waypoint	TC-70-0353-16		User Waypoint	12 Q 501042 2075271	228 m				Symbol & Name	Unknown	Flag, Green					5/9/2022 8:50:24 AM 		
+Waypoint	TC-70-0354-17		User Waypoint	12 Q 501114 2075391	246 m				Symbol & Name	Unknown	Flag, Green					5/9/2022 9:06:51 AM 		
+Waypoint	TC-70-0360-04		User Waypoint	12 Q 501150 2073548	44 m				Symbol & Name	Unknown	Flag, Green					5/14/2022 10:13:59 AM 		
+Waypoint	TC-70-0361-03		User Waypoint	12 Q 501298 2073485	44 m				Symbol & Name	Unknown	Flag, Green					5/14/2022 10:08:09 AM 		
+Waypoint	TC-70-0362-02		User Waypoint	12 Q 501401 2073401	32 m				Symbol & Name	Unknown	Flag, Green					5/14/2022 9:30:04 AM 		
+Waypoint	TC-70-0363-01		User Waypoint	12 Q 501440 2073287	13 m				Symbol & Name	Unknown	Flag, Green					5/14/2022 9:23:40 AM 		
+Waypoint	TC-70-0624-04		User Waypoint	12 Q 498575 2074419	21 m				Symbol & Name	Unknown	Lodge					5/23/2023 7:07:13 AM 		
+Waypoint	TC-70-0626-06		User Waypoint	12 Q 499695 2073895	57 m				Symbol & Name	Unknown	Lodge					5/20/2023 8:31:57 AM 		
+Waypoint	TC-70-0627-02		User Waypoint	12 Q 499253 2073586	36 m				Symbol & Name	Unknown	Lodge					5/20/2023 10:02:35 AM 		
+Waypoint	TC-70-0628-08		User Waypoint	12 Q 499909 2074103	73 m				Symbol & Name	Unknown	Lodge					5/20/2023 7:44:31 AM 		
+Waypoint	TC-70-0629-06		User Waypoint	12 Q 502144 2072867	28 m				Symbol & Name	Unknown	Navaid, Red					8/19/2024 7:26:01 AM 		
+Waypoint	TC-70-0630-05		User Waypoint	12 Q 501749 2075830	502 m				Symbol & Name	Unknown	Lodge					5/15/2024 6:20:03 AM 		
+Waypoint	TC-70-0634-11		User Waypoint	12 Q 501348 2075468					Symbol & Name	Unknown	Lodge					2/10/2025 4:53:08 PM 		
+Waypoint	TC-70-0635-08		User Waypoint	12 Q 501422 2075596	414 m				Symbol & Name	Unknown	Lodge					2/10/2025 7:44:56 AM 		
+Waypoint	TL-20-0246-02		User Waypoint	12 Q 504339 2077919	681 m				Symbol & Name	Unknown	Skull and Crossbones					7/22/2021 7:55:24 AM 		
+Waypoint	TL-20-0247-08		User Waypoint	12 Q 504041 2077854	736 m				Symbol & Name	Unknown	Skull and Crossbones					7/22/2021 7:35:18 AM 		
+Waypoint	TL-20-0256-07		User Waypoint	12 Q 502843 2078563	841 m				Symbol & Name	Unknown	Skull and Crossbones					12/10/2021 9:02:10 AM 		
+Waypoint	TL-20-0257-12		User Waypoint	12 Q 502896 2078933	795 m				Symbol & Name	Unknown	Skull and Crossbones					12/10/2021 11:41:02 AM 		
+Waypoint	TL-20-0301-07		User Waypoint	12 Q 502621 2076036	584 m				Symbol & Name	Unknown	Skull and Crossbones					3/19/2022 12:51:34 PM 		
+Waypoint	TL-20-0312-01		User Waypoint	12 Q 501647 2080245	580 m				Symbol & Name	Unknown	Flag, Green					2/19/2019 8:19:56 AM 		
+Waypoint	TL-20-0313-02		User Waypoint	12 Q 501267 2080919	470 m				Symbol & Name	Unknown	Flag, Green					2/19/2019 8:19:56 AM 		
+Waypoint	TL-20-0314-03		User Waypoint	12 Q 501086 2081423	406 m				Symbol & Name	Unknown	Flag, Green					2/19/2019 8:19:56 AM 		
+Waypoint	TL-20-0724-24		User Waypoint	12 Q 504457 2076986	628 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 6:03:58 AM 		
+Waypoint	TL-20-0725-25		User Waypoint	12 Q 504398 2076982	640 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 5:59:15 AM 		
+Waypoint	TL-20-0726-26		User Waypoint	12 Q 504370 2077035	655 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 6:44:40 AM 		
+Waypoint	TL-20-0727-27		User Waypoint	12 Q 504336 2077311	710 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 7:24:02 AM 		
+Waypoint	TL-20-0728-28		User Waypoint	12 Q 504281 2077275	719 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 7:45:20 AM 		
+Waypoint	TL-20-0729-29		User Waypoint	12 Q 504262 2077340	722 m				Symbol & Name	Unknown	Skull and Crossbones					7/11/2025 7:29:38 AM 		
+Waypoint	TL-30-0263-07		User Waypoint	12 Q 505110 2081770	160 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 3:13:36 PM 		
+Waypoint	TL-30-0265-05		User Waypoint	12 Q 505219 2081960	120 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 1:09:02 PM 		
+Waypoint	TL-30-0267-03		User Waypoint	12 Q 505281 2082374	88 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 11:21:02 AM 		
+Waypoint	TL-30-0269-01		User Waypoint	12 Q 505264 2082677	70 m				Symbol & Name	Unknown	Flag, Green					2/16/2022 9:14:28 AM 		
+Waypoint	TL-30-0271-03		User Waypoint	12 Q 505083 2082083	73 m				Symbol & Name	Unknown	Flag, Green					2/13/2022 1:35:02 PM 		
+Waypoint	TL-30-0272-01		User Waypoint	12 Q 505146 2082401	28 m				Symbol & Name	Unknown	Flag, Green					2/13/2022 11:47:17 AM 		
+Waypoint	TL-30-0274-07		User Waypoint	12 Q 504559 2081773	155 m				Symbol & Name	Unknown	Flag, Green					2/14/2022 12:48:58 PM 		
+Waypoint	TL-30-0276-05		User Waypoint	12 Q 504874 2081883	122 m				Symbol & Name	Unknown	Flag, Green					2/14/2022 11:07:49 AM 		
+Waypoint	TL-30-0279-10		User Waypoint	12 Q 504366 2081458	225 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 2:19:13 PM 		
+Waypoint	TL-30-0632-12		User Waypoint	12 Q 504224 2081244	242 m				Symbol & Name	Unknown	Flag, Green					5/22/2023 8:17:05 AM 		
+Waypoint	TL-40-0242-14		User Waypoint	12 Q 500546 2082618	252 m				Symbol & Name	Unknown	Skull and Crossbones					7/28/2021 11:18:22 AM 		
+Waypoint	TL-40-0282-14		User Waypoint	12 Q 503866 2081133	279 m				Symbol & Name	Unknown	Flag, Green					2/20/2022 12:22:21 PM 		
+Waypoint	TL-60-0495-02		User Waypoint	12 Q 496587 2078160	123 m				Symbol & Name	Unknown	Skull and Crossbones					11/27/2022 7:07:37 AM 		
+Waypoint	TL-60-0538-01		User Waypoint	12 Q 497204 2080575	17 m				Symbol & Name	Unknown	Skull and Crossbones					2/19/2023 1:27:26 PM 		
+Waypoint	TL-60-0556-12		User Waypoint	12 Q 497830 2078326	150 m				Symbol & Name	Unknown	Skull and Crossbones					3/26/2023 10:01:33 AM 		
+Waypoint	TL-60-0567-06		User Waypoint	12 Q 497639 2080699	27 m				Symbol & Name	Unknown	Skull and Crossbones					3/23/2023 9:32:48 AM 		
+Waypoint	TL-70-0356-08		User Waypoint	12 Q 500721 2073777	32 m				Symbol & Name	Unknown	Flag, Green					5/11/2022 10:47:26 AM 		
+Waypoint	TL-70-0357-07		User Waypoint	12 Q 500716 2073679	25 m				Symbol & Name	Unknown	Flag, Green					5/11/2022 10:20:00 AM 		
+Waypoint	TL-70-0358-06		User Waypoint	12 Q 500842 2073560	13 m				Symbol & Name	Unknown	Flag, Green					5/11/2022 10:03:27 AM 		
+Waypoint	TL-70-0359-05		User Waypoint	12 Q 500995 2073551	13 m				Symbol & Name	Unknown	Flag, Green					5/11/2022 9:46:21 AM 		
+Waypoint	TP-10-0007-09		User Waypoint	12 Q 505157 2073127	238 m				Symbol & Name	Unknown	Flag, Blue					8/24/2023 7:49:28 AM 		
+Waypoint	TP-10-0021-08		User Waypoint	12 Q 506386 2074512	344 m				Symbol & Name	Unknown	Flag, Blue					8/20/2024 11:02:23 AM 		
+Waypoint	TP-10-0029-04		User Waypoint	12 Q 505264 2074838	418 m				Symbol & Name	Unknown	Flag, Blue					8/20/2024 7:26:53 AM 		
+Waypoint	TP-10-0032-15		User Waypoint	12 Q 506363 2076668	373 m				Symbol & Name	Unknown	Navaid, Red					1/19/2024 6:59:18 AM 		
+Waypoint	TP-10-0033-14		User Waypoint	12 Q 506322 2076533	373 m				Symbol & Name	Unknown	Navaid, Red					1/19/2024 7:55:59 AM 		
+Waypoint	TP-10-0371-01		User Waypoint	12 Q 504875 2074804	426 m				Symbol & Name	Unknown	Flag, Blue					2/15/2025 9:21:11 AM 		
+Waypoint	TP-10-0373-06		User Waypoint	12 Q 504237 2074474	396 m				Symbol & Name	Unknown	Flag, Blue					8/19/2024 3:54:33 PM 		
+Waypoint	TP-10-0384-08		User Waypoint	12 Q 506269 2075317	425 m				Symbol & Name	Unknown	Flag, Blue					6/27/2022 8:33:46 AM 		
+Waypoint	TP-10-0385-07		User Waypoint	12 Q 506089 2075272	437 m				Symbol & Name	Unknown	Flag, Blue					6/27/2022 8:18:14 AM 		
+Waypoint	TP-10-0386-06		User Waypoint	12 Q 505877 2075171	428 m				Symbol & Name	Unknown	Flag, Blue					6/24/2025 8:31:37 AM 		
+Waypoint	TP-10-0387-05		User Waypoint	12 Q 505739 2075049	421 m				Symbol & Name	Unknown	Flag, Blue					6/27/2022 7:35:33 AM 		
+Waypoint	TP-10-0430-01		User Waypoint	12 Q 507253 2073865	248 m				Symbol & Name	Unknown	Flag, Blue					7/6/2022 5:31:03 AM 		
+Waypoint	TP-10-0433-10		User Waypoint	12 Q 506826 2074564	309 m				Symbol & Name	Unknown	Flag, Blue					7/8/2022 7:44:16 AM 		
+Waypoint	TP-10-0435-08		User Waypoint	12 Q 507107 2074901	326 m				Symbol & Name	Unknown	Flag, Blue					7/6/2022 7:47:09 AM 		
+Waypoint	TP-10-0442-11		User Waypoint	12 Q 506402 2074853	380 m				Symbol & Name	Unknown	Flag, Blue					7/5/2022 9:21:14 AM 		
+Waypoint	TP-10-0445-05		User Waypoint	12 Q 506703 2075277	384 m				Symbol & Name	Unknown	Flag, Blue					7/5/2022 7:25:58 AM 		
+Waypoint	TP-10-0447-07		User Waypoint	12 Q 507306 2072097	139 m				Symbol & Name	Unknown	Flag, Blue					7/5/2022 9:19:07 AM 		
+Waypoint	TP-10-0514-01		User Waypoint	12 Q 507567 2076842	307 m				Symbol & Name	Unknown	Flag, Blue					12/30/2022 6:41:53 AM 		
+Waypoint	TP-10-0519-08		User Waypoint	12 Q 506473 2072602	188 m				Symbol & Name	Unknown	Flag, Blue					2/3/2025 5:08:13 AM 		
+Waypoint	TP-10-0520-04		User Waypoint	12 Q 507077 2073408	262 m				Symbol & Name	Unknown	Flag, Blue					12/27/2022 6:50:46 AM 		
+Waypoint	TP-10-0531-08		User Waypoint	12 Q 505243 2073015	236 m				Symbol & Name	Unknown	Flag, Blue					12/14/2022 6:22:06 AM 		
+Waypoint	TP-10-0562-09		User Waypoint	12 Q 506498 2075528	416 m				Symbol & Name	Unknown	Flag, Blue					4/1/2023 8:17:18 AM 		
+Waypoint	TP-10-0595-07		User Waypoint	12 Q 506547 2075517	399 m				Symbol & Name	Unknown	Flag, Blue					4/20/2023 7:00:05 AM 		
+Waypoint	TP-10-0662-09		User Waypoint	12 Q 505726 2076564					Symbol & Name	Unknown	Navaid, Red					5/14/2024 12:31:34 PM 		
+Waypoint	TP-10-0673-07		User Waypoint	12 Q 504201 2074456	388 m				Symbol & Name	Unknown	Flag, Green					1/31/2025 5:19:55 AM 		
+Waypoint	TP-10-0676-03		User Waypoint	12 Q 506501 2072079	143 m				Symbol & Name	Unknown	Flag, Blue					3/31/2025 8:12:53 AM 		
+Waypoint	TP-10-0679-09		User Waypoint	12 Q 506468 2075293	404 m				Symbol & Name	Unknown	Flag, Blue					4/1/2025 6:02:50 AM 		
+Waypoint	TP-20-0062-13		User Waypoint	12 Q 502995 2079033	781 m				Symbol & Name	Unknown	Flag, Blue					4/23/2020 11:42:39 AM 		
+Waypoint	TP-20-0072-03		User Waypoint	12 Q 502593 2078267	917 m				Symbol & Name	Unknown	Flag, Blue					6/16/2020 9:42:32 AM 		
+Waypoint	TP-20-0236-02		User Waypoint	12 Q 501221 2078941	722 m				Symbol & Name	Unknown	Flag, Blue					6/16/2021 9:33:41 AM 		
+Waypoint	TP-20-0239-02		User Waypoint	12 Q 502381 2078181	890 m				Symbol & Name	Unknown	Flag, Blue					6/16/2021 6:20:54 AM 		
+Waypoint	TP-20-0252-02		User Waypoint	12 Q 503447 2077802	831 m				Symbol & Name	Unknown	Flag, Blue					10/29/2021 7:29:59 AM 		
+Waypoint	TP-20-0259-01		User Waypoint	12 Q 502517 2078173	928 m				Symbol & Name	Unknown	Flag, Blue					12/10/2021 7:14:27 AM 		
+Waypoint	TP-20-0260-03		User Waypoint	12 Q 502229 2078200	877 m				Symbol & Name	Unknown	Flag, Blue					12/10/2021 8:53:48 AM 		
+Waypoint	TP-20-0287-10		User Waypoint	12 Q 504293 2075686	573 m				Symbol & Name	Unknown	Flag, Blue					11/30/2024 8:15:45 AM 		
+Waypoint	TP-20-0304-05		User Waypoint	12 Q 503593 2075997	588 m				Symbol & Name	Unknown	Flag, Blue					3/17/2022 8:37:36 AM 		
+Waypoint	TP-20-0314-06		User Waypoint	12 Q 503606 2076089	611 m				Symbol & Name	Unknown	Flag, Blue					3/29/2022 6:11:22 AM 		
+Waypoint	TP-20-0320-08		User Waypoint	12 Q 503763 2076248	618 m				Symbol & Name	Unknown	Flag, Blue					3/29/2022 7:50:01 AM 		
+Waypoint	TP-20-0406-01		User Waypoint	12 Q 504535 2076117	592 m				Symbol & Name	Unknown	Flag, Blue					2/24/2025 12:40:49 PM 		
+Waypoint	TP-20-0412-09		User Waypoint	12 Q 504349 2077094	672 m				Symbol & Name	Dark Gray	Flag, Blue					6/28/2022 6:54:29 AM 		
+Waypoint	TP-20-0498-05		User Waypoint	12 Q 503173 2076625	714 m				Symbol & Name	Unknown	Flag, Blue					1/19/2023 9:23:52 AM 		
+Waypoint	TP-20-0659-02		User Waypoint	12 Q 503249 2078285					Symbol & Name	Unknown	Flag, Blue							
+Waypoint	TP-20-0660-01		User Waypoint	12 Q 503258 2078279					Symbol & Name	Unknown	Flag, Blue							
+Waypoint	TP-20-0663-03		User Waypoint	12 Q 502020 2075882	531 m				Symbol & Name	Unknown	Flag, Blue					12/2/2024 5:30:58 AM 		
+Waypoint	TP-20-0664-04		User Waypoint	12 Q 501895 2075922	538 m				Symbol & Name	Unknown	Flag, Blue					12/2/2024 5:52:49 AM 		
+Waypoint	TP-20-0670-05		User Waypoint	12 Q 502360 2080003	707 m				Symbol & Name	Unknown	Flag, Blue					5/8/2024 10:44:02 AM 		
+Waypoint	TP-20-0672-01		User Waypoint	12 Q 501640 2078437	847 m				Symbol & Name	Unknown	Flag, Blue					5/17/2024 10:26:02 AM 		
+Waypoint	TP-20-0673-02		User Waypoint	12 Q 501590 2078373	882 m				Symbol & Name	Unknown	Flag, Blue					5/17/2024 10:22:47 AM 		
+Waypoint	TP-20-0674-01		User Waypoint	12 Q 502326 2078361	914 m				Symbol & Name	Dark Gray	Flag, Blue					3/14/2024 10:08:26 AM 		
+Waypoint	TP-20-0675-02		User Waypoint	12 Q 502409 2078461	914 m				Symbol & Name	Dark Gray	TracBack Point					12/17/2020 2:34:18 PM 		
+Waypoint	TP-20-0676-03		User Waypoint	12 Q 502373 2078657	912 m				Symbol & Name	Dark Gray	Flag, Blue					3/14/2024 10:39:05 AM 		
+Waypoint	TP-20-0677-01		User Waypoint	12 Q 502685 2078858	844 m				Symbol & Name	Unknown	Flag, Blue					5/30/2024 11:02:31 AM 		
+Waypoint	TP-20-0678-02		User Waypoint	12 Q 502607 2079033	852 m				Symbol & Name	Unknown	Flag, Blue					5/30/2024 10:42:20 AM 		
+Waypoint	TP-20-0681-04		User Waypoint	12 Q 504704 2076763	627 m				Symbol & Name	Unknown	Flag, Blue					6/11/2024 6:11:02 AM 		
+Waypoint	TP-20-0682-06		User Waypoint	12 Q 504661 2076791	629 m				Symbol & Name	Dark Gray	Flag, Blue					6/3/2024 9:44:19 AM 		
+Waypoint	TP-20-0689-04		User Waypoint	12 Q 502013 2078323	821 m				Symbol & Name	Unknown	Flag, Blue					6/15/2022 8:08:46 AM 		
+Waypoint	TP-20-0691-02		User Waypoint	12 Q 504911 2076837	672 m				Symbol & Name	Unknown	Flag, Blue					1/19/2024 8:11:32 AM 		
+Waypoint	TP-20-0698-01		User Waypoint	12 Q 501354 2077916	817 m				Symbol & Name	Unknown	Flag, Blue					11/19/2024 6:19:48 AM 		
+Waypoint	TP-20-0700-03		User Waypoint	12 Q 501045 2077916	739 m				Symbol & Name	Unknown	Navaid, Red					11/19/2024 7:11:45 AM 		
+Waypoint	TP-20-0701-05		User Waypoint	12 Q 505049 2076727	605 m				Symbol & Name	Unknown	Flag, Blue					1/31/2025 6:37:05 AM 		
+Waypoint	TP-20-0702-03		User Waypoint	12 Q 504944 2076717	635 m				Symbol & Name	Unknown	Flag, Blue					1/31/2025 5:57:17 AM 		
+Waypoint	TP-20-0703-02		User Waypoint	12 Q 503994 2075672	546 m				Symbol & Name	Unknown	Flag, Blue					3/26/2025 8:09:18 AM 		
+Waypoint	TP-20-0704-04		User Waypoint	12 Q 503676 2075865	560 m				Symbol & Name	Unknown	Flag, Blue					3/26/2025 7:46:14 AM 		
+Waypoint	TP-20-0705-04		User Waypoint	12 Q 502693 2078498	869 m				Symbol & Name	Unknown	Flag, Blue					5/7/2025 7:09:57 AM 		
+Waypoint	TP-20-0706-03		User Waypoint	12 Q 503325 2076221					Symbol & Name	Unknown	Flag, Blue					5/13/2025 11:38:20 AM 		
+Waypoint	TP-20-0709-03		User Waypoint	12 Q 501407 2078289	901 m				Symbol & Name	Unknown	Flag, Blue					5/13/2025 8:29:29 AM 		
+Waypoint	TP-20-0710-04		User Waypoint	12 Q 501529 2077939	882 m				Symbol & Name	Unknown	Flag, Blue					5/13/2025 9:04:58 AM 		
+Waypoint	TP-20-0711-05		User Waypoint	12 Q 501538 2077925	882 m				Symbol & Name	Unknown	Flag, Blue					5/13/2025 9:21:29 AM 		
+Waypoint	TP-20-0717-01		User Waypoint	12 Q 503979 2076393					Symbol & Name	Unknown	Flag, Blue					5/20/2025 4:06:43 PM 		
+Waypoint	TP-20-0722-04		User Waypoint	12 Q 502987 2076102	634 m				Symbol & Name	Unknown	Flag, Blue					7/1/2025 10:15:48 AM 		
+Waypoint	TP-20-0723-03		User Waypoint	12 Q 503129 2076025	621 m				Symbol & Name	Unknown	Flag, Blue					6/23/2025 1:40:02 PM 		
+Waypoint	TP-30-0014-11		User Waypoint	12 Q 508665 2077351	117 m				Symbol & Name	Unknown	Flag, Blue					12/4/2023 7:26:22 AM 		
+Waypoint	TP-30-0041-02		User Waypoint	12 Q 506090 2079851	245 m				Symbol & Name	Unknown	Flag, Blue							
+Waypoint	TP-30-0054-05		User Waypoint	12 Q 505711 2079993	300 m				Symbol & Name	Unknown	Flag, Blue					6/15/2021 8:28:16 AM 		
+Waypoint	TP-30-0083-04		User Waypoint	12 Q 506865 2080119	101 m				Symbol & Name	Unknown	Flag, Blue					9/12/2024 6:45:34 AM 		
+Waypoint	TP-30-0218-02		User Waypoint	12 Q 506997 2080623	104 m				Symbol & Name	Unknown	Flag, Green					6/17/2021 8:42:59 AM 		
+Waypoint	TP-30-0219-01		User Waypoint	12 Q 507239 2080601	65 m				Symbol & Name	Unknown	Flag, Green					6/17/2021 8:05:51 AM 		
+Waypoint	TP-30-0223-06		User Waypoint	12 Q 505766 2078948	345 m				Symbol & Name	Unknown	Flag, Blue					6/16/2021 8:28:55 AM 		
+Waypoint	TP-30-0227-06		User Waypoint	12 Q 507293 2080105	77 m				Symbol & Name	Unknown	Flag, Blue					3/30/2025 1:13:39 PM 		
+Waypoint	TP-30-0229-06		User Waypoint	12 Q 505504 2079968	318 m				Symbol & Name	Unknown	Flag, Blue					6/15/2021 8:35:15 AM 		
+Waypoint	TP-30-0231-03		User Waypoint	12 Q 506965 2080902	82 m				Symbol & Name	Unknown	Flag, Green					6/17/2021 9:19:35 AM 		
+Waypoint	TP-30-0641-09		User Waypoint	12 Q 507463 2078911	250 m				Symbol & Name	Unknown	Flag, Blue					5/19/2025 2:42:57 PM 		
+Waypoint	TP-40-0150-05		User Waypoint	12 Q 502287 2084036	83 m				Symbol & Name	Unknown	Navaid, Red					4/22/2021 9:15:41 AM 		
+Waypoint	TP-40-0179-11		User Waypoint	12 Q 500937 2082807	224 m				Symbol & Name	Unknown	Flag, Blue					5/23/2021 11:10:39 AM 		
+Waypoint	TP-40-0284-10		User Waypoint	12 Q 501025 2082979	219 m				Symbol & Name	Unknown	Flag, Blue					7/8/2025 2:32:23 PM 		
+Waypoint	TP-40-0285-09		User Waypoint	12 Q 501078 2083162	203 m				Symbol & Name	Unknown	Flag, Blue					2/15/2022 9:23:56 AM 		
+Waypoint	TP-40-0286-12		User Waypoint	12 Q 500745 2082751	240 m				Symbol & Name	Unknown	Flag, Blue					2/11/2022 11:20:37 AM 		
+Waypoint	TP-40-0586-07		User Waypoint	12 Q 502495 2083663	79 m				Symbol & Name	Unknown	Flag, Blue					3/28/2023 10:19:42 AM 		
+Waypoint	TP-40-0587-10		User Waypoint	12 Q 502248 2083386	131 m				Symbol & Name	Unknown	Flag, Blue					3/28/2023 10:07:17 AM 		
+Waypoint	TP-40-0594-08		User Waypoint	12 Q 503350 2082385					Symbol & Name	Unknown	Flag, Blue					3/14/2025 1:20:24 PM 		
+Waypoint	TP-50-0137-02		User Waypoint	12 Q 501226 2085113	75 m				Symbol & Name	Unknown	Flag, Blue					4/23/2021 8:21:01 AM 		
+Waypoint	TP-50-0152-04		User Waypoint	12 Q 502305 2084206	68 m				Symbol & Name	Unknown	Flag, Blue					4/22/2021 1:21:22 PM 		
+Waypoint	TP-50-0243-09		User Waypoint	12 Q 501193 2084635	94 m				Symbol & Name	Unknown	Flag, Blue					7/30/2021 8:09:14 AM 		
+Waypoint	TP-50-0244-07		User Waypoint	12 Q 501126 2084817	82 m				Symbol & Name	Unknown	Flag, Blue					7/30/2021 7:32:02 AM 		
+Waypoint	TP-50-0470-08		User Waypoint	12 Q 501952 2084410	15 m				Symbol & Name	Unknown	Flag, Blue					7/9/2025 1:47:03 PM 		
+Waypoint	TP-50-0474-10		User Waypoint	12 Q 501135 2084552	100 m				Symbol & Name	Unknown	Flag, Blue					11/26/2022 7:43:04 AM 		
+Waypoint	TP-50-0475-12		User Waypoint	12 Q 501083 2084447	108 m				Symbol & Name	Unknown	Flag, Blue					11/26/2022 7:40:20 AM 		
+Waypoint	TP-50-0577-09		User Waypoint	12 Q 501547 2085237	41 m				Symbol & Name	Unknown	Flag, Blue					3/22/2023 12:17:55 PM 		
+Waypoint	TP-50-0581-05		User Waypoint	12 Q 501462 2084747	20 m				Symbol & Name	Unknown	Flag, Blue					3/22/2023 10:17:02 AM 		
+Waypoint	TP-50-0633-02		User Waypoint	12 Q 502743 2084468					Symbol & Name	Unknown	Flag, Blue					3/5/2025 3:55:50 PM 		
+Waypoint	TP-50-0637-05		User Waypoint	12 Q 503246 2084132					Symbol & Name	Unknown	Flag, Blue					3/12/2025 9:44:33 AM 		
+Waypoint	TP-50-0638-07		User Waypoint	12 Q 503501 2083800					Symbol & Name	Unknown	Flag, Blue					3/12/2025 9:58:47 AM 		
+Waypoint	TP-50-0639-01		User Waypoint	12 Q 503548 2083525	67 m				Symbol & Name	Unknown	Flag, Blue					3/25/2025 2:22:21 PM 		
+Waypoint	TP-50-0641-01		User Waypoint	12 Q 502592 2084468					Symbol & Name	Unknown	Flag, Blue					3/5/2025 3:55:19 PM 		
+Waypoint	TP-50-0642-03		User Waypoint	12 Q 502936 2084511					Symbol & Name	Unknown	Flag, Blue					3/5/2025 3:57:25 PM 		
+Waypoint	TP-50-0643-04		User Waypoint	12 Q 503065 2084332					Symbol & Name	Unknown	Flag, Blue					3/5/2025 3:59:44 PM 		
+Waypoint	TP-50-0644-06		User Waypoint	12 Q 503429 2083927					Symbol & Name	Unknown	Flag, Blue					3/5/2025 4:01:18 PM 		
+Waypoint	TP-60-0043-04		User Waypoint	12 Q 499885 2079055	483 m				Symbol & Name	Unknown	Flag, Blue					11/30/2024 7:45:17 AM 		
+Waypoint	TP-60-0119-03		User Waypoint	12 Q 497498 2080511	35 m				Symbol & Name	Unknown	Flag, Blue					3/21/2025 8:07:18 AM 		
+Waypoint	TP-60-0125-08		User Waypoint	12 Q 498016 2079851	166 m				Symbol & Name	Unknown	Flag, Blue					4/11/2025 8:01:30 AM 		
+Waypoint	TP-60-0186-03		User Waypoint	12 Q 495763 2079892	92 m				Symbol & Name	Unknown	Flag, Blue					9/6/2024 9:51:20 AM 		
+Waypoint	TP-60-0191-05		User Waypoint	12 Q 495932 2079697	110 m				Symbol & Name	Unknown	Flag, Blue					9/6/2024 9:21:56 AM 		
+Waypoint	TP-60-0198-11		User Waypoint	12 Q 495907 2078994	136 m				Symbol & Name	Unknown	Flag, Blue					9/6/2024 8:49:50 AM 		
+Waypoint	TP-60-0199-13		User Waypoint	12 Q 495962 2078542	122 m				Symbol & Name	Unknown	Flag, Blue					9/6/2024 8:22:16 AM 		
+Waypoint	TP-60-0212-15		User Waypoint	12 Q 496101 2078363	124 m				Symbol & Name	Unknown	Flag, Blue					9/6/2024 8:06:32 AM 		
+Waypoint	TP-60-0235-03		User Waypoint	12 Q 501104 2078961	710 m				Symbol & Name	Unknown	Flag, Blue					6/16/2021 9:57:06 AM 		
+Waypoint	TP-60-0481-04		User Waypoint	12 Q 496101 2080505	14 m				Symbol & Name	Unknown	Flag, Blue					11/19/2022 7:42:59 AM 		
+Waypoint	TP-60-0484-07		User Waypoint	12 Q 496516 2080698	72 m				Symbol & Name	Unknown	Flag, Blue					11/19/2022 9:47:17 AM 		
+Waypoint	TP-60-0488-05		User Waypoint	12 Q 496754 2080233	120 m				Symbol & Name	Unknown	Flag, Blue					11/22/2022 10:46:19 AM 		
+Waypoint	TP-60-0496-03		User Waypoint	12 Q 496748 2078180	146 m				Symbol & Name	Unknown	Flag, Blue					11/27/2022 7:48:29 AM 		
+Waypoint	TP-60-0541-05		User Waypoint	12 Q 496919 2078290	152 m				Symbol & Name	Unknown	Flag, Blue					2/24/2023 1:02:17 PM 		
+Waypoint	TP-60-0547-06		User Waypoint	12 Q 497085 2078303	141 m				Symbol & Name	Unknown	Flag, Blue					3/16/2023 12:40:21 PM 		
+Waypoint	TP-60-0551-08		User Waypoint	12 Q 497239 2078256	140 m				Symbol & Name	Unknown	Flag, Blue					3/16/2023 12:29:24 PM 		
+Waypoint	TP-60-0568-01		User Waypoint	12 Q 496646 2080711	74 m				Symbol & Name	Unknown	Flag, Blue					4/21/2024 11:53:49 AM 		
+Waypoint	TP-60-0572-05		User Waypoint	12 Q 497725 2080353	75 m				Symbol & Name	Unknown	Flag, Blue					3/19/2023 10:00:55 AM 		
+Waypoint	TP-60-0651-04		User Waypoint	12 Q 500894 2077969	725 m				Symbol & Name	Unknown	Flag, Blue					11/19/2024 7:16:06 AM 		
+Waypoint	TP-60-0655-08		User Waypoint	12 Q 500400 2077831	616 m				Symbol & Name	Unknown	Flag, Blue					12/2/2024 1:52:56 PM 		
+Waypoint	TP-60-0656-05		User Waypoint	12 Q 499769 2079126	449 m				Symbol & Name	Unknown	Flag, Blue					11/30/2024 6:39:03 AM 		
+Waypoint	TP-60-0657-01		User Waypoint	12 Q 500396 2078838	641 m				Symbol & Name	Unknown	Flag, Blue					2/10/2025 8:48:18 AM 		
+Waypoint	TP-60-0658-02		User Waypoint	12 Q 500231 2078888	603 m				Symbol & Name	Unknown	Flag, Blue					2/10/2025 7:17:05 AM 		
+Waypoint	TP-60-0673-06		User Waypoint	12 Q 497854 2080191	134 m				Symbol & Name	Unknown	Flag, Blue					4/10/2025 10:00:39 AM 		
+Waypoint	TP-60-0674-05		User Waypoint	12 Q 496253 2080546	45 m				Symbol & Name	Unknown	Flag, Blue					4/14/2025 8:00:25 AM 		
+Waypoint	TP-60-0677-06		User Waypoint	12 Q 498978 2079760	238 m				Symbol & Name	Unknown	Flag, Blue					4/15/2025 9:44:05 AM 		
+Waypoint	TP-60-0679-02		User Waypoint	12 Q 498169 2080831	108 m				Symbol & Name	Unknown	Flag, Blue					4/16/2025 7:52:59 AM 		
+Waypoint	TP-60-0682-05		User Waypoint	12 Q 498764 2080681					Symbol & Name	Unknown	Flag, Blue					4/19/2025 7:27:47 AM 		
+Waypoint	TP-60-0684-02		User Waypoint	12 Q 495447 2080329					Symbol & Name	Unknown	Flag, Blue					4/19/2025 9:29:20 AM 		
+Waypoint	TP-70-0337-02		User Waypoint	12 Q 499158 2074055	30 m				Symbol & Name	Unknown	Flag, Blue					5/4/2022 12:42:26 PM 		
+Waypoint	TP-70-0339-04		User Waypoint	12 Q 499503 2074235	45 m				Symbol & Name	Unknown	Flag, Blue					5/1/2025 3:55:10 PM 		
+Waypoint	TP-70-0342-07		User Waypoint	12 Q 499979 2074419	70 m				Symbol & Name	Unknown	Flag, Blue					5/4/2022 11:40:22 AM 		
+Waypoint	TP-70-0344-09		User Waypoint	12 Q 500137 2074668	89 m				Symbol & Name	Unknown	Flag, Blue					3/17/2025 9:01:25 AM 		
+Waypoint	TP-70-0345-10		User Waypoint	12 Q 500243 2074727					Symbol & Name	Unknown	Flag, Blue					5/10/2025 2:57:17 PM 		
+Waypoint	TP-70-0347-12		User Waypoint	12 Q 500487 2074804	165 m				Symbol & Name	Unknown	Flag, Blue					4/29/2025 10:05:26 AM 		
+Waypoint	TP-70-0349-13		User Waypoint	12 Q 500661 2074847	140 m				Symbol & Name	Unknown	Flag, Blue					5/2/2025 8:28:23 AM 		
+Waypoint	TP-70-0625-03		User Waypoint	12 Q 498595 2074348	19 m				Symbol & Name	Unknown	Flag, Blue					5/23/2023 6:27:11 AM 		
+Waypoint	TP-70-0631-06		User Waypoint	12 Q 501641 2075756	470 m				Symbol & Name	Unknown	Flag, Blue					8/24/2024 11:06:52 AM 		
+Waypoint	TP-70-0632-07		User Waypoint	12 Q 501517 2075634	424 m				Symbol & Name	Unknown	Flag, Blue					5/15/2024 6:41:01 AM 		
+Waypoint	TP-70-0633-09		User Waypoint	12 Q 501391 2075593					Symbol & Name	Unknown	Flag, Blue					11/11/2024 12:38:59 PM 		
+Waypoint	TP-70-0636-10		User Waypoint	12 Q 501364 2075550	397 m				Symbol & Name	Unknown	Flag, Blue					2/10/2025 7:05:35 AM 		
+Waypoint	TP-70-0637-12		User Waypoint	12 Q 501271 2075265	325 m				Symbol & Name	Unknown	Flag, Blue					5/5/2025 7:41:03 AM 		
+
+
+Header	Name	Length	Course	Waypoints	Link
+
+Route	A	1.8 km	180° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0258-01	0 m
+Route Waypoint	TC-50-0148-02	69 m	69 m	185° true
+Route Waypoint	TC-50-0149-03	249 m	180 m	182° true
+Route Waypoint	TP-50-0152-04	574 m	324 m	180° true
+Route Waypoint	TP-40-0150-05	746 m	172 m	186° true
+Route Waypoint	TC-40-0170-06	1.0 km	295 m	137° true
+Route Waypoint	TP-40-0586-07	1.2 km	161 m	178° true
+Route Waypoint	TC-40-0169-08	1.3 km	64 m	235° true
+Route Waypoint	TC-40-0151-09	1.4 km	132 m	220° true
+Route Waypoint	TP-40-0587-10	1.6 km	179 m	218° true
+Route Waypoint	TC-40-0588-11	1.8 km	192 m	155° true
+
+Route	Aguaje	1.3 km	80° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-30-0094-01	0 m
+Route Waypoint	TC-30-0081-02	335 m	335 m	56° true
+Route Waypoint	TC-30-0084-03	544 m	210 m	64° true
+Route Waypoint	TP-30-0083-04	648 m	103 m	52° true
+Route Waypoint	TC-30-0225-05	859 m	211 m	78° true
+Route Waypoint	TP-30-0227-06	1.1 km	229 m	105° true
+Route Waypoint	TC-30-0226-07	1.3 km	163 m	149° true
+
+Route	Azul Sur	915 m	96° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0126-01	0 m
+Route Waypoint	TC-60-0127-02	144 m	144 m	91° true
+Route Waypoint	TC-60-0203-03	243 m	99 m	114° true
+Route Waypoint	TC-60-0675-04	425 m	182 m	99° true
+Route Waypoint	TC-60-0676-05	561 m	135 m	118° true
+Route Waypoint	TP-60-0677-06	756 m	195 m	72° true
+Route Waypoint	TC-60-0678-07	915 m	158 m	96° true
+
+Route	Bahia Mosquito	525 m	138° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-30-0231-03	0 m
+Route Waypoint	TP-30-0218-02	282 m	282 m	174° true
+Route Waypoint	TP-30-0219-01	525 m	243 m	95° true
+
+Route	Bahia Playa Blanca	1.1 km	138° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0121-01	0 m
+Route Waypoint	TC-60-0120-02	126 m	126 m	122° true
+Route Waypoint	TP-60-0119-03	208 m	81 m	114° true
+Route Waypoint	TC-60-0118-04	348 m	140 m	126° true
+Route Waypoint	TP-60-0572-05	485 m	137 m	124° true
+Route Waypoint	TP-60-0673-06	692 m	208 m	142° true
+Route Waypoint	TC-60-0289-07	1.1 km	360 m	169° true
+Route Waypoint	TP-60-0125-08	1.1 km	95 m	83° true
+
+Route	Bahia Tiburon	1.8 km	73° true	10 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0683-01	0 m
+Route Waypoint	TP-60-0684-02	113 m	113 m	326° true
+Route Waypoint	TC-60-0207-03	663 m	550 m	80° true
+Route Waypoint	TP-60-0481-04	801 m	138 m	55° true
+Route Waypoint	TP-60-0674-05	958 m	158 m	75° true
+Route Waypoint	TC-60-0483-06	1.1 km	162 m	51° true
+Route Waypoint	TP-60-0484-07	1.3 km	146 m	70° true
+Route Waypoint	TC-60-0486-08	1.4 km	172 m	81° true
+Route Waypoint	TC-60-0364-09	1.6 km	170 m	124° true
+Route Waypoint	TC-60-0209-10	1.8 km	238 m	71° true
+
+Route	Barranca del muerto	1.1 km	191° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0139-01	0 m
+Route Waypoint	TP-50-0137-02	88 m	88 m	179° true
+Route Waypoint	TC-50-0131-03	217 m	130 m	160° true
+Route Waypoint	TC-50-0138-04	366 m	148 m	237° true
+Route Waypoint	TC-50-0133-05	391 m	25 m	293° true
+Route Waypoint	TC-50-0132-06	419 m	28 m	305° true
+Route Waypoint	TP-50-0244-07	541 m	123 m	168° true
+Route Waypoint	TC-50-0473-08	666 m	125 m	147° true
+Route Waypoint	TP-50-0243-09	744 m	78 m	180° true
+Route Waypoint	TP-50-0474-10	846 m	102 m	215° true
+Route Waypoint	TC-50-0134-11	940 m	94 m	247° true
+Route Waypoint	TP-50-0475-12	1.0 km	77 m	153° true
+Route Waypoint	TC-50-0136-13	1.1 km	64 m	198° true
+
+Route	Bonsai	1.1 km	198° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TL-30-0269-01	0 m
+Route Waypoint	TC-30-0268-02	157 m	157 m	181° true
+Route Waypoint	TL-30-0267-03	307 m	150 m	172° true
+Route Waypoint	TC-30-0266-04	462 m	155 m	183° true
+Route Waypoint	TL-30-0265-05	729 m	267 m	192° true
+Route Waypoint	TC-30-0264-06	891 m	162 m	208° true
+Route Waypoint	TL-30-0263-07	949 m	58 m	215° true
+Route Waypoint	TC-30-0270-08	1.1 km	150 m	267° true
+
+Route	Cabo Pearce	2.8 km	57° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-30-0649-01	0 m
+Route Waypoint	TC-30-0648-02	765 m	765 m	17° true
+Route Waypoint	TC-10-0405-03	1.0 km	254 m	4° true
+Route Waypoint	TC-30-0647-04	1.4 km	413 m	162° true
+Route Waypoint	TC-30-0646-05	1.5 km	103 m	87° true
+Route Waypoint	TC-30-0645-06	1.6 km	85 m	37° true
+Route Waypoint	TC-30-0015-07	1.8 km	231 m	151° true
+Route Waypoint	TC-30-0010-08	2.1 km	242 m	66° true
+Route Waypoint	TC-30-0011-09	2.3 km	177 m	105° true
+Route Waypoint	TC-30-0012-10	2.4 km	174 m	108° true
+Route Waypoint	TP-30-0014-11	2.6 km	134 m	5° true
+Route Waypoint	TC-30-0013-12	2.8 km	195 m	3° true
+
+Route	Camino al Volcan	3.0 km	320° true	28 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0406-01	0 m
+Route Waypoint	TC-20-0502-23	174 m	174 m	11° true
+Route Waypoint	TC-20-0721-22	245 m	70 m	20° true
+Route Waypoint	TC-20-0720-21	335 m	91 m	278° true
+Route Waypoint	TC-20-0680-03	582 m	246 m	31° true
+Route Waypoint	TP-20-0681-04	785 m	203 m	21° true
+Route Waypoint	TC-20-0465-05	838 m	54 m	272° true
+Route Waypoint	TP-20-0682-06	867 m	28 m	23° true
+Route Waypoint	TC-20-0407-20	1.1 km	203 m	300° true
+Route Waypoint	TC-20-0480-07	1.1 km	59 m	321° true
+Route Waypoint	TC-20-0464-19	1.2 km	33 m	305° true
+Route Waypoint	TL-20-0724-24	1.2 km	46 m	50° true
+Route Waypoint	TL-20-0725-25	1.3 km	59 m	266° true
+Route Waypoint	TC-20-0464-08	1.3 km	28 m	53° true
+Route Waypoint	TL-20-0726-26	1.4 km	62 m	306° true
+Route Waypoint	TP-20-0412-09	1.4 km	63 m	341° true
+Route Waypoint	TC-20-0478-10	1.6 km	170 m	1° true
+Route Waypoint	TL-20-0727-27	1.6 km	51 m	343° true
+Route Waypoint	TC-20-0461-11	1.7 km	50 m	295° true
+Route Waypoint	TL-20-0728-28	1.7 km	58 m	190° true
+Route Waypoint	TL-20-0729-29	1.8 km	68 m	343° true
+Route Waypoint	TC-20-0477-12	1.9 km	79 m	216° true
+Route Waypoint	TC-20-0497-13	2.1 km	167 m	315° true
+Route Waypoint	TC-20-0413-14	2.2 km	148 m	339° true
+Route Waypoint	TC-20-0460-15	2.4 km	227 m	288° true
+Route Waypoint	TC-20-0422-16	2.6 km	206 m	229° true
+Route Waypoint	TC-20-0421-17	2.8 km	186 m	273° true
+Route Waypoint	TC-20-0420-18	3.0 km	174 m	299° true
+
+Route	Campo 2	2.4 km	25° true	10 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0400-01	0 m
+Route Waypoint	TC-30-0644-02	257 m	257 m	16° true
+Route Waypoint	TC-30-0525-03	472 m	216 m	1° true
+Route Waypoint	TC-30-0643-04	887 m	415 m	12° true
+Route Waypoint	TC-30-0642-05	1.3 km	367 m	16° true
+Route Waypoint	TC-30-0638-06	1.5 km	234 m	35° true
+Route Waypoint	TC-30-0639-07	1.8 km	341 m	24° true
+Route Waypoint	TC-30-0640-08	2.1 km	226 m	48° true
+Route Waypoint	TP-30-0641-09	2.3 km	202 m	63° true
+Route Waypoint	TC-30-0650-10	2.4 km	191 m	41° true
+
+Route	Campo 3	1.7 km	332° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-30-0397-01	0 m
+Route Waypoint	TC-30-0597-02	184 m	184 m	274° true
+Route Waypoint	TC-30-0598-03	365 m	181 m	287° true
+Route Waypoint	TC-30-0599-04	658 m	293 m	312° true
+Route Waypoint	TC-30-0600-05	950 m	291 m	340° true
+Route Waypoint	TC-30-0601-06	1.1 km	156 m	12° true
+Route Waypoint	TC-30-0602-07	1.3 km	189 m	348° true
+Route Waypoint	TC-30-0603-08	1.5 km	196 m	12° true
+Route Waypoint	TC-30-0604-09	1.7 km	188 m	352° true
+
+Route	Campo 3 Norte	1.3 km	294° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-30-0085-01	0 m
+Route Waypoint	TP-30-0041-02	133 m	133 m	5° true
+Route Waypoint	TC-30-0095-03	266 m	133 m	326° true
+Route Waypoint	TC-30-0042-04	440 m	173 m	276° true
+Route Waypoint	TP-30-0054-05	573 m	134 m	276° true
+Route Waypoint	TP-30-0229-06	782 m	209 m	263° true
+Route Waypoint	TC-30-0232-07	986 m	204 m	281° true
+Route Waypoint	TC-30-0605-08	1.1 km	141 m	248° true
+Route Waypoint	TC-30-0228-09	1.3 km	153 m	13° true
+
+Route	Campo de tiro	1.5 km	70° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0509-01	0 m
+Route Waypoint	TC-10-0510-02	272 m	272 m	82° true
+Route Waypoint	TC-10-0518-03	600 m	327 m	81° true
+Route Waypoint	TC-10-0517-04	759 m	159 m	74° true
+Route Waypoint	TC-10-0516-05	882 m	124 m	35° true
+Route Waypoint	TC-10-0036-06	1.2 km	319 m	57° true
+Route Waypoint	TC-10-0515-07	1.5 km	265 m	74° true
+
+Route	Carretera Inferior	2.6 km	37° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0521-11	0 m
+Route Waypoint	TC-10-0522-10	178 m	178 m	351° true
+Route Waypoint	TC-10-0508-09	806 m	628 m	50° true
+Route Waypoint	TP-10-0519-08	982 m	176 m	89° true
+Route Waypoint	TC-10-0440-07	1.5 km	492 m	62° true
+Route Waypoint	TC-10-0427-06	1.6 km	170 m	39° true
+Route Waypoint	TC-10-0428-05	1.9 km	284 m	10° true
+Route Waypoint	TP-10-0520-04	2.1 km	167 m	5° true
+Route Waypoint	TC-10-0441-03	2.3 km	166 m	16° true
+Route Waypoint	TC-10-0429-02	2.4 km	155 m	15° true
+Route Waypoint	TP-10-0430-01	2.6 km	175 m	30° true
+
+Route	Carretera Superior	3.0 km	13° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0431-12	0 m
+Route Waypoint	TC-10-0670-11	338 m	338 m	330° true
+Route Waypoint	TP-10-0433-10	408 m	70 m	53° true
+Route Waypoint	TC-10-0434-09	724 m	315 m	35° true
+Route Waypoint	TP-10-0435-08	853 m	129 m	52° true
+Route Waypoint	TC-10-0436-07	1.2 km	356 m	45° true
+Route Waypoint	TC-10-0526-06	1.4 km	166 m	326° true
+Route Waypoint	TC-10-0437-05	1.9 km	537 m	19° true
+Route Waypoint	TC-10-0438-04	2.4 km	476 m	13° true
+Route Waypoint	TC-10-0669-03	2.6 km	224 m	33° true
+Route Waypoint	TC-10-0668-02	2.8 km	225 m	344° true
+Route Waypoint	TP-10-0514-01	3.0 km	188 m	349° true
+
+Route	Cerro Rojo 1	1.6 km	198° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0671-01	0 m
+Route Waypoint	TC-10-0396-02	106 m	106 m	155° true
+Route Waypoint	TC-10-0008-03	228 m	121 m	285° true
+Route Waypoint	TC-10-0395-04	321 m	94 m	200° true
+Route Waypoint	TC-10-0394-05	603 m	282 m	195° true
+Route Waypoint	TC-10-0393-06	906 m	303 m	137° true
+Route Waypoint	TC-10-0392-07	1.2 km	260 m	206° true
+Route Waypoint	TC-10-0006-08	1.3 km	99 m	201° true
+Route Waypoint	TC-10-0009-09	1.6 km	343 m	343° true
+
+Route	Cerro Rojo 2	958 m	182° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0024-01	0 m
+Route Waypoint	TC-10-0020-02	69 m	69 m	243° true
+Route Waypoint	TC-10-0025-03	256 m	187 m	253° true
+Route Waypoint	TC-10-0026-04	369 m	113 m	193° true
+Route Waypoint	TC-10-0027-05	506 m	137 m	236° true
+Route Waypoint	TC-10-0636-06	660 m	153 m	118° true
+Route Waypoint	TC-10-0634-07	795 m	136 m	112° true
+Route Waypoint	TC-10-0635-08	958 m	162 m	42° true
+
+Route	Cerro Rojo 3	3.0 km	258° true	15 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-10-0371-01	0 m
+Route Waypoint	TC-10-0370-02	170 m	170 m	263° true
+Route Waypoint	TC-10-0369-03	346 m	176 m	291° true
+Route Waypoint	TC-10-0368-04	556 m	210 m	291° true
+Route Waypoint	TC-10-0666-05	845 m	289 m	205° true
+Route Waypoint	TP-10-0373-06	1.0 km	189 m	177° true
+Route Waypoint	TP-10-0673-07	1.1 km	40 m	244° true
+Route Waypoint	TC-10-0372-08	1.3 km	198 m	223° true
+Route Waypoint	TC-10-0652-09	1.4 km	104 m	220° true
+Route Waypoint	TC-10-0507-10	1.5 km	99 m	256° true
+Route Waypoint	TC-10-0459-11	1.6 km	115 m	204° true
+Route Waypoint	TC-10-0537-12	2.0 km	417 m	334° true
+Route Waypoint	TC-10-0457-13	2.2 km	192 m	328° true
+Route Waypoint	TC-10-0458-14	2.6 km	426 m	41° true
+Route Waypoint	TC-10-0500-15	3.0 km	388 m	151° true
+
+Route	Cuatro caminos	2.0 km	198° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0168-01	0 m
+Route Waypoint	TC-50-0129-02	97 m	97 m	106° true
+Route Waypoint	TC-50-0469-03	474 m	377 m	121° true
+Route Waypoint	TC-50-0161-04	676 m	202 m	147° true
+Route Waypoint	TC-50-0130-05	870 m	194 m	201° true
+Route Waypoint	TC-50-0153-06	1.0 km	138 m	209° true
+Route Waypoint	TC-50-0160-07	1.2 km	189 m	184° true
+Route Waypoint	TP-50-0470-08	1.3 km	63 m	293° true
+Route Waypoint	TC-50-0471-09	1.4 km	171 m	317° true
+Route Waypoint	TC-50-0182-10	1.6 km	141 m	259° true
+Route Waypoint	TC-50-0178-11	1.9 km	278 m	231° true
+Route Waypoint	TC-50-0472-12	2.0 km	160 m	312° true
+
+Route	EXT VO	1.3 km	335° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TL-20-0312-01	0 m
+Route Waypoint	TL-20-0313-02	778 m	778 m	331° true
+Route Waypoint	TL-20-0314-03	1.3 km	538 m	340° true
+
+Route	Extensión T	132 m	201° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0144-05	0 m
+Route Waypoint	TC-50-0145-06	39 m	39 m	281° true
+Route Waypoint	TC-50-0146-07	49 m	9 m	281° true
+Route Waypoint	TC-50-0147-08	132 m	84 m	166° true
+
+Route	Forjadores	842 m	66° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TL-60-0538-01	0 m
+Route Waypoint	TC-60-0489-02	109 m	109 m	40° true
+Route Waypoint	TC-60-0490-03	234 m	125 m	42° true
+Route Waypoint	TC-60-0491-04	348 m	115 m	124° true
+Route Waypoint	TC-60-0200-05	469 m	120 m	107° true
+Route Waypoint	TL-60-0567-06	555 m	87 m	56° true
+Route Waypoint	TC-60-0201-07	633 m	78 m	62° true
+Route Waypoint	TC-60-0492-08	753 m	120 m	82° true
+Route Waypoint	TC-60-0493-09	842 m	88 m	352° true
+
+Route	Grutas	1.5 km	338° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0379-01	0 m
+Route Waypoint	TC-10-0378-02	127 m	127 m	332° true
+Route Waypoint	TC-10-0377-03	237 m	110 m	328° true
+Route Waypoint	TC-10-0376-04	357 m	120 m	303° true
+Route Waypoint	TC-10-0375-05	485 m	128 m	302° true
+Route Waypoint	TC-10-0374-06	575 m	91 m	342° true
+Route Waypoint	TC-10-0532-07	729 m	154 m	292° true
+Route Waypoint	TP-10-0531-08	879 m	150 m	307° true
+Route Waypoint	TP-10-0007-09	1.0 km	142 m	323° true
+Route Waypoint	TC-10-0664-10	1.3 km	251 m	34° true
+Route Waypoint	TC-10-0462-11	1.5 km	232 m	27° true
+
+Route	Infarto	2.7 km	238° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0367-01	0 m
+Route Waypoint	TC-10-0506-02	254 m	254 m	215° true
+Route Waypoint	TC-10-0227-03	952 m	698 m	227° true
+Route Waypoint	TC-10-0040-04	1.2 km	266 m	232° true
+Route Waypoint	TC-10-0505-05	1.5 km	271 m	254° true
+Route Waypoint	TC-70-0629-06	1.9 km	419 m	264° true
+Route Waypoint	TC-10-0503-07	2.0 km	128 m	58° true
+Route Waypoint	TC-10-0533-08	2.2 km	131 m	12° true
+Route Waypoint	TC-10-0614-09	2.7 km	492 m	70° true
+
+Route	J	1.3 km	299° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-60-0657-01	0 m
+Route Waypoint	TP-60-0658-02	172 m	172 m	287° true
+Route Waypoint	TC-60-0092-03	390 m	218 m	270° true
+Route Waypoint	TP-60-0043-04	602 m	211 m	323° true
+Route Waypoint	TP-60-0656-05	738 m	136 m	302° true
+Route Waypoint	TC-60-0088-06	978 m	240 m	289° true
+Route Waypoint	TC-60-0659-07	1.3 km	309 m	318° true
+
+Route	LB	729 m	343° true	6 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-70-0335-01	0 m
+Route Waypoint	TC-70-0334-02	160 m	160 m	325° true
+Route Waypoint	TP-70-0625-03	409 m	249 m	351° true
+Route Waypoint	TC-70-0624-04	484 m	75 m	344° true
+Route Waypoint	TC-70-0333-05	629 m	145 m	354° true
+Route Waypoint	TC-70-0332-06	729 m	101 m	336° true
+
+Route	Lianas	2.2 km	228° true	15 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TL-30-0272-01	0 m
+Route Waypoint	TC-30-0633-02	181 m	181 m	179° true
+Route Waypoint	TL-30-0271-03	334 m	154 m	205° true
+Route Waypoint	TC-30-0277-04	488 m	154 m	209° true
+Route Waypoint	TL-30-0276-05	638 m	150 m	243° true
+Route Waypoint	TC-30-0275-06	801 m	163 m	253° true
+Route Waypoint	TL-30-0274-07	971 m	170 m	249° true
+Route Waypoint	TC-30-0273-08	1.1 km	166 m	206° true
+Route Waypoint	TC-30-0278-09	1.2 km	80 m	208° true
+Route Waypoint	TL-30-0279-10	1.3 km	128 m	220° true
+Route Waypoint	TC-30-0280-11	1.5 km	161 m	182° true
+Route Waypoint	TL-30-0632-12	1.7 km	145 m	248° true
+Route Waypoint	TC-40-0281-13	1.8 km	168 m	272° true
+Route Waypoint	TL-40-0282-14	2.0 km	224 m	238° true
+Route Waypoint	TC-40-0283-15	2.2 km	144 m	272° true
+
+Route	M	1.5 km	267° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0233-01	0 m
+Route Waypoint	TP-20-0236-02	151 m	151 m	306° true
+Route Waypoint	TP-60-0235-03	270 m	119 m	280° true
+Route Waypoint	TC-60-0234-04	409 m	139 m	276° true
+Route Waypoint	TC-60-0590-05	634 m	225 m	290° true
+Route Waypoint	TC-60-0089-06	755 m	122 m	352° true
+Route Waypoint	TC-60-0650-07	860 m	105 m	25° true
+Route Waypoint	TC-60-0090-08	1.3 km	438 m	195° true
+Route Waypoint	TC-60-0091-09	1.5 km	214 m	260° true
+
+Route	Macondo	1.4 km	194° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-50-0639-01	0 m
+Route Waypoint	TC-50-0640-02	192 m	192 m	180° true
+Route Waypoint	TC-40-0589-03	340 m	147 m	242° true
+Route Waypoint	TC-40-0590-04	489 m	149 m	194° true
+Route Waypoint	TC-40-0591-05	645 m	156 m	182° true
+Route Waypoint	TC-40-0592-06	813 m	168 m	180° true
+Route Waypoint	TC-40-0593-07	1.0 km	221 m	173° true
+Route Waypoint	TP-40-0594-08	1.2 km	204 m	195° true
+Route Waypoint	TC-40-0595-09	1.4 km	154 m	231° true
+
+Route	Nido de Gorila	688 m	69° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0674-01	0 m
+Route Waypoint	TP-20-0675-02	130 m	130 m	40° true
+Route Waypoint	TP-20-0676-03	331 m	201 m	350° true
+Route Waypoint	TP-20-0705-04	688 m	357 m	117° true
+
+Route	Observatorio	193 m	336° true	2 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0677-01	0 m
+Route Waypoint	TP-20-0678-02	193 m	193 m	336° true
+
+Route	Paozu	1.5 km	151° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0708-08	0 m
+Route Waypoint	TC-20-0707-07	193 m	193 m	144° true
+Route Waypoint	TC-20-0499-06	380 m	187 m	137° true
+Route Waypoint	TP-20-0498-05	612 m	232 m	170° true
+Route Waypoint	TC-20-0310-04	860 m	248 m	149° true
+Route Waypoint	TP-20-0706-03	1.1 km	195 m	173° true
+Route Waypoint	TC-20-0309-02	1.2 km	182 m	197° true
+Route Waypoint	TC-20-0305-01	1.5 km	267 m	99° true
+
+Route	Paradero	2.5 km	290° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0574-09	0 m
+Route Waypoint	TP-10-0021-08	271 m	271 m	257° true
+Route Waypoint	TC-10-0667-07	673 m	402 m	228° true
+Route Waypoint	TC-10-0019-06	1.0 km	356 m	295° true
+Route Waypoint	TC-10-0018-05	1.3 km	297 m	327° true
+Route Waypoint	TP-10-0029-04	1.7 km	389 m	300° true
+Route Waypoint	TC-10-0022-03	2.0 km	318 m	274° true
+Route Waypoint	TC-10-0527-02	2.3 km	238 m	329° true
+Route Waypoint	TC-10-0529-01	2.5 km	241 m	334° true
+
+Route	Paralelo	1.8 km	155° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0717-01	0 m
+Route Waypoint	TC-20-0716-02	157 m	157 m	16° true
+Route Waypoint	TC-20-0530-03	318 m	161 m	8° true
+Route Waypoint	TC-20-0293-04	391 m	73 m	90° true
+Route Waypoint	TC-20-0115-05	501 m	110 m	155° true
+Route Waypoint	TC-20-0294-06	845 m	343 m	115° true
+Route Waypoint	TC-20-0687-07	1.2 km	391 m	187° true
+Route Waypoint	TC-20-0688-08	1.4 km	196 m	198° true
+Route Waypoint	TC-20-0288-09	1.6 km	123 m	188° true
+Route Waypoint	TP-20-0287-10	1.7 km	101 m	215° true
+Route Waypoint	TC-20-0694-11	1.8 km	108 m	147° true
+
+Route	Periferico	2.1 km	162° true	15 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0184-01	0 m
+Route Waypoint	TC-60-0185-02	154 m	154 m	153° true
+Route Waypoint	TP-60-0186-03	321 m	167 m	102° true
+Route Waypoint	TC-60-0187-04	462 m	141 m	121° true
+Route Waypoint	TP-60-0191-05	595 m	133 m	159° true
+Route Waypoint	TC-60-0192-06	801 m	206 m	198° true
+Route Waypoint	TC-60-0193-07	982 m	181 m	200° true
+Route Waypoint	TC-60-0194-08	1.1 km	85 m	160° true
+Route Waypoint	TC-60-0195-09	1.2 km	104 m	217° true
+Route Waypoint	TC-60-0196-10	1.3 km	146 m	155° true
+Route Waypoint	TP-60-0198-11	1.4 km	89 m	122° true
+Route Waypoint	TC-60-0197-12	1.5 km	96 m	174° true
+Route Waypoint	TP-60-0199-13	1.9 km	361 m	173° true
+Route Waypoint	TC-60-0211-14	2.0 km	122 m	144° true
+Route Waypoint	TP-60-0212-15	2.1 km	107 m	140° true
+
+Route	Picacho Ajusco	1.8 km	95° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0494-01	0 m
+Route Waypoint	TL-60-0495-02	386 m	386 m	114° true
+Route Waypoint	TP-60-0496-03	548 m	162 m	83° true
+Route Waypoint	TC-60-0290-04	581 m	33 m	45° true
+Route Waypoint	TP-60-0541-05	753 m	172 m	59° true
+Route Waypoint	TP-60-0547-06	919 m	166 m	85° true
+Route Waypoint	TC-60-0549-07	996 m	77 m	95° true
+Route Waypoint	TP-60-0551-08	1.1 km	88 m	117° true
+Route Waypoint	TC-60-0554-09	1.2 km	102 m	90° true
+Route Waypoint	TC-60-0539-10	1.4 km	196 m	75° true
+Route Waypoint	TC-60-0571-11	1.6 km	195 m	76° true
+Route Waypoint	TL-60-0556-12	1.7 km	114 m	104° true
+Route Waypoint	TC-60-0546-13	1.8 km	158 m	155° true
+
+Route	Picolin	1.3 km	94° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0456-01	0 m
+Route Waypoint	TC-10-0086-02	250 m	250 m	101° true
+Route Waypoint	TP-10-0676-03	474 m	224 m	108° true
+Route Waypoint	TC-10-0453-04	709 m	234 m	96° true
+Route Waypoint	TC-10-0677-05	921 m	212 m	118° true
+Route Waypoint	TC-10-0449-06	1.1 km	199 m	81° true
+Route Waypoint	TP-10-0447-07	1.3 km	218 m	60° true
+
+Route	Pista	1.2 km	89° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0613-01	0 m
+Route Waypoint	TC-10-0612-02	107 m	107 m	82° true
+Route Waypoint	TC-10-0611-03	210 m	104 m	29° true
+Route Waypoint	TC-10-0610-04	372 m	161 m	88° true
+Route Waypoint	TC-10-0609-05	599 m	227 m	96° true
+Route Waypoint	TC-10-0608-06	769 m	170 m	95° true
+Route Waypoint	TC-10-0607-07	987 m	218 m	96° true
+Route Waypoint	TC-10-0606-08	1.2 km	229 m	98° true
+
+Route	Plant	1.2 km	277° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0631-01	0 m
+Route Waypoint	TC-20-0296-02	151 m	151 m	356° true
+Route Waypoint	TP-20-0723-03	377 m	226 m	296° true
+Route Waypoint	TP-20-0722-04	538 m	162 m	299° true
+Route Waypoint	TC-20-0298-05	664 m	126 m	265° true
+Route Waypoint	TC-20-0300-06	840 m	176 m	285° true
+Route Waypoint	TL-20-0301-07	962 m	122 m	215° true
+Route Waypoint	TC-20-0302-08	1.1 km	123 m	242° true
+Route Waypoint	TC-20-0303-09	1.2 km	119 m	222° true
+
+Route	Polanco	1.6 km	67° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0585-01	0 m
+Route Waypoint	TC-50-0584-02	137 m	137 m	184° true
+Route Waypoint	TC-50-0583-03	259 m	122 m	174° true
+Route Waypoint	TC-50-0582-04	363 m	103 m	224° true
+Route Waypoint	TP-50-0581-05	524 m	161 m	128° true
+Route Waypoint	TC-50-0580-06	663 m	139 m	164° true
+Route Waypoint	TC-50-0579-07	790 m	127 m	149° true
+Route Waypoint	TC-50-0578-08	1.5 km	668 m	352° true
+Route Waypoint	TP-50-0577-09	1.6 km	104 m	45° true
+
+Route	Popol Vuh	628 m	53° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0501-01	0 m
+Route Waypoint	TL-20-0246-02	128 m	128 m	22° true
+Route Waypoint	TC-20-0255-03	227 m	100 m	23° true
+Route Waypoint	TC-20-0589-04	347 m	120 m	44° true
+Route Waypoint	TC-20-0114-05	424 m	77 m	44° true
+Route Waypoint	TC-20-0113-06	499 m	75 m	104° true
+Route Waypoint	TC-20-0245-07	557 m	57 m	145° true
+Route Waypoint	TC-20-0112-08	628 m	71 m	80° true
+
+Route	Praderas	673 m	11° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0711-05	0 m
+Route Waypoint	TP-20-0710-04	17 m	17 m	329° true
+Route Waypoint	TP-20-0709-03	389 m	372 m	341° true
+Route Waypoint	TP-20-0673-02	591 m	202 m	65° true
+Route Waypoint	TP-20-0672-01	673 m	82 m	38° true
+
+Route	Salto de Ballena	1.3 km	126° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-50-0641-01	0 m
+Route Waypoint	TP-50-0633-02	151 m	151 m	90° true
+Route Waypoint	TP-50-0642-03	349 m	198 m	77° true
+Route Waypoint	TP-50-0643-04	570 m	222 m	144° true
+Route Waypoint	TP-50-0637-05	841 m	271 m	138° true
+Route Waypoint	TP-50-0644-06	1.1 km	276 m	138° true
+Route Waypoint	TP-50-0638-07	1.3 km	147 m	151° true
+
+Route	Sendero	1.6 km	332° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0103-01	0 m
+Route Waypoint	TP-20-0703-02	180 m	180 m	270° true
+Route Waypoint	TC-20-0214-03	301 m	121 m	284° true
+Route Waypoint	TP-20-0704-04	562 m	261 m	309° true
+Route Waypoint	TP-20-0304-05	718 m	156 m	328° true
+Route Waypoint	TP-20-0314-06	812 m	94 m	8° true
+Route Waypoint	TC-20-0316-07	894 m	82 m	20° true
+Route Waypoint	TP-20-0320-08	1.0 km	153 m	58° true
+Route Waypoint	TC-20-0321-09	1.2 km	166 m	77° true
+Route Waypoint	TC-20-0718-10	1.4 km	200 m	323° true
+Route Waypoint	TC-20-0719-11	1.6 km	209 m	324° true
+
+Route	T10	1.9 km	83° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-70-0329-01	0 m
+Route Waypoint	TC-70-0627-02	241 m	241 m	127° true
+Route Waypoint	TC-70-0328-03	356 m	115 m	101° true
+Route Waypoint	TC-70-0327-04	548 m	192 m	12° true
+Route Waypoint	TC-70-0325-05	784 m	236 m	49° true
+Route Waypoint	TC-70-0626-06	893 m	109 m	95° true
+Route Waypoint	TC-70-0322-07	974 m	82 m	51° true
+Route Waypoint	TC-70-0628-08	1.2 km	218 m	44° true
+Route Waypoint	TC-70-0319-09	1.4 km	165 m	91° true
+Route Waypoint	TC-70-0317-10	1.6 km	206 m	93° true
+Route Waypoint	TC-70-0313-11	1.7 km	171 m	149° true
+Route Waypoint	TC-70-0315-12	1.9 km	209 m	96° true
+
+Route	T11	2.0 km	61° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-70-0336-01	0 m
+Route Waypoint	TP-70-0337-02	122 m	122 m	53° true
+Route Waypoint	TC-70-0338-03	321 m	198 m	72° true
+Route Waypoint	TP-70-0339-04	517 m	196 m	53° true
+Route Waypoint	TC-70-0340-05	721 m	204 m	63° true
+Route Waypoint	TC-70-0341-06	834 m	114 m	83° true
+Route Waypoint	TP-70-0342-07	1.0 km	197 m	67° true
+Route Waypoint	TC-70-0343-08	1.3 km	228 m	15° true
+Route Waypoint	TP-70-0344-09	1.4 km	105 m	73° true
+Route Waypoint	TP-70-0345-10	1.5 km	121 m	60° true
+Route Waypoint	TC-70-0346-11	1.6 km	149 m	44° true
+Route Waypoint	TP-70-0347-12	1.8 km	143 m	102° true
+Route Waypoint	TP-70-0349-13	2.0 km	180 m	76° true
+
+Route	T12	333 m	255° true	3 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0631-01	0 m
+Route Waypoint	TC-50-0630-02	167 m	167 m	257° true
+Route Waypoint	TC-50-0629-03	333 m	166 m	254° true
+
+Route	T13	1.4 km	238° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0661-01	0 m
+Route Waypoint	TC-20-0662-02	160 m	160 m	296° true
+Route Waypoint	TP-20-0663-03	351 m	191 m	233° true
+Route Waypoint	TP-20-0664-04	482 m	131 m	288° true
+Route Waypoint	TC-70-0630-05	655 m	173 m	238° true
+Route Waypoint	TP-70-0631-06	786 m	131 m	236° true
+Route Waypoint	TP-70-0632-07	961 m	175 m	225° true
+Route Waypoint	TC-70-0635-08	1.1 km	103 m	248° true
+Route Waypoint	TP-70-0633-09	1.1 km	31 m	264° true
+Route Waypoint	TP-70-0636-10	1.1 km	51 m	213° true
+Route Waypoint	TC-70-0634-11	1.2 km	84 m	190° true
+Route Waypoint	TP-70-0637-12	1.4 km	218 m	201° true
+
+Route	T14	817 m	180° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-60-0568-01	0 m
+Route Waypoint	TC-60-0188-02	120 m	120 m	161° true
+Route Waypoint	TC-60-0189-03	215 m	94 m	121° true
+Route Waypoint	TC-60-0487-04	365 m	150 m	172° true
+Route Waypoint	TP-60-0488-05	537 m	172 m	191° true
+Route Waypoint	TC-60-0190-06	699 m	162 m	243° true
+Route Waypoint	TC-60-0206-07	817 m	118 m	161° true
+
+Route	T15	1.2 km	266° true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0698-01	0 m
+Route Waypoint	TC-20-0699-02	126 m	126 m	255° true
+Route Waypoint	TP-20-0700-03	316 m	190 m	280° true
+Route Waypoint	TP-60-0651-04	476 m	160 m	289° true
+Route Waypoint	TC-60-0652-05	574 m	98 m	262° true
+Route Waypoint	TC-60-0653-06	705 m	131 m	263° true
+Route Waypoint	TC-60-0654-07	876 m	171 m	235° true
+Route Waypoint	TC-60-0670-09	995 m	119 m	267° true
+Route Waypoint	TP-60-0655-08	1.0 km	10 m	230° true
+Route Waypoint	TC-60-0671-10	1.1 km	53 m	280° true
+Route Waypoint	TC-60-0672-11	1.2 km	156 m	265° true
+
+Route	T16	874 m	105° true	5 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-60-0210-01	0 m
+Route Waypoint	TP-60-0679-02	243 m	243 m	106° true
+Route Waypoint	TC-60-0680-03	492 m	249 m	91° true
+Route Waypoint	TC-60-0681-04	686 m	194 m	124° true
+Route Waypoint	TP-60-0682-05	874 m	188 m	103° true
+
+Route	T17	644 m	227° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0712-01	0 m
+Route Waypoint	TC-20-0713-02	261 m	261 m	236° true
+Route Waypoint	TC-20-0714-03	444 m	183 m	241° true
+Route Waypoint	TC-20-0715-04	644 m	199 m	202° true
+
+Route	T5	1.9 km	2° true	13 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0576-01	0 m
+Route Waypoint	TC-10-0561-02	191 m	191 m	13° true
+Route Waypoint	TC-10-0563-03	298 m	107 m	322° true
+Route Waypoint	TC-10-0596-04	599 m	300 m	265° true
+Route Waypoint	TP-10-0445-05	672 m	74 m	27° true
+Route Waypoint	TC-10-0564-06	750 m	77 m	15° true
+Route Waypoint	TP-10-0595-07	993 m	244 m	314° true
+Route Waypoint	TC-10-0565-08	1.0 km	34 m	345° true
+Route Waypoint	TP-10-0562-09	1.1 km	45 m	241° true
+Route Waypoint	TC-10-0566-10	1.2 km	131 m	310° true
+Route Waypoint	TC-10-0559-11	1.4 km	230 m	55° true
+Route Waypoint	TC-10-0560-12	1.6 km	191 m	119° true
+Route Waypoint	TC-10-0575-13	1.9 km	268 m	89° true
+
+Route	T6	2.3 km	104° true	12 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-10-0383-01	0 m
+Route Waypoint	TC-10-0678-02	186 m	186 m	13° true
+Route Waypoint	TC-10-0390-03	425 m	240 m	79° true
+Route Waypoint	TC-10-0388-04	693 m	268 m	113° true
+Route Waypoint	TP-10-0387-05	813 m	120 m	107° true
+Route Waypoint	TP-10-0386-06	998 m	185 m	48° true
+Route Waypoint	TP-10-0385-07	1.2 km	235 m	64° true
+Route Waypoint	TP-10-0384-08	1.4 km	185 m	76° true
+Route Waypoint	TP-10-0679-09	1.6 km	201 m	97° true
+Route Waypoint	TC-10-0381-10	1.9 km	239 m	178° true
+Route Waypoint	TP-10-0442-11	2.1 km	218 m	200° true
+Route Waypoint	TC-10-0380-12	2.3 km	224 m	206° true
+
+Route	T7	2.2 km	93° true	16 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0690-01	0 m
+Route Waypoint	TP-20-0691-02	130 m	130 m	96° true
+Route Waypoint	TP-20-0702-03	254 m	125 m	165° true
+Route Waypoint	TC-20-0693-04	312 m	58 m	183° true
+Route Waypoint	TP-20-0701-05	440 m	127 m	58° true
+Route Waypoint	TC-20-0692-06	586 m	147 m	98° true
+Route Waypoint	TC-10-0502-07	739 m	153 m	110° true
+Route Waypoint	TC-10-0661-08	957 m	217 m	101° true
+Route Waypoint	TP-10-0662-09	1.1 km	182 m	105° true
+Route Waypoint	TC-10-0663-10	1.3 km	131 m	126° true
+Route Waypoint	TC-10-0039-11	1.5 km	187 m	127° true
+Route Waypoint	TC-10-0038-12	1.6 km	142 m	92° true
+Route Waypoint	TC-10-0037-13	1.7 km	148 m	46° true
+Route Waypoint	TP-10-0033-14	1.9 km	111 m	57° true
+Route Waypoint	TP-10-0032-15	2.0 km	142 m	17° true
+Route Waypoint	TC-10-0035-16	2.2 km	165 m	50° true
+
+Route	T8	784 m	219° true	7 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-30-0220-01	0 m
+Route Waypoint	TC-30-0216-02	133 m	133 m	219° true
+Route Waypoint	TC-30-0217-03	266 m	133 m	214° true
+Route Waypoint	TC-30-0221-04	402 m	136 m	219° true
+Route Waypoint	TC-30-0224-05	533 m	131 m	218° true
+Route Waypoint	TP-30-0223-06	672 m	139 m	211° true
+Route Waypoint	TC-30-0222-07	784 m	112 m	235° true
+
+Route	T9	997 m	304° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-70-0363-01	0 m
+Route Waypoint	TC-70-0362-02	121 m	121 m	341° true
+Route Waypoint	TC-70-0361-03	255 m	134 m	309° true
+Route Waypoint	TC-70-0360-04	415 m	161 m	293° true
+Route Waypoint	TL-70-0359-05	571 m	155 m	271° true
+Route Waypoint	TL-70-0358-06	723 m	152 m	273° true
+Route Waypoint	TL-70-0357-07	898 m	175 m	313° true
+Route Waypoint	TL-70-0356-08	997 m	99 m	3° true
+
+Route	Tacubaya	1.1 km	220° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0140-01	0 m
+Route Waypoint	TC-50-0141-02	136 m	136 m	284° true
+Route Waypoint	TC-50-0142-03	302 m	166 m	240° true
+Route Waypoint	TC-50-0143-04	415 m	113 m	226° true
+Route Waypoint	TC-50-0163-05	576 m	161 m	100° true
+Route Waypoint	TC-50-0164-06	775 m	199 m	153° true
+Route Waypoint	TC-50-0165-07	913 m	139 m	269° true
+Route Waypoint	TC-50-0166-08	1.0 km	136 m	233° true
+Route Waypoint	TC-50-0167-09	1.1 km	69 m	221° true
+
+Route	Taxqueña	2.1 km	198° true	14 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-50-0135-01	0 m
+Route Waypoint	TC-50-0171-02	101 m	101 m	165° true
+Route Waypoint	TC-50-0172-03	232 m	132 m	171° true
+Route Waypoint	TC-50-0173-04	372 m	140 m	178° true
+Route Waypoint	TC-40-0174-05	628 m	257 m	187° true
+Route Waypoint	TC-40-0175-06	752 m	124 m	166° true
+Route Waypoint	TC-40-0176-07	899 m	146 m	189° true
+Route Waypoint	TC-40-0177-08	1.1 km	153 m	186° true
+Route Waypoint	TP-40-0285-09	1.3 km	211 m	193° true
+Route Waypoint	TP-40-0284-10	1.5 km	191 m	196° true
+Route Waypoint	TP-40-0179-11	1.6 km	194 m	207° true
+Route Waypoint	TP-40-0286-12	1.8 km	201 m	254° true
+Route Waypoint	TC-40-0261-13	2.1 km	233 m	245° true
+Route Waypoint	TL-40-0242-14	2.1 km	36 m	160° true
+
+Route	TVE	729 m	263° true	8 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TL-20-0247-08	0 m
+Route Waypoint	TC-20-0057-07	133 m	133 m	294° true
+Route Waypoint	TC-20-0254-06	231 m	98 m	273° true
+Route Waypoint	TC-20-0056-05	335 m	103 m	271° true
+Route Waypoint	TC-20-0253-04	433 m	98 m	257° true
+Route Waypoint	TC-20-0059-03	550 m	118 m	244° true
+Route Waypoint	TP-20-0252-02	631 m	81 m	240° true
+Route Waypoint	TC-20-0058-01	729 m	98 m	253° true
+
+Route	VAVO	1.2 km	167° true	9 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-20-0645-09	0 m
+Route Waypoint	TC-20-0594-08	163 m	163 m	135° true
+Route Waypoint	TC-20-0646-07	292 m	129 m	188° true
+Route Waypoint	TC-20-0593-06	425 m	133 m	158° true
+Route Waypoint	TP-20-0670-05	607 m	181 m	153° true
+Route Waypoint	TC-20-0592-04	650 m	43 m	151° true
+Route Waypoint	TC-20-0591-03	772 m	122 m	187° true
+Route Waypoint	TC-20-0644-02	960 m	188 m	176° true
+Route Waypoint	TC-20-0643-01	1.2 km	217 m	179° true
+
+Route	VIEJO T11	458 m	218° true	4 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-70-0354-17	0 m
+Route Waypoint	TC-70-0353-16	140 m	140 m	211° true
+Route Waypoint	TC-70-0351-15	291 m	150 m	245° true
+Route Waypoint	TC-70-0350-14	458 m	168 m	201° true
+
+Route	VNE	1.9 km	343° true	14 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0660-01	0 m
+Route Waypoint	TP-20-0659-02	11 m	11 m	302° true
+Route Waypoint	TP-20-0072-03	667 m	656 m	268° true
+Route Waypoint	TC-20-0044-04	809 m	142 m	45° true
+Route Waypoint	TC-20-0045-05	926 m	117 m	35° true
+Route Waypoint	TC-20-0046-06	999 m	73 m	63° true
+Route Waypoint	TL-20-0256-07	1.1 km	71 m	15° true
+Route Waypoint	TC-20-0047-08	1.2 km	166 m	308° true
+Route Waypoint	TC-20-0049-09	1.4 km	174 m	336° true
+Route Waypoint	TC-20-0048-10	1.5 km	115 m	93° true
+Route Waypoint	TC-20-0063-11	1.7 km	131 m	59° true
+Route Waypoint	TL-20-0257-12	1.7 km	57 m	28° true
+Route Waypoint	TP-20-0062-13	1.9 km	141 m	45° true
+Route Waypoint	TC-20-0080-14	1.9 km	34 m	53° true
+
+Route	VO	2.0 km	321° true	14 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TP-20-0259-01	0 m
+Route Waypoint	TP-20-0239-02	136 m	136 m	273° true
+Route Waypoint	TP-20-0260-03	289 m	153 m	278° true
+Route Waypoint	TP-20-0689-04	538 m	249 m	300° true
+Route Waypoint	TC-20-0060-05	679 m	141 m	279° true
+Route Waypoint	TC-20-0658-06	821 m	142 m	322° true
+Route Waypoint	TC-20-0005-07	931 m	111 m	324° true
+Route Waypoint	TC-20-0061-08	1.0 km	87 m	9° true
+Route Waypoint	TC-20-0003-09	1.2 km	141 m	329° true
+Route Waypoint	TC-20-0116-10	1.3 km	96 m	286° true
+Route Waypoint	TC-20-0647-11	1.4 km	106 m	313° true
+Route Waypoint	TC-20-0050-12	1.5 km	123 m	354° true
+Route Waypoint	TC-20-0649-13	1.7 km	212 m	12° true
+Route Waypoint	TC-20-0671-14	2.0 km	284 m	353° true
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	ZONA 10		0:00:00	30.1 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 504788 2071014		0 m
+Trackpoint	12 Q 504768 2071055		0 m			46 m			334° true
+Trackpoint	12 Q 504715 2071069		0 m			54 m			285° true
+Trackpoint	12 Q 504629 2071087		0 m			88 m			282° true
+Trackpoint	12 Q 504521 2071104		0 m			109 m			279° true
+Trackpoint	12 Q 504463 2071198		0 m			111 m			329° true
+Trackpoint	12 Q 504302 2071202		0 m			161 m			271° true
+Trackpoint	12 Q 504214 2071263		0 m			107 m			305° true
+Trackpoint	12 Q 504114 2071333		0 m			122 m			306° true
+Trackpoint	12 Q 504163 2071443		0 m			120 m			24° true
+Trackpoint	12 Q 504184 2071513		0 m			74 m			16° true
+Trackpoint	12 Q 504163 2071637		0 m			126 m			350° true
+Trackpoint	12 Q 504101 2071753		0 m			132 m			332° true
+Trackpoint	12 Q 504020 2071737		0 m			83 m			259° true
+Trackpoint	12 Q 503939 2071648		0 m			121 m			222° true
+Trackpoint	12 Q 503843 2071623		0 m			99 m			255° true
+Trackpoint	12 Q 503891 2071743		0 m			130 m			22° true
+Trackpoint	12 Q 503918 2071851		0 m			112 m			14° true
+Trackpoint	12 Q 503851 2071912		0 m			91 m			313° true
+Trackpoint	12 Q 503775 2071952		0 m			86 m			298° true
+Trackpoint	12 Q 503853 2072041		0 m			119 m			41° true
+Trackpoint	12 Q 503788 2072081		0 m			77 m			302° true
+Trackpoint	12 Q 503694 2072066		0 m			95 m			261° true
+Trackpoint	12 Q 503555 2072092		0 m			142 m			281° true
+Trackpoint	12 Q 503470 2072068		0 m			89 m			254° true
+Trackpoint	12 Q 503456 2072163		0 m			97 m			351° true
+Trackpoint	12 Q 503484 2072239		0 m			82 m			20° true
+Trackpoint	12 Q 503234 2072370		0 m			283 m			298° true
+Trackpoint	12 Q 503210 2072399		0 m			38 m			321° true
+Trackpoint	12 Q 503270 2072466		0 m			90 m			42° true
+Trackpoint	12 Q 503214 2072528		0 m			84 m			318° true
+Trackpoint	12 Q 502180 2072822		0 m			1.1 km			286° true
+Trackpoint	12 Q 502355 2073895		0 m			1.1 km			9° true
+Trackpoint	12 Q 502615 2075292		0 m			1.4 km			10° true
+Trackpoint	12 Q 503193 2075111		0 m			607 m			107° true
+Trackpoint	12 Q 503996 2075160		0 m			804 m			87° true
+Trackpoint	12 Q 504479 2075304		0 m			504 m			73° true
+Trackpoint	12 Q 504900 2075728		0 m			599 m			45° true
+Trackpoint	12 Q 505073 2075970		0 m			299 m			35° true
+Trackpoint	12 Q 505221 2076316		0 m			378 m			23° true
+Trackpoint	12 Q 505380 2076820		0 m			531 m			17° true
+Trackpoint	12 Q 505427 2077348		0 m			534 m			5° true
+Trackpoint	12 Q 507862 2076925		0 m			2.5 km			100° true
+Trackpoint	12 Q 509066 2076725		0 m			1.2 km			100° true
+Trackpoint	12 Q 509190 2076675		0 m			134 m			112° true
+Trackpoint	12 Q 509148 2076588		0 m			97 m			206° true
+Trackpoint	12 Q 509237 2076515		0 m			115 m			129° true
+Trackpoint	12 Q 509356 2076497		0 m			121 m			99° true
+Trackpoint	12 Q 509445 2076498		0 m			89 m			89° true
+Trackpoint	12 Q 509509 2076457		0 m			76 m			123° true
+Trackpoint	12 Q 509628 2076426		0 m			123 m			104° true
+Trackpoint	12 Q 509723 2076363		0 m			115 m			123° true
+Trackpoint	12 Q 509775 2076268		0 m			109 m			152° true
+Trackpoint	12 Q 509592 2076319		0 m			190 m			286° true
+Trackpoint	12 Q 509399 2076391		0 m			207 m			291° true
+Trackpoint	12 Q 509230 2076388		0 m			169 m			269° true
+Trackpoint	12 Q 509153 2076324		0 m			101 m			230° true
+Trackpoint	12 Q 509128 2076207		0 m			120 m			192° true
+Trackpoint	12 Q 509046 2076195		0 m			83 m			262° true
+Trackpoint	12 Q 508939 2076194		0 m			107 m			269° true
+Trackpoint	12 Q 508874 2076119		0 m			99 m			221° true
+Trackpoint	12 Q 508811 2076024		0 m			115 m			213° true
+Trackpoint	12 Q 508788 2075896		0 m			130 m			190° true
+Trackpoint	12 Q 508734 2075790		0 m			120 m			207° true
+Trackpoint	12 Q 508714 2075636		0 m			156 m			187° true
+Trackpoint	12 Q 508602 2075516		0 m			165 m			223° true
+Trackpoint	12 Q 508534 2075279		0 m			249 m			196° true
+Trackpoint	12 Q 508563 2075085		0 m			198 m			171° true
+Trackpoint	12 Q 508560 2074913		0 m			173 m			181° true
+Trackpoint	12 Q 508584 2074805		0 m			112 m			168° true
+Trackpoint	12 Q 508604 2074680		0 m			127 m			171° true
+Trackpoint	12 Q 508636 2074569		0 m			116 m			164° true
+Trackpoint	12 Q 508705 2074539		0 m			75 m			114° true
+Trackpoint	12 Q 508704 2074450		0 m			90 m			181° true
+Trackpoint	12 Q 508749 2074363		0 m			98 m			153° true
+Trackpoint	12 Q 508701 2074303		0 m			77 m			218° true
+Trackpoint	12 Q 508699 2074190		0 m			113 m			181° true
+Trackpoint	12 Q 508697 2074067		0 m			124 m			181° true
+Trackpoint	12 Q 508696 2073988		0 m			79 m			181° true
+Trackpoint	12 Q 508800 2073962		0 m			108 m			104° true
+Trackpoint	12 Q 508809 2073861		0 m			102 m			175° true
+Trackpoint	12 Q 508829 2073738		0 m			125 m			171° true
+Trackpoint	12 Q 508872 2073661		0 m			89 m			151° true
+Trackpoint	12 Q 508814 2073526		0 m			147 m			203° true
+Trackpoint	12 Q 508695 2073330		0 m			231 m			211° true
+Trackpoint	12 Q 508753 2073171		0 m			171 m			160° true
+Trackpoint	12 Q 508786 2073072		0 m			104 m			162° true
+Trackpoint	12 Q 508670 2072979		0 m			149 m			231° true
+Trackpoint	12 Q 508668 2072880		0 m			100 m			181° true
+Trackpoint	12 Q 508679 2072771		0 m			110 m			174° true
+Trackpoint	12 Q 508736 2072698		0 m			94 m			142° true
+Trackpoint	12 Q 508679 2072544		0 m			165 m			200° true
+Trackpoint	12 Q 508631 2072443		0 m			112 m			205° true
+Trackpoint	12 Q 508620 2072421		0 m			25 m			207° true
+Trackpoint	12 Q 508620 2072324		0 m			98 m			180° true
+Trackpoint	12 Q 508653 2072227		0 m			103 m			161° true
+Trackpoint	12 Q 508663 2072108		0 m			120 m			175° true
+Trackpoint	12 Q 508605 2072008		0 m			116 m			210° true
+Trackpoint	12 Q 508525 2071941		0 m			104 m			230° true
+Trackpoint	12 Q 508569 2071824		0 m			126 m			160° true
+Trackpoint	12 Q 508490 2071757		0 m			104 m			230° true
+Trackpoint	12 Q 508413 2071605		0 m			171 m			207° true
+Trackpoint	12 Q 508504 2071575		0 m			95 m			108° true
+Trackpoint	12 Q 508524 2071500		0 m			78 m			165° true
+Trackpoint	12 Q 508501 2071425		0 m			79 m			197° true
+Trackpoint	12 Q 508479 2071360		0 m			69 m			199° true
+Trackpoint	12 Q 508413 2071327		0 m			73 m			243° true
+Trackpoint	12 Q 508488 2071221		0 m			130 m			145° true
+Trackpoint	12 Q 508346 2071154		0 m			156 m			245° true
+Trackpoint	12 Q 508259 2071110		0 m			98 m			243° true
+Trackpoint	12 Q 508193 2071003		0 m			127 m			211° true
+Trackpoint	12 Q 508096 2070959		0 m			107 m			246° true
+Trackpoint	12 Q 508097 2071108		0 m			150 m			1° true
+Trackpoint	12 Q 508053 2071022		0 m			97 m			207° true
+Trackpoint	12 Q 507945 2070936		0 m			139 m			231° true
+Trackpoint	12 Q 507848 2070892		0 m			106 m			246° true
+Trackpoint	12 Q 507762 2070848		0 m			97 m			243° true
+Trackpoint	12 Q 507664 2070762		0 m			130 m			228° true
+Trackpoint	12 Q 507535 2070697		0 m			145 m			243° true
+Trackpoint	12 Q 507427 2070748		0 m			119 m			296° true
+Trackpoint	12 Q 507342 2070747		0 m			86 m			269° true
+Trackpoint	12 Q 507234 2070746		0 m			107 m			269° true
+Trackpoint	12 Q 507116 2070787		0 m			125 m			289° true
+Trackpoint	12 Q 506955 2070870		0 m			181 m			297° true
+Trackpoint	12 Q 506849 2070752		0 m			160 m			222° true
+Trackpoint	12 Q 506762 2070878		0 m			154 m			326° true
+Trackpoint	12 Q 506646 2070834		0 m			125 m			249° true
+Trackpoint	12 Q 506592 2070919		0 m			101 m			328° true
+Trackpoint	12 Q 506538 2070961		0 m			68 m			308° true
+Trackpoint	12 Q 506389 2070959		0 m			149 m			269° true
+Trackpoint	12 Q 506282 2070958		0 m			107 m			269° true
+Trackpoint	12 Q 506217 2070915		0 m			78 m			236° true
+Trackpoint	12 Q 506195 2070829		0 m			89 m			194° true
+Trackpoint	12 Q 506250 2070713		0 m			129 m			155° true
+Trackpoint	12 Q 506251 2070628		0 m			85 m			180° true
+Trackpoint	12 Q 506219 2070532		0 m			102 m			198° true
+Trackpoint	12 Q 506241 2070405		0 m			130 m			170° true
+Trackpoint	12 Q 506220 2070320		0 m			88 m			194° true
+Trackpoint	12 Q 506081 2070182		0 m			197 m			225° true
+Trackpoint	12 Q 506050 2070097		0 m			91 m			200° true
+Trackpoint	12 Q 505869 2070105		0 m			181 m			273° true
+Trackpoint	12 Q 505867 2070180		0 m			75 m			359° true
+Trackpoint	12 Q 505781 2070273		0 m			127 m			317° true
+Trackpoint	12 Q 505695 2070325		0 m			100 m			301° true
+Trackpoint	12 Q 505557 2070323		0 m			138 m			269° true
+Trackpoint	12 Q 505450 2070417		0 m			143 m			311° true
+Trackpoint	12 Q 505340 2070585		0 m			201 m			327° true
+Trackpoint	12 Q 505332 2070384		0 m			202 m			182° true
+Trackpoint	12 Q 505345 2070236		0 m			149 m			175° true
+Trackpoint	12 Q 505368 2070046		0 m			192 m			173° true
+Trackpoint	12 Q 505359 2069952		0 m			96 m			186° true
+Trackpoint	12 Q 505264 2069825		0 m			159 m			216° true
+Trackpoint	12 Q 505264 2069814		0 m			11 m			179° true
+Trackpoint	12 Q 505074 2069749		0 m			202 m			251° true
+Trackpoint	12 Q 504872 2069747		0 m			202 m			269° true
+Trackpoint	12 Q 504717 2069874		0 m			201 m			310° true
+Trackpoint	12 Q 504566 2069947		0 m			168 m			296° true
+Trackpoint	12 Q 504429 2070080		0 m			192 m			314° true
+Trackpoint	12 Q 504393 2070256		0 m			180 m			349° true
+Trackpoint	12 Q 504422 2070425		0 m			173 m			10° true
+Trackpoint	12 Q 504452 2070542		0 m			121 m			14° true
+Trackpoint	12 Q 504429 2070659		0 m			120 m			349° true
+Trackpoint	12 Q 504470 2070723		0 m			77 m			33° true
+Trackpoint	12 Q 504586 2070863		0 m			182 m			39° true
+Trackpoint	12 Q 504714 2070907		0 m			136 m			71° true
+Trackpoint	12 Q 504788 2071014		0 m			131 m			34° true
+
+Track	ZONA 20		0:00:00	18.5 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 501019 2078059		0 m
+Trackpoint	12 Q 501196 2078705		0 m			673 m			15° true
+Trackpoint	12 Q 501063 2079214		0 m			529 m			346° true
+Trackpoint	12 Q 500978 2079720		0 m			516 m			351° true
+Trackpoint	12 Q 501018 2079750		0 m			50 m			53° true
+Trackpoint	12 Q 501057 2079779		0 m			49 m			54° true
+Trackpoint	12 Q 501098 2079807		0 m			49 m			55° true
+Trackpoint	12 Q 501138 2079835		0 m			49 m			56° true
+Trackpoint	12 Q 501180 2079862		0 m			49 m			57° true
+Trackpoint	12 Q 500878 2080726		0 m			920 m			341° true
+Trackpoint	12 Q 500801 2081174		0 m			457 m			350° true
+Trackpoint	12 Q 500834 2081573		0 m			403 m			5° true
+Trackpoint	12 Q 501192 2081702		0 m			380 m			70° true
+Trackpoint	12 Q 501472 2081657		0 m			284 m			99° true
+Trackpoint	12 Q 501865 2081505		0 m			422 m			111° true
+Trackpoint	12 Q 502141 2081067		0 m			521 m			148° true
+Trackpoint	12 Q 502642 2080493		0 m			764 m			139° true
+Trackpoint	12 Q 502949 2080270		0 m			380 m			126° true
+Trackpoint	12 Q 502997 2080264		0 m			49 m			98° true
+Trackpoint	12 Q 503045 2080257		0 m			49 m			99° true
+Trackpoint	12 Q 503078 2080251		0 m			34 m			99° true
+Trackpoint	12 Q 503093 2080249		0 m			15 m			100° true
+Trackpoint	12 Q 503140 2080240		0 m			49 m			101° true
+Trackpoint	12 Q 503188 2080230		0 m			49 m			102° true
+Trackpoint	12 Q 503236 2080219		0 m			49 m			103° true
+Trackpoint	12 Q 503283 2080208		0 m			49 m			104° true
+Trackpoint	12 Q 503330 2080195		0 m			49 m			105° true
+Trackpoint	12 Q 503377 2080182		0 m			49 m			106° true
+Trackpoint	12 Q 503423 2080168		0 m			49 m			107° true
+Trackpoint	12 Q 503470 2080153		0 m			49 m			108° true
+Trackpoint	12 Q 503516 2080137		0 m			49 m			109° true
+Trackpoint	12 Q 503562 2080120		0 m			49 m			110° true
+Trackpoint	12 Q 503607 2080103		0 m			49 m			111° true
+Trackpoint	12 Q 503653 2080084		0 m			49 m			112° true
+Trackpoint	12 Q 503698 2080065		0 m			49 m			113° true
+Trackpoint	12 Q 503742 2080045		0 m			49 m			114° true
+Trackpoint	12 Q 503787 2080024		0 m			49 m			115° true
+Trackpoint	12 Q 503831 2080003		0 m			49 m			116° true
+Trackpoint	12 Q 503874 2079980		0 m			49 m			117° true
+Trackpoint	12 Q 503917 2079957		0 m			49 m			118° true
+Trackpoint	12 Q 503960 2079933		0 m			49 m			119° true
+Trackpoint	12 Q 504003 2079908		0 m			49 m			120° true
+Trackpoint	12 Q 504045 2079883		0 m			49 m			121° true
+Trackpoint	12 Q 504086 2079856		0 m			49 m			123° true
+Trackpoint	12 Q 504127 2079829		0 m			49 m			124° true
+Trackpoint	12 Q 504168 2079802		0 m			49 m			125° true
+Trackpoint	12 Q 504208 2079773		0 m			49 m			126° true
+Trackpoint	12 Q 504248 2079744		0 m			49 m			127° true
+Trackpoint	12 Q 504287 2079714		0 m			50 m			128° true
+Trackpoint	12 Q 504326 2079683		0 m			50 m			129° true
+Trackpoint	12 Q 504364 2079651		0 m			50 m			130° true
+Trackpoint	12 Q 504402 2079619		0 m			50 m			131° true
+Trackpoint	12 Q 504439 2079586		0 m			50 m			132° true
+Trackpoint	12 Q 504475 2079553		0 m			50 m			133° true
+Trackpoint	12 Q 504511 2079519		0 m			50 m			134° true
+Trackpoint	12 Q 504547 2079484		0 m			50 m			135° true
+Trackpoint	12 Q 504582 2079448		0 m			50 m			136° true
+Trackpoint	12 Q 504616 2079412		0 m			50 m			137° true
+Trackpoint	12 Q 504650 2079376		0 m			50 m			138° true
+Trackpoint	12 Q 504683 2079338		0 m			50 m			139° true
+Trackpoint	12 Q 504715 2079300		0 m			50 m			140° true
+Trackpoint	12 Q 504747 2079262		0 m			50 m			141° true
+Trackpoint	12 Q 504778 2079223		0 m			50 m			142° true
+Trackpoint	12 Q 504809 2079183		0 m			50 m			143° true
+Trackpoint	12 Q 504838 2079143		0 m			50 m			144° true
+Trackpoint	12 Q 504868 2079102		0 m			50 m			145° true
+Trackpoint	12 Q 504896 2079061		0 m			50 m			146° true
+Trackpoint	12 Q 504924 2079019		0 m			50 m			147° true
+Trackpoint	12 Q 504951 2078977		0 m			50 m			148° true
+Trackpoint	12 Q 504977 2078934		0 m			50 m			149° true
+Trackpoint	12 Q 505003 2078891		0 m			51 m			150° true
+Trackpoint	12 Q 505028 2078847		0 m			51 m			150° true
+Trackpoint	12 Q 505052 2078803		0 m			51 m			151° true
+Trackpoint	12 Q 505076 2078758		0 m			51 m			152° true
+Trackpoint	12 Q 505098 2078713		0 m			51 m			153° true
+Trackpoint	12 Q 505120 2078668		0 m			51 m			154° true
+Trackpoint	12 Q 505141 2078622		0 m			51 m			155° true
+Trackpoint	12 Q 505162 2078575		0 m			51 m			156° true
+Trackpoint	12 Q 505182 2078529		0 m			51 m			157° true
+Trackpoint	12 Q 505200 2078482		0 m			51 m			158° true
+Trackpoint	12 Q 505219 2078435		0 m			51 m			159° true
+Trackpoint	12 Q 505236 2078387		0 m			51 m			160° true
+Trackpoint	12 Q 505252 2078339		0 m			51 m			161° true
+Trackpoint	12 Q 505268 2078291		0 m			51 m			162° true
+Trackpoint	12 Q 505283 2078242		0 m			51 m			163° true
+Trackpoint	12 Q 505297 2078194		0 m			51 m			164° true
+Trackpoint	12 Q 505311 2078144		0 m			51 m			165° true
+Trackpoint	12 Q 505323 2078095		0 m			51 m			166° true
+Trackpoint	12 Q 505335 2078046		0 m			51 m			167° true
+Trackpoint	12 Q 505346 2077996		0 m			51 m			168° true
+Trackpoint	12 Q 505356 2077946		0 m			51 m			169° true
+Trackpoint	12 Q 505365 2077896		0 m			51 m			170° true
+Trackpoint	12 Q 505373 2077846		0 m			51 m			171° true
+Trackpoint	12 Q 505381 2077796		0 m			51 m			172° true
+Trackpoint	12 Q 505387 2077745		0 m			51 m			173° true
+Trackpoint	12 Q 505393 2077694		0 m			51 m			173° true
+Trackpoint	12 Q 505398 2077644		0 m			51 m			174° true
+Trackpoint	12 Q 505402 2077593		0 m			51 m			175° true
+Trackpoint	12 Q 505406 2077542		0 m			51 m			176° true
+Trackpoint	12 Q 505408 2077491		0 m			51 m			177° true
+Trackpoint	12 Q 505410 2077440		0 m			51 m			178° true
+Trackpoint	12 Q 505410 2077389		0 m			51 m			179° true
+Trackpoint	12 Q 505410 2077338		0 m			51 m			180° true
+Trackpoint	12 Q 505409 2077287		0 m			51 m			181° true
+Trackpoint	12 Q 505408 2077236		0 m			51 m			182° true
+Trackpoint	12 Q 505405 2077185		0 m			51 m			183° true
+Trackpoint	12 Q 505402 2077135		0 m			51 m			184° true
+Trackpoint	12 Q 505397 2077084		0 m			51 m			185° true
+Trackpoint	12 Q 505392 2077033		0 m			51 m			186° true
+Trackpoint	12 Q 505386 2076983		0 m			51 m			187° true
+Trackpoint	12 Q 505379 2076932		0 m			51 m			188° true
+Trackpoint	12 Q 505372 2076882		0 m			51 m			189° true
+Trackpoint	12 Q 505363 2076832		0 m			51 m			190° true
+Trackpoint	12 Q 505354 2076782		0 m			51 m			191° true
+Trackpoint	12 Q 505344 2076732		0 m			51 m			191° true
+Trackpoint	12 Q 505333 2076682		0 m			51 m			192° true
+Trackpoint	12 Q 505321 2076633		0 m			51 m			193° true
+Trackpoint	12 Q 505308 2076583		0 m			51 m			194° true
+Trackpoint	12 Q 505295 2076534		0 m			51 m			195° true
+Trackpoint	12 Q 505280 2076486		0 m			51 m			196° true
+Trackpoint	12 Q 505265 2076437		0 m			51 m			197° true
+Trackpoint	12 Q 505249 2076389		0 m			51 m			198° true
+Trackpoint	12 Q 505233 2076341		0 m			51 m			199° true
+Trackpoint	12 Q 505215 2076294		0 m			51 m			200° true
+Trackpoint	12 Q 505197 2076246		0 m			51 m			201° true
+Trackpoint	12 Q 505178 2076200		0 m			51 m			202° true
+Trackpoint	12 Q 505158 2076153		0 m			51 m			203° true
+Trackpoint	12 Q 505137 2076107		0 m			51 m			204° true
+Trackpoint	12 Q 505116 2076061		0 m			51 m			205° true
+Trackpoint	12 Q 505094 2076016		0 m			51 m			206° true
+Trackpoint	12 Q 505071 2075971		0 m			51 m			207° true
+Trackpoint	12 Q 505048 2075926		0 m			51 m			208° true
+Trackpoint	12 Q 505023 2075882		0 m			51 m			209° true
+Trackpoint	12 Q 504994 2075846		0 m			46 m			219° true
+Trackpoint	12 Q 504962 2075808		0 m			50 m			220° true
+Trackpoint	12 Q 504929 2075771		0 m			50 m			221° true
+Trackpoint	12 Q 504901 2075726		0 m			53 m			213° true
+Trackpoint	12 Q 504867 2075690		0 m			50 m			223° true
+Trackpoint	12 Q 504833 2075654		0 m			50 m			224° true
+Trackpoint	12 Q 504798 2075619		0 m			50 m			225° true
+Trackpoint	12 Q 504762 2075585		0 m			50 m			226° true
+Trackpoint	12 Q 504726 2075551		0 m			50 m			227° true
+Trackpoint	12 Q 504689 2075518		0 m			50 m			228° true
+Trackpoint	12 Q 504649 2075476		0 m			58 m			223° true
+Trackpoint	12 Q 504619 2075446		0 m			43 m			226° true
+Trackpoint	12 Q 504578 2075393		0 m			67 m			217° true
+Trackpoint	12 Q 504551 2075365		0 m			39 m			224° true
+Trackpoint	12 Q 504502 2075321		0 m			66 m			228° true
+Trackpoint	12 Q 504481 2075307		0 m			25 m			236° true
+Trackpoint	12 Q 504436 2075294		0 m			47 m			254° true
+Trackpoint	12 Q 504338 2075256		0 m			104 m			249° true
+Trackpoint	12 Q 503992 2075155		0 m			361 m			254° true
+Trackpoint	12 Q 503686 2075143		0 m			306 m			268° true
+Trackpoint	12 Q 503273 2075105		0 m			415 m			265° true
+Trackpoint	12 Q 502924 2075172		0 m			355 m			281° true
+Trackpoint	12 Q 502606 2075306		0 m			346 m			293° true
+Trackpoint	12 Q 502313 2075414		0 m			312 m			290° true
+Trackpoint	12 Q 502018 2075602		0 m			351 m			303° true
+Trackpoint	12 Q 501734 2075956		0 m			455 m			321° true
+Trackpoint	12 Q 501364 2076497		0 m			658 m			326° true
+Trackpoint	12 Q 501106 2076864		0 m			451 m			325° true
+Trackpoint	12 Q 500921 2077108		0 m			308 m			323° true
+Trackpoint	12 Q 500828 2077759		0 m			661 m			352° true
+Trackpoint	12 Q 500864 2077874		0 m			121 m			17° true
+Trackpoint	12 Q 501019 2078059		0 m			242 m			40° true
+
+Track	ZONA 30		0:00:00	20.5 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 505013 2082748		0 m
+Trackpoint	12 Q 505533 2083145		0 m			655 m			52° true
+Trackpoint	12 Q 505608 2083124		0 m			78 m			105° true
+Trackpoint	12 Q 505705 2083126		0 m			97 m			89° true
+Trackpoint	12 Q 505780 2083052		0 m			105 m			135° true
+Trackpoint	12 Q 505833 2082904		0 m			158 m			160° true
+Trackpoint	12 Q 505843 2082736		0 m			170 m			176° true
+Trackpoint	12 Q 505887 2082621		0 m			124 m			159° true
+Trackpoint	12 Q 505984 2082506		0 m			152 m			140° true
+Trackpoint	12 Q 506038 2082464		0 m			68 m			128° true
+Trackpoint	12 Q 506124 2082465		0 m			85 m			89° true
+Trackpoint	12 Q 506220 2082477		0 m			97 m			83° true
+Trackpoint	12 Q 506306 2082435		0 m			95 m			116° true
+Trackpoint	12 Q 506328 2082341		0 m			98 m			167° true
+Trackpoint	12 Q 506317 2082278		0 m			64 m			190° true
+Trackpoint	12 Q 506230 2082215		0 m			108 m			234° true
+Trackpoint	12 Q 506327 2082132		0 m			129 m			131° true
+Trackpoint	12 Q 506379 2082018		0 m			126 m			155° true
+Trackpoint	12 Q 506465 2081914		0 m			135 m			141° true
+Trackpoint	12 Q 506508 2081852		0 m			76 m			146° true
+Trackpoint	12 Q 506583 2081800		0 m			91 m			125° true
+Trackpoint	12 Q 506540 2081717		0 m			94 m			208° true
+Trackpoint	12 Q 506550 2081624		0 m			94 m			174° true
+Trackpoint	12 Q 506496 2081542		0 m			99 m			213° true
+Trackpoint	12 Q 506399 2081512		0 m			102 m			253° true
+Trackpoint	12 Q 506400 2081408		0 m			105 m			180° true
+Trackpoint	12 Q 506422 2081304		0 m			107 m			168° true
+Trackpoint	12 Q 506485 2081212		0 m			112 m			146° true
+Trackpoint	12 Q 506485 2081140		0 m			72 m			180° true
+Trackpoint	12 Q 506644 2081141		0 m			159 m			90° true
+Trackpoint	12 Q 506729 2081183		0 m			95 m			64° true
+Trackpoint	12 Q 506792 2081121		0 m			88 m			134° true
+Trackpoint	12 Q 506827 2081074		0 m			60 m			144° true
+Trackpoint	12 Q 506926 2081001		0 m			123 m			127° true
+Trackpoint	12 Q 507003 2080940		0 m			98 m			128° true
+Trackpoint	12 Q 507047 2080870		0 m			83 m			148° true
+Trackpoint	12 Q 507091 2080813		0 m			73 m			143° true
+Trackpoint	12 Q 507136 2080732		0 m			92 m			151° true
+Trackpoint	12 Q 507134 2080647		0 m			85 m			181° true
+Trackpoint	12 Q 507225 2080658		0 m			92 m			84° true
+Trackpoint	12 Q 507384 2080592		0 m			172 m			113° true
+Trackpoint	12 Q 507351 2080465		0 m			132 m			195° true
+Trackpoint	12 Q 507406 2080386		0 m			97 m			146° true
+Trackpoint	12 Q 507293 2080355		0 m			117 m			255° true
+Trackpoint	12 Q 507327 2080292		0 m			73 m			152° true
+Trackpoint	12 Q 507349 2080177		0 m			117 m			169° true
+Trackpoint	12 Q 507403 2080098		0 m			97 m			146° true
+Trackpoint	12 Q 507503 2080045		0 m			113 m			118° true
+Trackpoint	12 Q 507468 2079949		0 m			103 m			200° true
+Trackpoint	12 Q 507579 2079908		0 m			119 m			110° true
+Trackpoint	12 Q 507658 2079924		0 m			81 m			79° true
+Trackpoint	12 Q 507791 2079826		0 m			165 m			127° true
+Trackpoint	12 Q 507786 2079728		0 m			98 m			183° true
+Trackpoint	12 Q 507896 2079562		0 m			200 m			147° true
+Trackpoint	12 Q 507994 2079429		0 m			166 m			144° true
+Trackpoint	12 Q 508094 2079378		0 m			113 m			117° true
+Trackpoint	12 Q 508192 2079323		0 m			112 m			120° true
+Trackpoint	12 Q 508254 2079230		0 m			112 m			147° true
+Trackpoint	12 Q 508353 2079112		0 m			155 m			140° true
+Trackpoint	12 Q 508450 2078958		0 m			183 m			148° true
+Trackpoint	12 Q 508536 2078816		0 m			167 m			149° true
+Trackpoint	12 Q 508625 2078687		0 m			157 m			146° true
+Trackpoint	12 Q 508709 2078598		0 m			123 m			137° true
+Trackpoint	12 Q 508827 2078661		0 m			134 m			62° true
+Trackpoint	12 Q 508848 2078573		0 m			91 m			167° true
+Trackpoint	12 Q 508923 2078475		0 m			124 m			143° true
+Trackpoint	12 Q 508911 2078398		0 m			79 m			189° true
+Trackpoint	12 Q 508813 2078396		0 m			99 m			269° true
+Trackpoint	12 Q 508799 2078274		0 m			123 m			186° true
+Trackpoint	12 Q 508797 2078164		0 m			111 m			181° true
+Trackpoint	12 Q 508746 2078007		0 m			166 m			198° true
+Trackpoint	12 Q 508732 2077843		0 m			166 m			185° true
+Trackpoint	12 Q 508718 2077711		0 m			133 m			186° true
+Trackpoint	12 Q 508799 2077629		0 m			116 m			135° true
+Trackpoint	12 Q 508842 2077457		0 m			178 m			166° true
+Trackpoint	12 Q 508908 2077318		0 m			154 m			155° true
+Trackpoint	12 Q 508825 2077182		0 m			160 m			211° true
+Trackpoint	12 Q 508862 2077066		0 m			122 m			163° true
+Trackpoint	12 Q 508987 2077070		0 m			125 m			88° true
+Trackpoint	12 Q 509077 2077051		0 m			92 m			102° true
+Trackpoint	12 Q 509118 2076965		0 m			95 m			155° true
+Trackpoint	12 Q 509023 2076919		0 m			105 m			244° true
+Trackpoint	12 Q 508955 2076896		0 m			72 m			251° true
+Trackpoint	12 Q 508982 2076799		0 m			101 m			165° true
+Trackpoint	12 Q 509066 2076725		0 m			112 m			132° true
+Trackpoint	12 Q 505409 2077348		0 m			3.7 km			280° true
+Trackpoint	12 Q 505412 2077692		0 m			345 m			0° true
+Trackpoint	12 Q 505317 2078167		0 m			487 m			349° true
+Trackpoint	12 Q 505203 2078514		0 m			367 m			342° true
+Trackpoint	12 Q 504988 2078957		0 m			495 m			334° true
+Trackpoint	12 Q 504354 2079693		0 m			975 m			319° true
+Trackpoint	12 Q 503558 2080137		0 m			913 m			299° true
+Trackpoint	12 Q 505013 2082748		0 m			3.0 km			29° true
+
+Track	ZONA 40		0:00:00	15.1 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 500791 2081107		0 m
+Trackpoint	12 Q 500838 2081022		0 m			97 m			151° true
+Trackpoint	12 Q 499736 2081355		0 m			1.2 km			287° true
+Trackpoint	12 Q 499861 2082336		0 m			995 m			7° true
+Trackpoint	12 Q 499939 2082735		0 m			408 m			11° true
+Trackpoint	12 Q 500326 2083494		0 m			857 m			27° true
+Trackpoint	12 Q 500739 2083860		0 m			554 m			48° true
+Trackpoint	12 Q 501114 2084010		0 m			403 m			68° true
+Trackpoint	12 Q 501747 2084105		0 m			640 m			81° true
+Trackpoint	12 Q 502250 2084144		0 m			505 m			85° true
+Trackpoint	12 Q 502793 2083955		0 m			575 m			109° true
+Trackpoint	12 Q 503400 2083440		0 m			798 m			131° true
+Trackpoint	12 Q 504101 2082599		0 m			1.1 km			140° true
+Trackpoint	12 Q 504728 2082220		0 m			734 m			121° true
+Trackpoint	12 Q 503533 2080125		0 m			2.4 km			210° true
+Trackpoint	12 Q 502929 2080292		0 m			627 m			286° true
+Trackpoint	12 Q 502663 2080475		0 m			323 m			305° true
+Trackpoint	12 Q 502084 2081151		0 m			894 m			320° true
+Trackpoint	12 Q 501878 2081515		0 m			420 m			331° true
+Trackpoint	12 Q 501708 2081582		0 m			182 m			291° true
+Trackpoint	12 Q 501372 2081690		0 m			353 m			288° true
+Trackpoint	12 Q 501101 2081690		0 m			271 m			270° true
+Trackpoint	12 Q 500827 2081555		0 m			306 m			244° true
+Trackpoint	12 Q 500791 2081107		0 m			453 m			185° true
+
+Track	ZONA 50		0:00:00	25.7 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 498740 2081635		0 m
+Trackpoint	12 Q 498768 2081749		0 m			118 m			14° true
+Trackpoint	12 Q 498692 2081776		0 m			81 m			289° true
+Trackpoint	12 Q 498599 2081892		0 m			149 m			322° true
+Trackpoint	12 Q 498707 2081896		0 m			108 m			88° true
+Trackpoint	12 Q 498784 2081859		0 m			86 m			116° true
+Trackpoint	12 Q 498908 2082237		0 m			400 m			18° true
+Trackpoint	12 Q 498851 2082295		0 m			82 m			316° true
+Trackpoint	12 Q 498775 2082356		0 m			98 m			309° true
+Trackpoint	12 Q 498686 2082500		0 m			170 m			329° true
+Trackpoint	12 Q 498803 2082502		0 m			117 m			89° true
+Trackpoint	12 Q 498936 2082329		0 m			219 m			143° true
+Trackpoint	12 Q 499023 2082396		0 m			110 m			52° true
+Trackpoint	12 Q 499075 2082448		0 m			74 m			44° true
+Trackpoint	12 Q 499085 2082459		0 m			15 m			44° true
+Trackpoint	12 Q 499170 2082534		0 m			113 m			48° true
+Trackpoint	12 Q 499210 2082607		0 m			84 m			29° true
+Trackpoint	12 Q 499210 2082617		0 m			10 m			357° true
+Trackpoint	12 Q 499149 2082726		0 m			125 m			331° true
+Trackpoint	12 Q 499006 2082889		0 m			219 m			319° true
+Trackpoint	12 Q 499057 2082963		0 m			91 m			35° true
+Trackpoint	12 Q 499187 2082956		0 m			130 m			93° true
+Trackpoint	12 Q 499261 2083020		0 m			99 m			49° true
+Trackpoint	12 Q 499259 2083104		0 m			84 m			359° true
+Trackpoint	12 Q 499204 2083165		0 m			83 m			318° true
+Trackpoint	12 Q 499049 2083351		0 m			243 m			320° true
+Trackpoint	12 Q 498917 2083444		0 m			161 m			305° true
+Trackpoint	12 Q 498946 2083571		0 m			131 m			13° true
+Trackpoint	12 Q 499076 2083573		0 m			130 m			89° true
+Trackpoint	12 Q 499151 2083616		0 m			87 m			60° true
+Trackpoint	12 Q 499125 2083732		0 m			119 m			347° true
+Trackpoint	12 Q 499110 2083869		0 m			139 m			354° true
+Trackpoint	12 Q 499239 2083902		0 m			133 m			75° true
+Trackpoint	12 Q 499291 2083977		0 m			92 m			35° true
+Trackpoint	12 Q 499321 2084063		0 m			91 m			19° true
+Trackpoint	12 Q 499363 2084127		0 m			77 m			33° true
+Trackpoint	12 Q 499480 2084192		0 m			134 m			61° true
+Trackpoint	12 Q 499576 2084225		0 m			102 m			71° true
+Trackpoint	12 Q 499531 2084289		0 m			79 m			325° true
+Trackpoint	12 Q 499618 2084290		0 m			87 m			90° true
+Trackpoint	12 Q 499713 2084344		0 m			110 m			60° true
+Trackpoint	12 Q 499798 2084399		0 m			101 m			57° true
+Trackpoint	12 Q 499808 2084463		0 m			66 m			8° true
+Trackpoint	12 Q 499849 2084528		0 m			78 m			33° true
+Trackpoint	12 Q 499924 2084572		0 m			87 m			59° true
+Trackpoint	12 Q 500045 2084423		0 m			193 m			141° true
+Trackpoint	12 Q 500131 2084435		0 m			87 m			82° true
+Trackpoint	12 Q 500206 2084446		0 m			76 m			82° true
+Trackpoint	12 Q 500259 2084510		0 m			84 m			39° true
+Trackpoint	12 Q 500226 2084574		0 m			73 m			333° true
+Trackpoint	12 Q 500203 2084649		0 m			79 m			343° true
+Trackpoint	12 Q 500234 2084736		0 m			92 m			20° true
+Trackpoint	12 Q 500210 2084865		0 m			133 m			350° true
+Trackpoint	12 Q 500220 2084963		0 m			99 m			5° true
+Trackpoint	12 Q 500197 2085071		0 m			111 m			348° true
+Trackpoint	12 Q 500120 2085113		0 m			87 m			299° true
+Trackpoint	12 Q 500076 2085177		0 m			78 m			326° true
+Trackpoint	12 Q 500162 2085243		0 m			108 m			52° true
+Trackpoint	12 Q 500270 2085223		0 m			110 m			101° true
+Trackpoint	12 Q 500280 2085288		0 m			66 m			9° true
+Trackpoint	12 Q 500355 2085332		0 m			87 m			59° true
+Trackpoint	12 Q 500398 2085420		0 m			97 m			26° true
+Trackpoint	12 Q 500462 2085475		0 m			85 m			49° true
+Trackpoint	12 Q 500474 2085354		0 m			122 m			174° true
+Trackpoint	12 Q 500561 2085311		0 m			97 m			117° true
+Trackpoint	12 Q 500680 2085334		0 m			121 m			79° true
+Trackpoint	12 Q 500788 2085347		0 m			109 m			83° true
+Trackpoint	12 Q 500853 2085381		0 m			73 m			62° true
+Trackpoint	12 Q 500918 2085382		0 m			65 m			89° true
+Trackpoint	12 Q 500983 2085383		0 m			65 m			89° true
+Trackpoint	12 Q 501059 2085406		0 m			79 m			73° true
+Trackpoint	12 Q 501178 2085429		0 m			121 m			79° true
+Trackpoint	12 Q 501210 2085440		0 m			34 m			71° true
+Trackpoint	12 Q 501242 2085527		0 m			94 m			20° true
+Trackpoint	12 Q 501155 2085570		0 m			97 m			296° true
+Trackpoint	12 Q 501144 2085581		0 m			15 m			315° true
+Trackpoint	12 Q 501025 2085634		0 m			131 m			294° true
+Trackpoint	12 Q 500948 2085699		0 m			100 m			310° true
+Trackpoint	12 Q 500882 2085807		0 m			128 m			329° true
+Trackpoint	12 Q 501023 2085896		0 m			167 m			58° true
+Trackpoint	12 Q 501109 2085952		0 m			103 m			57° true
+Trackpoint	12 Q 501218 2085997		0 m			118 m			67° true
+Trackpoint	12 Q 501283 2085986		0 m			66 m			99° true
+Trackpoint	12 Q 501380 2085876		0 m			148 m			139° true
+Trackpoint	12 Q 501420 2085976		0 m			109 m			22° true
+Trackpoint	12 Q 501456 2085910		0 m			76 m			152° true
+Trackpoint	12 Q 501536 2085844		0 m			104 m			130° true
+Trackpoint	12 Q 501637 2085789		0 m			115 m			119° true
+Trackpoint	12 Q 501738 2085713		0 m			127 m			127° true
+Trackpoint	12 Q 501687 2085591		0 m			133 m			203° true
+Trackpoint	12 Q 501549 2085511		0 m			160 m			240° true
+Trackpoint	12 Q 501434 2085367		0 m			185 m			218° true
+Trackpoint	12 Q 501538 2085279		0 m			136 m			131° true
+Trackpoint	12 Q 501654 2085336		0 m			130 m			64° true
+Trackpoint	12 Q 501775 2085316		0 m			122 m			100° true
+Trackpoint	12 Q 501889 2085418		0 m			154 m			48° true
+Trackpoint	12 Q 501965 2085419		0 m			77 m			89° true
+Trackpoint	12 Q 501931 2085218		0 m			205 m			190° true
+Trackpoint	12 Q 502033 2085121		0 m			141 m			134° true
+Trackpoint	12 Q 502046 2085055		0 m			67 m			169° true
+Trackpoint	12 Q 502152 2085112		0 m			121 m			62° true
+Trackpoint	12 Q 502148 2085233		0 m			122 m			358° true
+Trackpoint	12 Q 502199 2085311		0 m			94 m			33° true
+Trackpoint	12 Q 502258 2085489		0 m			188 m			18° true
+Trackpoint	12 Q 502401 2085479		0 m			143 m			94° true
+Trackpoint	12 Q 502450 2085303		0 m			184 m			164° true
+Trackpoint	12 Q 502445 2085138		0 m			166 m			182° true
+Trackpoint	12 Q 502409 2084918		0 m			224 m			189° true
+Trackpoint	12 Q 502357 2084851		0 m			85 m			218° true
+Trackpoint	12 Q 502426 2084754		0 m			120 m			145° true
+Trackpoint	12 Q 502493 2084711		0 m			79 m			123° true
+Trackpoint	12 Q 502518 2084591		0 m			123 m			168° true
+Trackpoint	12 Q 502640 2084527		0 m			137 m			118° true
+Trackpoint	12 Q 502760 2084518		0 m			120 m			95° true
+Trackpoint	12 Q 502867 2084562		0 m			116 m			67° true
+Trackpoint	12 Q 503038 2084630		0 m			185 m			68° true
+Trackpoint	12 Q 503080 2084663		0 m			54 m			51° true
+Trackpoint	12 Q 503178 2084675		0 m			98 m			83° true
+Trackpoint	12 Q 503287 2084623		0 m			121 m			116° true
+Trackpoint	12 Q 503300 2084536		0 m			89 m			171° true
+Trackpoint	12 Q 503281 2084438		0 m			100 m			191° true
+Trackpoint	12 Q 503410 2084430		0 m			129 m			94° true
+Trackpoint	12 Q 503435 2084321		0 m			112 m			167° true
+Trackpoint	12 Q 503491 2084246		0 m			94 m			143° true
+Trackpoint	12 Q 503578 2084204		0 m			97 m			116° true
+Trackpoint	12 Q 503645 2084107		0 m			118 m			145° true
+Trackpoint	12 Q 503755 2084044		0 m			127 m			120° true
+Trackpoint	12 Q 503692 2083989		0 m			84 m			229° true
+Trackpoint	12 Q 503799 2083990		0 m			108 m			89° true
+Trackpoint	12 Q 503920 2083915		0 m			143 m			122° true
+Trackpoint	12 Q 503966 2083830		0 m			97 m			152° true
+Trackpoint	12 Q 503915 2083731		0 m			111 m			207° true
+Trackpoint	12 Q 503981 2083615		0 m			134 m			151° true
+Trackpoint	12 Q 504015 2083530		0 m			93 m			158° true
+Trackpoint	12 Q 504114 2083424		0 m			145 m			137° true
+Trackpoint	12 Q 504243 2083363		0 m			143 m			116° true
+Trackpoint	12 Q 504298 2083289		0 m			92 m			144° true
+Trackpoint	12 Q 504416 2083238		0 m			129 m			114° true
+Trackpoint	12 Q 504302 2083108		0 m			173 m			221° true
+Trackpoint	12 Q 504326 2083002		0 m			109 m			167° true
+Trackpoint	12 Q 504476 2082930		0 m			167 m			116° true
+Trackpoint	12 Q 504594 2082868		0 m			134 m			118° true
+Trackpoint	12 Q 504734 2082754		0 m			182 m			129° true
+Trackpoint	12 Q 504949 2082679		0 m			227 m			109° true
+Trackpoint	12 Q 504732 2082224		0 m			507 m			205° true
+Trackpoint	12 Q 504139 2082574		0 m			690 m			301° true
+Trackpoint	12 Q 503425 2083394		0 m			1.1 km			319° true
+Trackpoint	12 Q 502812 2083961		0 m			838 m			313° true
+Trackpoint	12 Q 502278 2084141		0 m			564 m			289° true
+Trackpoint	12 Q 501749 2084103		0 m			530 m			266° true
+Trackpoint	12 Q 501132 2083995		0 m			627 m			260° true
+Trackpoint	12 Q 500720 2083852		0 m			437 m			251° true
+Trackpoint	12 Q 500319 2083510		0 m			528 m			229° true
+Trackpoint	12 Q 499942 2082738		0 m			864 m			206° true
+Trackpoint	12 Q 499734 2081352		0 m			1.4 km			188° true
+Trackpoint	12 Q 498740 2081635		0 m			1.0 km			286° true
+
+Track	ZONA 60		0:00:00	28.8 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 500922 2077129		0 m
+Trackpoint	12 Q 497754 2075751		0 m			3.5 km			246° true
+Trackpoint	12 Q 497759 2075879		0 m			129 m			2° true
+Trackpoint	12 Q 497681 2075994		0 m			139 m			326° true
+Trackpoint	12 Q 497595 2076001		0 m			87 m			275° true
+Trackpoint	12 Q 497523 2075924		0 m			105 m			222° true
+Trackpoint	12 Q 497417 2075909		0 m			108 m			262° true
+Trackpoint	12 Q 497338 2075959		0 m			93 m			303° true
+Trackpoint	12 Q 497187 2075984		0 m			154 m			280° true
+Trackpoint	12 Q 497137 2075908		0 m			91 m			213° true
+Trackpoint	12 Q 497063 2075885		0 m			78 m			252° true
+Trackpoint	12 Q 496985 2075967		0 m			114 m			317° true
+Trackpoint	12 Q 496971 2076052		0 m			87 m			351° true
+Trackpoint	12 Q 497102 2076193		0 m			194 m			43° true
+Trackpoint	12 Q 497088 2076289		0 m			98 m			352° true
+Trackpoint	12 Q 496961 2076275		0 m			128 m			264° true
+Trackpoint	12 Q 496738 2076324		0 m			228 m			282° true
+Trackpoint	12 Q 496617 2076427		0 m			159 m			311° true
+Trackpoint	12 Q 496499 2076547		0 m			169 m			316° true
+Trackpoint	12 Q 496440 2076661		0 m			129 m			333° true
+Trackpoint	12 Q 496351 2076740		0 m			121 m			312° true
+Trackpoint	12 Q 496369 2076819		0 m			81 m			13° true
+Trackpoint	12 Q 496329 2076989		0 m			175 m			347° true
+Trackpoint	12 Q 496391 2077049		0 m			86 m			45° true
+Trackpoint	12 Q 496334 2077141		0 m			109 m			328° true
+Trackpoint	12 Q 496264 2077266		0 m			144 m			331° true
+Trackpoint	12 Q 496126 2077227		0 m			143 m			254° true
+Trackpoint	12 Q 496054 2077148		0 m			107 m			222° true
+Trackpoint	12 Q 495972 2077048		0 m			130 m			219° true
+Trackpoint	12 Q 495921 2077003		0 m			69 m			229° true
+Trackpoint	12 Q 495806 2076913		0 m			146 m			232° true
+Trackpoint	12 Q 495722 2076864		0 m			97 m			240° true
+Trackpoint	12 Q 495569 2076914		0 m			160 m			288° true
+Trackpoint	12 Q 495556 2076987		0 m			75 m			349° true
+Trackpoint	12 Q 495393 2077028		0 m			167 m			284° true
+Trackpoint	12 Q 495389 2077123		0 m			96 m			358° true
+Trackpoint	12 Q 495240 2077120		0 m			149 m			269° true
+Trackpoint	12 Q 495136 2077041		0 m			131 m			233° true
+Trackpoint	12 Q 495032 2076950		0 m			139 m			228° true
+Trackpoint	12 Q 494992 2076851		0 m			107 m			202° true
+Trackpoint	12 Q 494953 2076763		0 m			97 m			204° true
+Trackpoint	12 Q 494901 2076695		0 m			85 m			217° true
+Trackpoint	12 Q 494874 2076565		0 m			134 m			192° true
+Trackpoint	12 Q 494878 2076458		0 m			107 m			178° true
+Trackpoint	12 Q 494746 2076525		0 m			149 m			297° true
+Trackpoint	12 Q 494614 2076561		0 m			136 m			285° true
+Trackpoint	12 Q 494548 2076612		0 m			84 m			307° true
+Trackpoint	12 Q 494453 2076565		0 m			106 m			244° true
+Trackpoint	12 Q 494389 2076552		0 m			65 m			258° true
+Trackpoint	12 Q 494393 2076434		0 m			118 m			178° true
+Trackpoint	12 Q 494308 2076409		0 m			89 m			254° true
+Trackpoint	12 Q 494209 2076480		0 m			123 m			306° true
+Trackpoint	12 Q 494224 2076620		0 m			142 m			6° true
+Trackpoint	12 Q 494242 2076728		0 m			110 m			9° true
+Trackpoint	12 Q 494300 2076880		0 m			164 m			21° true
+Trackpoint	12 Q 494340 2076967		0 m			96 m			24° true
+Trackpoint	12 Q 494389 2077076		0 m			120 m			24° true
+Trackpoint	12 Q 494463 2077215		0 m			158 m			28° true
+Trackpoint	12 Q 494566 2077303		0 m			136 m			49° true
+Trackpoint	12 Q 494672 2077352		0 m			117 m			65° true
+Trackpoint	12 Q 494786 2077441		0 m			145 m			52° true
+Trackpoint	12 Q 494891 2077509		0 m			124 m			57° true
+Trackpoint	12 Q 495019 2077548		0 m			134 m			73° true
+Trackpoint	12 Q 495134 2077629		0 m			141 m			55° true
+Trackpoint	12 Q 495152 2077704		0 m			78 m			14° true
+Trackpoint	12 Q 495170 2077800		0 m			98 m			10° true
+Trackpoint	12 Q 495100 2077912		0 m			133 m			328° true
+Trackpoint	12 Q 495042 2078004		0 m			109 m			328° true
+Trackpoint	12 Q 495157 2078096		0 m			147 m			51° true
+Trackpoint	12 Q 495265 2078080		0 m			110 m			99° true
+Trackpoint	12 Q 495335 2077966		0 m			134 m			149° true
+Trackpoint	12 Q 495418 2078033		0 m			107 m			51° true
+Trackpoint	12 Q 495424 2078139		0 m			107 m			3° true
+Trackpoint	12 Q 495501 2078089		0 m			92 m			123° true
+Trackpoint	12 Q 495565 2078115		0 m			69 m			68° true
+Trackpoint	12 Q 495646 2078226		0 m			138 m			36° true
+Trackpoint	12 Q 495619 2078359		0 m			136 m			348° true
+Trackpoint	12 Q 495645 2078512		0 m			156 m			10° true
+Trackpoint	12 Q 495609 2078608		0 m			103 m			340° true
+Trackpoint	12 Q 495564 2078671		0 m			78 m			324° true
+Trackpoint	12 Q 495464 2078763		0 m			136 m			313° true
+Trackpoint	12 Q 495343 2078819		0 m			134 m			295° true
+Trackpoint	12 Q 495233 2078845		0 m			112 m			283° true
+Trackpoint	12 Q 495123 2078903		0 m			125 m			298° true
+Trackpoint	12 Q 495205 2079004		0 m			131 m			39° true
+Trackpoint	12 Q 495245 2079092		0 m			97 m			24° true
+Trackpoint	12 Q 495327 2079214		0 m			148 m			34° true
+Trackpoint	12 Q 495356 2079312		0 m			102 m			16° true
+Trackpoint	12 Q 495276 2079425		0 m			139 m			325° true
+Trackpoint	12 Q 495172 2079558		0 m			170 m			322° true
+Trackpoint	12 Q 495040 2079628		0 m			149 m			298° true
+Trackpoint	12 Q 495036 2079724		0 m			97 m			358° true
+Trackpoint	12 Q 495196 2079762		0 m			165 m			76° true
+Trackpoint	12 Q 495290 2079851		0 m			129 m			46° true
+Trackpoint	12 Q 495426 2079953		0 m			170 m			53° true
+Trackpoint	12 Q 495455 2080029		0 m			82 m			21° true
+Trackpoint	12 Q 495515 2080117		0 m			107 m			34° true
+Trackpoint	12 Q 495488 2080244		0 m			131 m			348° true
+Trackpoint	12 Q 495402 2080241		0 m			86 m			268° true
+Trackpoint	12 Q 495239 2080298		0 m			173 m			289° true
+Trackpoint	12 Q 495067 2080292		0 m			172 m			268° true
+Trackpoint	12 Q 494947 2080351		0 m			134 m			296° true
+Trackpoint	12 Q 494862 2080326		0 m			89 m			254° true
+Trackpoint	12 Q 494722 2080320		0 m			140 m			268° true
+Trackpoint	12 Q 494633 2080392		0 m			115 m			309° true
+Trackpoint	12 Q 494566 2080443		0 m			84 m			307° true
+Trackpoint	12 Q 494638 2080552		0 m			132 m			34° true
+Trackpoint	12 Q 494755 2080610		0 m			130 m			63° true
+Trackpoint	12 Q 494926 2080596		0 m			172 m			95° true
+Trackpoint	12 Q 495026 2080525		0 m			123 m			126° true
+Trackpoint	12 Q 495178 2080488		0 m			156 m			104° true
+Trackpoint	12 Q 495297 2080450		0 m			126 m			108° true
+Trackpoint	12 Q 495401 2080540		0 m			138 m			49° true
+Trackpoint	12 Q 495562 2080547		0 m			161 m			88° true
+Trackpoint	12 Q 495713 2080542		0 m			151 m			92° true
+Trackpoint	12 Q 495842 2080536		0 m			129 m			93° true
+Trackpoint	12 Q 495962 2080508		0 m			122 m			103° true
+Trackpoint	12 Q 495989 2080638		0 m			133 m			12° true
+Trackpoint	12 Q 495749 2080725		0 m			256 m			290° true
+Trackpoint	12 Q 495895 2080828		0 m			179 m			55° true
+Trackpoint	12 Q 495985 2080992		0 m			188 m			29° true
+Trackpoint	12 Q 496114 2081018		0 m			131 m			78° true
+Trackpoint	12 Q 496266 2080971		0 m			160 m			107° true
+Trackpoint	12 Q 496407 2080955		0 m			141 m			96° true
+Trackpoint	12 Q 496558 2080929		0 m			154 m			100° true
+Trackpoint	12 Q 496658 2080869		0 m			116 m			121° true
+Trackpoint	12 Q 496841 2080854		0 m			184 m			94° true
+Trackpoint	12 Q 496939 2080826		0 m			102 m			106° true
+Trackpoint	12 Q 497055 2080873		0 m			126 m			68° true
+Trackpoint	12 Q 497051 2080969		0 m			96 m			357° true
+Trackpoint	12 Q 497003 2081107		0 m			146 m			341° true
+Trackpoint	12 Q 496957 2081191		0 m			96 m			332° true
+Trackpoint	12 Q 496964 2081287		0 m			97 m			4° true
+Trackpoint	12 Q 497025 2081376		0 m			108 m			35° true
+Trackpoint	12 Q 497267 2081503		0 m			274 m			62° true
+Trackpoint	12 Q 497404 2081572		0 m			154 m			63° true
+Trackpoint	12 Q 497461 2081478		0 m			111 m			149° true
+Trackpoint	12 Q 497561 2081407		0 m			123 m			126° true
+Trackpoint	12 Q 497788 2081329		0 m			240 m			109° true
+Trackpoint	12 Q 497863 2081387		0 m			95 m			52° true
+Trackpoint	12 Q 497950 2081358		0 m			92 m			108° true
+Trackpoint	12 Q 497992 2081283		0 m			87 m			151° true
+Trackpoint	12 Q 498058 2081297		0 m			67 m			78° true
+Trackpoint	12 Q 498123 2081246		0 m			83 m			129° true
+Trackpoint	12 Q 498237 2081238		0 m			115 m			94° true
+Trackpoint	12 Q 498288 2081336		0 m			111 m			27° true
+Trackpoint	12 Q 498370 2081381		0 m			94 m			61° true
+Trackpoint	12 Q 498494 2081427		0 m			132 m			69° true
+Trackpoint	12 Q 498524 2081525		0 m			103 m			17° true
+Trackpoint	12 Q 498596 2081570		0 m			85 m			58° true
+Trackpoint	12 Q 498658 2081561		0 m			63 m			99° true
+Trackpoint	12 Q 498657 2081626		0 m			65 m			0° true
+Trackpoint	12 Q 498667 2081691		0 m			66 m			9° true
+Trackpoint	12 Q 498770 2081660		0 m			108 m			107° true
+Trackpoint	12 Q 498716 2081640		0 m			57 m			249° true
+Trackpoint	12 Q 500849 2081025		0 m			2.2 km			106° true
+Trackpoint	12 Q 501120 2079924		0 m			1.1 km			166° true
+Trackpoint	12 Q 500993 2079676		0 m			280 m			207° true
+Trackpoint	12 Q 501227 2078628		0 m			1.1 km			167° true
+Trackpoint	12 Q 501060 2078178		0 m			482 m			200° true
+Trackpoint	12 Q 500832 2077771		0 m			469 m			209° true
+Trackpoint	12 Q 500922 2077129		0 m			652 m			172° true
+
+Track	ZONA 70		0:00:00	18.0 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	12 Q 500926 2077124		0 m
+Trackpoint	12 Q 501299 2076597		0 m			649 m			145° true
+Trackpoint	12 Q 501660 2076037		0 m			669 m			147° true
+Trackpoint	12 Q 502020 2075592		0 m			575 m			141° true
+Trackpoint	12 Q 502370 2075399		0 m			400 m			119° true
+Trackpoint	12 Q 502627 2075278		0 m			284 m			115° true
+Trackpoint	12 Q 502157 2072816		0 m			2.5 km			191° true
+Trackpoint	12 Q 502028 2072617		0 m			238 m			213° true
+Trackpoint	12 Q 501860 2072524		0 m			192 m			241° true
+Trackpoint	12 Q 501671 2072573		0 m			195 m			284° true
+Trackpoint	12 Q 501481 2072726		0 m			245 m			309° true
+Trackpoint	12 Q 501383 2072786		0 m			115 m			301° true
+Trackpoint	12 Q 501326 2072848		0 m			84 m			318° true
+Trackpoint	12 Q 501229 2072886		0 m			104 m			292° true
+Trackpoint	12 Q 501200 2073014		0 m			132 m			347° true
+Trackpoint	12 Q 501236 2073114		0 m			106 m			20° true
+Trackpoint	12 Q 501305 2073203		0 m			113 m			37° true
+Trackpoint	12 Q 501353 2073281		0 m			92 m			32° true
+Trackpoint	12 Q 501267 2073309		0 m			90 m			288° true
+Trackpoint	12 Q 501146 2073421		0 m			165 m			313° true
+Trackpoint	12 Q 501051 2073417		0 m			96 m			267° true
+Trackpoint	12 Q 500933 2073443		0 m			121 m			283° true
+Trackpoint	12 Q 500826 2073481		0 m			114 m			289° true
+Trackpoint	12 Q 500712 2073432		0 m			124 m			247° true
+Trackpoint	12 Q 500581 2073491		0 m			143 m			294° true
+Trackpoint	12 Q 500503 2073562		0 m			107 m			313° true
+Trackpoint	12 Q 500376 2073525		0 m			133 m			254° true
+Trackpoint	12 Q 500340 2073620		0 m			101 m			340° true
+Trackpoint	12 Q 500272 2073692		0 m			100 m			317° true
+Trackpoint	12 Q 500176 2073808		0 m			151 m			321° true
+Trackpoint	12 Q 500165 2073918		0 m			111 m			354° true
+Trackpoint	12 Q 500077 2073968		0 m			102 m			300° true
+Trackpoint	12 Q 499985 2073910		0 m			108 m			237° true
+Trackpoint	12 Q 499966 2074007		0 m			100 m			349° true
+Trackpoint	12 Q 499907 2073929		0 m			98 m			217° true
+Trackpoint	12 Q 499795 2073828		0 m			151 m			228° true
+Trackpoint	12 Q 499692 2073748		0 m			130 m			232° true
+Trackpoint	12 Q 499537 2073635		0 m			193 m			234° true
+Trackpoint	12 Q 499444 2073566		0 m			116 m			234° true
+Trackpoint	12 Q 499273 2073406		0 m			235 m			227° true
+Trackpoint	12 Q 499205 2073458		0 m			86 m			307° true
+Trackpoint	12 Q 499035 2073439		0 m			171 m			264° true
+Trackpoint	12 Q 498957 2073500		0 m			99 m			308° true
+Trackpoint	12 Q 498984 2073609		0 m			113 m			14° true
+Trackpoint	12 Q 498947 2073715		0 m			113 m			341° true
+Trackpoint	12 Q 498819 2073699		0 m			129 m			263° true
+Trackpoint	12 Q 498847 2073786		0 m			92 m			18° true
+Trackpoint	12 Q 498782 2073805		0 m			68 m			286° true
+Trackpoint	12 Q 498673 2073833		0 m			112 m			284° true
+Trackpoint	12 Q 498600 2073776		0 m			92 m			232° true
+Trackpoint	12 Q 498520 2073654		0 m			146 m			213° true
+Trackpoint	12 Q 498386 2073541		0 m			176 m			230° true
+Trackpoint	12 Q 498317 2073635		0 m			117 m			324° true
+Trackpoint	12 Q 498249 2073718		0 m			108 m			321° true
+Trackpoint	12 Q 498160 2073790		0 m			115 m			309° true
+Trackpoint	12 Q 498092 2073862		0 m			99 m			317° true
+Trackpoint	12 Q 498152 2073950		0 m			108 m			34° true
+Trackpoint	12 Q 498192 2074038		0 m			96 m			24° true
+Trackpoint	12 Q 498156 2074111		0 m			82 m			334° true
+Trackpoint	12 Q 498077 2074215		0 m			131 m			323° true
+Trackpoint	12 Q 498030 2074299		0 m			96 m			331° true
+Trackpoint	12 Q 498016 2074384		0 m			87 m			351° true
+Trackpoint	12 Q 498099 2074451		0 m			107 m			51° true
+Trackpoint	12 Q 498175 2074433		0 m			78 m			104° true
+Trackpoint	12 Q 498258 2074500		0 m			107 m			51° true
+Trackpoint	12 Q 498383 2074591		0 m			155 m			54° true
+Trackpoint	12 Q 498496 2074682		0 m			145 m			51° true
+Trackpoint	12 Q 498429 2074743		0 m			91 m			313° true
+Trackpoint	12 Q 498214 2074787		0 m			220 m			282° true
+Trackpoint	12 Q 498078 2074717		0 m			153 m			243° true
+Trackpoint	12 Q 498011 2074768		0 m			84 m			307° true
+Trackpoint	12 Q 497956 2074809		0 m			69 m			306° true
+Trackpoint	12 Q 497963 2074895		0 m			87 m			5° true
+Trackpoint	12 Q 498000 2074961		0 m			77 m			29° true
+Trackpoint	12 Q 497952 2075066		0 m			116 m			336° true
+Trackpoint	12 Q 497858 2075083		0 m			96 m			280° true
+Trackpoint	12 Q 497750 2075153		0 m			129 m			303° true
+Trackpoint	12 Q 497671 2075225		0 m			106 m			313° true
+Trackpoint	12 Q 497577 2075178		0 m			106 m			244° true
+Trackpoint	12 Q 497562 2075263		0 m			87 m			351° true
+Trackpoint	12 Q 497668 2075321		0 m			120 m			61° true
+Trackpoint	12 Q 497708 2075397		0 m			87 m			27° true
+Trackpoint	12 Q 497662 2075459		0 m			78 m			324° true
+Trackpoint	12 Q 497669 2075567		0 m			108 m			3° true
+Trackpoint	12 Q 497729 2075622		0 m			82 m			47° true
+Trackpoint	12 Q 497754 2075751		0 m			132 m			11° true
+Trackpoint	12 Q 500926 2077124		0 m			3.5 km			66° true
