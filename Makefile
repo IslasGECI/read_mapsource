@@ -46,11 +46,10 @@ init_git:
 setup: clean install
 
 install:
-	mkdir --parents data
 	R -e "devtools::document()" && \
-    R CMD build . && \
-    R CMD check readMS_0.1.0.tar.gz && \
-    R CMD INSTALL readMS_0.1.0.tar.gz
+	R -e "devtools::check(error_on = 'error')" && \
+	R -e "devtools::build()" && \
+	R -e "devtools::install()"
 
 tests:
 	Rscript -e "devtools::test(stop_on_failure = TRUE)"
@@ -68,6 +67,6 @@ green: format
 
 refactor: format
 	Rscript -e "devtools::test(stop_on_failure = TRUE)" \
-	&& (git add R/ tests/testthat/ && git commit -m "♻️  Refactor") \
+	&& (git add R/ tests/testthat/ && git commit -m "♻️ Refactor ${message}") \
 	|| git restore R tests/testthat
 	chmod g+w -R .
