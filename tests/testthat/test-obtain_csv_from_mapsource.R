@@ -1,10 +1,9 @@
 library(testtools)
 
 library(lubridate)
-library(tidyverse)
 
 describe("Obtain the csv of cameras from mapsource", {
-  waypoints <- read_csv("/workdir/tests/data/example_waypoints_from_mapsource.csv", show_col_types = FALSE)
+  waypoints <- readr::read_csv("/workdir/tests/data/example_waypoints_from_mapsource.csv", show_col_types = FALSE)
   obtained <- obtain_csv_from_waypoints_of_mapsource(waypoints)
   it("From waypoints example", {
     expect_equal(obtained$Zona, rep("01", 6))
@@ -16,7 +15,7 @@ describe("Obtain the csv of cameras from mapsource", {
     expect_true(obtained$Coordenada_Norte[6] == 3200753)
   })
   it("Has the right columns", {
-    ig_cameras <- read_csv("/workdir/tests/data/IG_CAMARA_TRAMPA_EXTRA_26FEB2023.csv", show_col_types = FALSE)
+    ig_cameras <- readr::read_csv("/workdir/tests/data/IG_CAMARA_TRAMPA_EXTRA_26FEB2023.csv", show_col_types = FALSE)
     expected_name <- names(ig_cameras)
     obtained_name <- names(obtained)
     expect_equal(obtained_name, expected_name)
@@ -67,17 +66,17 @@ describe("paths io", {
 })
 
 describe("Get csv of POSICION TRAMPA", {
-  waypoints <- read_csv("/workdir/tests/data/example_traps_from_mapsource.csv", show_col_types = FALSE)
+  waypoints <- readr::read_csv("/workdir/tests/data/example_traps_from_mapsource.csv", show_col_types = FALSE)
   today <- ymd("2023-03-04")
   obtained <- obtain_csv_from_traps_of_mapsource(waypoints, today)
   it("Wraper to obtain position tramps csv from mapsource", {
     today <- ymd("2023-04-21")
-    mapsource_path <- "../data/mapsource_16ABR2023.txt"
+    mapsource_path <- "/workdir/tests/data/mapsource_16ABR2023.txt"
     write_position_tramps_csv(mapsource_path, today)
-    output_file <- "/workdir/data/IG_POSICION_TRAMPAS_30ABR2023.csv"
-    obtained_csv <- read_csv(output_file, show_col_types = FALSE)
-    expected_path <- "../data/expected_IG_POSICION_TRAMPAS_30ABR2023.csv"
-    expected_csv <- read_csv(expected_path, show_col_types = FALSE)
+    output_file <- "/workdir/tests/data/IG_POSICION_TRAMPAS_30ABR2023.csv"
+    obtained_csv <- readr::read_csv(output_file, show_col_types = FALSE)
+    expected_path <- "/workdir/tests/data/expected_IG_POSICION_TRAMPAS_30ABR2023.csv"
+    expected_csv <- readr::read_csv(expected_path, show_col_types = FALSE)
     expect_equal(obtained_csv, expected_csv)
     delete_output_file(output_file)
   })
@@ -88,7 +87,7 @@ describe("Get csv of POSICION TRAMPA", {
     expect_true(obtained$`Coor-Y`[10] == 3196529)
   })
   it("Has the right columns", {
-    ig_traps <- read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv", show_col_types = FALSE)
+    ig_traps <- readr::read_csv("/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv", show_col_types = FALSE)
     expected_name <- c("06/Mar/2023", "07/Mar/2023", "08/Mar/2023", "09/Mar/2023", "10/Mar/2023", "11/Mar/2023", "12/Mar/2023")
     obtained_name <- names(obtained)
     expect_equal(obtained_name[5:11], expected_name)

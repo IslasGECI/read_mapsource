@@ -47,10 +47,10 @@ obtain_inactive_traps_from_clean_position_traps <- function(posicion_trampa) {
 
 update_activated_traps <- function(inactive_traps, activated_traps) {
   clean_activated_traps <- activated_traps |>
-    select(c("ID", "is_active", "date"))
+    dplyr::select(c("ID", "is_active", "date"))
   tryCatch(
     {
-      active_and_inactive_traps <- rows_update(inactive_traps, clean_activated_traps)
+      active_and_inactive_traps <- dplyr::rows_update(inactive_traps, clean_activated_traps)
       return(active_and_inactive_traps)
     },
     error = function(e) {
@@ -69,20 +69,20 @@ check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
 
 filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
   posicion_trampa |>
-    filter(!is.na(Nombre_del_responsable))
+    dplyr::filter(!is.na(Nombre_del_responsable))
 }
 
 select_first_columns <- function(posicion_trampa) {
   posicion_trampa |>
-    select(c(1:3, "line" = Linea))
+    dplyr::select(c(1:3, "line" = Linea))
 }
 
 add_is_active_column <- function(posicion_trampa, value = TRUE) {
   posicion_trampa |>
-    add_column("is_active" = value)
+    tibble::add_column("is_active" = value)
 }
 
 add_revised_date <- function(posicion_trampa, revised_date = "") {
   posicion_trampa |>
-    add_column("date" = revised_date)
+    tibble::add_column("date" = revised_date)
 }

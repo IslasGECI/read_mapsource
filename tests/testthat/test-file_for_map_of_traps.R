@@ -1,7 +1,6 @@
-library(tidyverse)
 describe("from_ig_position_2_maps_of_traps", {
   path <- "/workdir/tests/data/IG_POSICION_TRAMPAS_03JUL2022.csv"
-  posicion_trampa <- read_csv(path, show_col_types = FALSE)
+  posicion_trampa <- readr::read_csv(path, show_col_types = FALSE)
   revised_date <- "03-07-2022"
   obtained <- transform_from_ig_position_2_maps_of_traps(posicion_trampa, revised_date)
   it("select the three first columns of ig_position_trampa", {
@@ -36,7 +35,7 @@ describe("obtain_date_of_name_file", {
 
 describe("obtain_unactive_traps_from_clean_position_traps", {
   path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
-  clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
+  clean_posicion_trampa <- readr::read_csv(path_clean_position, show_col_types = FALSE)
   obtained <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
   it("has all the columns", {
     expected_names <- c("ID", "Coor-X", "Coor-Y", "is_active", "date", "line")
@@ -56,18 +55,18 @@ describe("obtain_unactive_traps_from_clean_position_traps", {
 })
 
 describe("update_activated_traps", {
-  activated_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
+  activated_traps <- readr::read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
   path_clean_position <- "/workdir/tests/data/example_of_clean_IG_POSICION.csv"
-  clean_posicion_trampa <- read_csv(path_clean_position, show_col_types = FALSE)
+  clean_posicion_trampa <- readr::read_csv(path_clean_position, show_col_types = FALSE)
   inactive_traps <- obtain_inactive_traps_from_clean_position_traps(clean_posicion_trampa)
   it("update with actived traps", {
     active_and_inactive_traps <- "/workdir/tests/data/actived_and_inactive_traps.csv"
-    expected <- read_csv(active_and_inactive_traps, show_col_types = FALSE)
+    expected <- readr::read_csv(active_and_inactive_traps, show_col_types = FALSE)
     obtained <- inactive_traps |> update_activated_traps(activated_traps)
     expect_equal(obtained, expected)
   })
-  inactive_traps <- read_csv("../data/inactive_traps_with_extra_id.csv", show_col_types = FALSE)
-  active_traps <- read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
+  inactive_traps <- readr::read_csv("../data/inactive_traps_with_extra_id.csv", show_col_types = FALSE)
+  active_traps <- readr::read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
   it("Expect error update_activated_traps()", {
     expect_error(update_activated_traps(active_traps, inactive_traps[1:15, ]), "🚨 Los IDs TC-02-139-CR en IG_POSICION no están en el mapsource 🚨")
   })
