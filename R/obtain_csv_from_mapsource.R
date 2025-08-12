@@ -16,13 +16,7 @@ write_position_tramps_csv <- function(mapsource_path, today = today()) {
 }
 
 #' @export
-write_position_traps_for_one_week <- function(mapsource_directory, today = today()) {
-  traps_without_status <- .obtain_week_without_status(mapsource_directory, today)
-  output_file <- .obtain_output_path_for_one_week(today)
-  readr::write_csv(traps_without_status, glue::glue("{mapsource_directory}{output_file}"))
-}
-
-xxwrite_position_traps_for_one_week <- function(mapsource_path, today = today()) {
+write_position_traps_for_one_week <- function(mapsource_path, today = today()) {
   traps_without_status <- .build_position_traps_without_status(mapsource_path, today)
   output_file <- .obtain_output_path_for_one_week(today)
   mapsource_directory <- dirname(mapsource_path)
