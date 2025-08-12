@@ -25,6 +25,9 @@ RoxygenNote: 7.2.1
 Suggests:
     devtools,
     roxygen2,
-    testthat
+    testthat,
+    testtools,
+Remotes:
+    IslasGECI/testtools
 Type: Package
 Version: 0.1.0
