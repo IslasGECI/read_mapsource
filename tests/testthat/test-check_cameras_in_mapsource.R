@@ -8,7 +8,7 @@ describe("Check cameras", {
     obtained <- get_missing_ids(cameras_in_revision_campo[["ID_camara"]], listed_cameras_in_mapsource[["Name"]])
     expected <- c("CT-99-100-XX")
     expect_equal(obtained, expected)
-    obtained <- get_missing_ids_in_revision_campo(two_cameras_in_revision_campo, listed_cameras_in_mapsource)
+    obtained <- get_missing_ids(listed_cameras_in_mapsource[["Name"]], two_cameras_in_revision_campo[["ID_camara"]])
     expected <- c("CT-01-001-CF")
     expect_equal(obtained, expected)
   })
