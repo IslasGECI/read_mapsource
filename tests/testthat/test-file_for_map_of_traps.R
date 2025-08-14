@@ -68,17 +68,27 @@ describe("update_activated_traps", {
   inactive_traps <- readr::read_csv("../data/inactive_traps_with_extra_id.csv", show_col_types = FALSE)
   active_traps <- readr::read_csv("/workdir/tests/data/some_actived_traps.csv", show_col_types = FALSE)
   it("Expect error update_activated_traps()", {
-    expect_error(update_activated_traps(active_traps, inactive_traps[1:15, ]), "🚨 Los IDs TC-02-139-CR en IG_POSICION no están en el mapsource 🚨")
+    expect_error(update_activated_traps(inactive_traps[1:15, ], active_traps), "🚨 Los IDs TC-02-139-CR en MAPSOURCE no están en el POSICION 🚨")
   })
   it("Expect two rows in message erro", {
-    expect_error(update_activated_traps(active_traps, inactive_traps), "🚨 Los IDs TC-02-139-CR y TC-02-140-CR en IG_POSICION no están en el mapsource 🚨")
+    expect_error(update_activated_traps(inactive_traps, active_traps), "🚨 Los IDs TC-02-139-CR y TC-02-140-CR en MAPSOURCE no están en el POSICION 🚨")
   })
 })
 
 describe("Check traps", {
-  it("Error when traps are not in mapsource", {
+  it("Error when traps in positions file are not in mapsource", {
     tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
     tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
-    expect_error(check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en IG_POSICION no están en el mapsource 🚨")
+    expect_error(check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en MAPSOURCE no están en el POSICION 🚨")
+  })
+  it("Error when traps in mapsource are not in positions file", {
+    tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
+    expect_error(check_traps_in_positions(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en POSICION no están en el MAPSOURCE 🚨")
+  })
+  it("Get correct message", {
+    tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    expect_message(double_check_traps(tibble_from_mapsource, tibble_from_position), "💚 La revisión de trampas es correcta 💚")
   })
 })

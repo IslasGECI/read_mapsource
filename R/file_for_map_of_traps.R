@@ -47,25 +47,32 @@ obtain_inactive_traps_from_clean_position_traps <- function(posicion_trampa) {
 
 update_activated_traps <- function(inactive_traps, activated_traps) {
   clean_activated_traps <- activated_traps |>
-    dplyr::select(c("ID", "is_active", "date"))
-  tryCatch(
-    {
-      active_and_inactive_traps <- dplyr::rows_update(inactive_traps, clean_activated_traps)
-      return(active_and_inactive_traps)
-    },
-    error = function(e) {
-      check_traps_in_mapsource(activated_traps, inactive_traps)
-    }
-  )
+    select(c("ID", "is_active", "date"))
+  double_check_traps(inactive_traps, activated_traps)
+  active_and_inactive_traps <- rows_update(inactive_traps, clean_activated_traps)
   return(active_and_inactive_traps)
 }
 
-check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
-  missing_ids <- get_missing_ids_in_mapsource(activated_traps$ID, inactive_traps$ID)
-  different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
-  stop(glue::glue("🚨 Los IDs {different_ids} en IG_POSICION no están en el mapsource 🚨"))
+double_check_traps <- function(tibble_from_mapsource, tibble_from_position) {
+  check_traps_in_positions(tibble_from_mapsource, tibble_from_position)
+  check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position)
+  message("💚 La revisión de trampas es correcta 💚")
 }
 
+check_traps_in_mapsource <- function(inactive_traps, activated_traps) {
+  missing_ids <- get_missing_ids(inactive_traps$ID, activated_traps$ID)
+  if (length(missing_ids) > 0) {
+    different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
+    stop(glue::glue("🚨 Los IDs {different_ids} en MAPSOURCE no están en el POSICION 🚨"))
+  }
+}
+check_traps_in_positions <- function(inactive_traps, activated_traps) {
+  missing_ids <- get_missing_ids(activated_traps$ID, inactive_traps$ID)
+  if (length(missing_ids) > 0) {
+    different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
+    stop(glue::glue("🚨 Los IDs {different_ids} en POSICION no están en el MAPSOURCE 🚨"))
+  }
+}
 
 filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
   posicion_trampa |>
