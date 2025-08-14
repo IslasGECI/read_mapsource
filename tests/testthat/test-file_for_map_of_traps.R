@@ -87,4 +87,9 @@ describe("Check traps", {
     tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
     expect_error(check_traps_in_positions(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en MAPSOURCE no están en el POSICION 🚨")
   })
+  it("Get correct message", {
+    tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    expect_message(double_check_traps(tibble_from_mapsource, tibble_from_position), "💚 La revisión de trampas es correcta 💚")
+  })
 })
