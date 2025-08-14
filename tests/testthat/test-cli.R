@@ -10,6 +10,6 @@ describe("Check set of traps are equal in POSICION and MAPSOURCE files", {
   it("Check traps", {
     positions_path <- "/workdir/tests/data/POSICION_XX.xlsx"
     mapsource_path <- "/workdir/tests/data/cutted_mapsource_for_traps.txt"
-    expect_no_error(check_traps(positions_path, mapsource_path))
+    expect_message(check_traps(positions_path, mapsource_path), "💚 La revisión de trampas es correcta 💚")
   })
 })
