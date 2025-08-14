@@ -60,7 +60,13 @@ check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
     stop(glue::glue("🚨 Los IDs {different_ids} en IG_POSICION no están en el mapsource 🚨"))
   }
 }
-
+check_traps_in_positions <- function(activated_traps, inactive_traps) {
+  missing_ids <- get_missing_ids(inactive_traps$ID, activated_traps$ID)
+  if (length(missing_ids) > 0) {
+    different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
+    stop(glue::glue("🚨 Los IDs {different_ids} en mapsource no están en el IG_POSICION 🚨"))
+  }
+}
 
 filter_na_from_Nombre_del_responsable <- function(posicion_trampa) {
   posicion_trampa |>
