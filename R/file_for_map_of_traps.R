@@ -53,6 +53,12 @@ update_activated_traps <- function(inactive_traps, activated_traps) {
   return(active_and_inactive_traps)
 }
 
+double_check_traps <- function(tibble_from_mapsource, tibble_from_position) {
+  check_traps_in_mapsource(tibble_from_position, tibble_from_mapsource)
+  check_traps_in_positions(tibble_from_position, tibble_from_mapsource)
+  message("💚 La revisión de trampas es correcta 💚")
+}
+
 check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
   missing_ids <- get_missing_ids(activated_traps$ID, inactive_traps$ID)
   if (length(missing_ids) > 0) {
