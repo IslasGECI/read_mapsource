@@ -85,6 +85,6 @@ describe("Check traps", {
   it("Error when traps in mapsource are not in positions file", {
     tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
     tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
-    expect_error(check_traps_in_positions(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en mapsource no están en el IG_POSICION 🚨")
+    expect_error(check_traps_in_positions(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en MAPSOURCE no están en el POSICION 🚨")
   })
 })
