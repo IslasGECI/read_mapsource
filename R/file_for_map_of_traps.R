@@ -48,14 +48,14 @@ obtain_inactive_traps_from_clean_position_traps <- function(posicion_trampa) {
 update_activated_traps <- function(inactive_traps, activated_traps) {
   clean_activated_traps <- activated_traps |>
     select(c("ID", "is_active", "date"))
-  check_traps_in_mapsource(inactive_traps, activated_traps)
+  double_check_traps(inactive_traps, activated_traps)
   active_and_inactive_traps <- rows_update(inactive_traps, clean_activated_traps)
   return(active_and_inactive_traps)
 }
 
 double_check_traps <- function(tibble_from_mapsource, tibble_from_position) {
-  check_traps_in_mapsource(tibble_from_position, tibble_from_mapsource)
-  check_traps_in_positions(tibble_from_position, tibble_from_mapsource)
+  check_traps_in_positions(tibble_from_mapsource, tibble_from_position)
+  check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position)
   message("💚 La revisión de trampas es correcta 💚")
 }
 
