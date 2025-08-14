@@ -77,9 +77,14 @@ describe("update_activated_traps", {
 })
 
 describe("Check traps", {
-  it("Error when traps are not in mapsource", {
+  it("Error when traps in positions file are not in mapsource", {
     tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
     tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
     expect_error(check_traps_in_mapsource(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en IG_POSICION no están en el mapsource 🚨")
+  })
+  it("Error when traps in mapsource are not in positions file", {
+    tibble_from_position <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG", "TC-02-139-CR"))
+    tibble_from_mapsource <- tibble::tibble(ID = c("TC-01-001-K9", "TC-01-050-AG"))
+    expect_error(check_traps_in_positions(tibble_from_mapsource, tibble_from_position), "🚨 Los IDs TC-02-139-CR en mapsource no están en el IG_POSICION 🚨")
   })
 })
