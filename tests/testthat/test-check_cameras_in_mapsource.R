@@ -19,6 +19,6 @@ describe("Check cameras", {
     expect_error(double_check(cameras_in_revision_campo, one_listed_cameras_in_mapsource), "🚨 Los IDs CT-99-100-XX en CAMARAS no están en el MAPSOURCE 🚨")
   })
   it("Get error if cameras in mapsource are not in revision_campo", {
-    expect_error(double_check(two_cameras_in_revision_campo, listed_cameras_in_mapsource), "🚨 Los IDs CT-01-001-CF en mapsource no están en el revision_campo 🚨")
+    expect_error(double_check(two_cameras_in_revision_campo, listed_cameras_in_mapsource), "🚨 Los IDs CT-01-001-CF en MAPSOURCE no están en el CAMARAS 🚨")
   })
 })

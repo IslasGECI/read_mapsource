@@ -22,7 +22,7 @@ check_cameras_in_revision_campo <- function(cameras_in_revision_campo, cameras_i
 
 .write_missing_id_in_revision_campo_message <- function(missing_ids) {
   different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
-  glue::glue("🚨 Los IDs {different_ids} en mapsource no están en el revision_campo 🚨")
+  glue::glue("🚨 Los IDs {different_ids} en MAPSOURCE no están en el CAMARAS 🚨")
 }
 
 .write_missing_id_in_mapsource_message <- function(missing_ids) {
