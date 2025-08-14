@@ -54,7 +54,7 @@ update_activated_traps <- function(inactive_traps, activated_traps) {
 }
 
 check_traps_in_mapsource <- function(activated_traps, inactive_traps) {
-  missing_ids <- get_missing_ids_in_mapsource(activated_traps$ID, inactive_traps$ID)
+  missing_ids <- get_missing_ids(activated_traps$ID, inactive_traps$ID)
   if (length(missing_ids) > 0) {
     different_ids <- glue::glue_collapse(missing_ids, ", ", last = " y ")
     stop(glue::glue("🚨 Los IDs {different_ids} en IG_POSICION no están en el mapsource 🚨"))
